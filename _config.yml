@@ -29,7 +29,7 @@ phone_nospaces: 1800123456
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
   - jekyll-assets

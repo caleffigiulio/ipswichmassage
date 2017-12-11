@@ -3,7 +3,7 @@
 This repo includes: 
 * Bootstrap 4 beta 2
 * Font Awesome 4
-* Jekyll assets
+* (Jekyll assets)[https://github.com/envygeeks/jekyll-assets]
 
 ### Getting started
 
