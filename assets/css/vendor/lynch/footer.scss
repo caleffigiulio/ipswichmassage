@@ -1,0 +1,23 @@
+.footer {
+	a {
+		color: white;
+	}
+	.footer-section {
+	    border-bottom: 1px solid #3e4954;
+	    padding: 1.25rem 0;
+	}
+	.social-links {
+		a,i {
+			transition: 0.2s;
+		}
+		a:hover {
+			text-decoration: none;
+			i.fa-circle {
+				color: #FF0083 !important;
+			}
+			i.fa-stack-1x {
+				color: white !important;
+			}
+		}
+	}
+}
