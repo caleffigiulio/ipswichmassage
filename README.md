@@ -2,8 +2,8 @@
 
 This repo includes: 
 * Bootstrap 4 beta 2
-* Font Awesome 4
-* (Jekyll assets)[https://github.com/envygeeks/jekyll-assets]
+* [Font Awesome 4](https://github.com/FortAwesome/Font-Awesome)
+* [Jekyll assets](https://github.com/envygeeks/jekyll-assets)
 
 ### Getting started
 
