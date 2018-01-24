@@ -1,25 +1,41 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<section class="post">
+    <div class="container">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
-  </header>
+          <header class="post-header">
+            <h1 class="post-title display-4 text-center py-4" itemprop="name subtitle">{{ page.title | escape }}</h1>
+            <h4 class="text-dark text-center" itemprop="name subtitle">{{ page.subtitle | escape }}</h1>
+            <p class="post-meta">
+              <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                - {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                {{ page.date | date: date_format }}
+              </time>
+              {% if page.author %}
+                • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+              {% endif %}</p>
+            <br><p class='text-center'>
+            {% if page.link-image %}
+                <img class="img-fluid mh-15" src="{{ page.link-image }}"/>
+            {% elsif page.image %}
+                <img class="img-fluid mh-15" src="{{ page.image }}"/>
+            {% else %}
+            {% endif %}
+        </p>
+          </header>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+          <div class="post-content" itemprop="articleBody">
+            {{ content }}
+          </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
-</article>
+          {% if site.disqus.shortname %}
+            {% include disqus_comments.html %}
+          {% endif %}
+        </article>
+    </div>
+    <div class="py-4">
+        <a href="/blog/"><p class="h4 text-primary text-center"><i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Blog</p></a>
+    </div>
+</section>
