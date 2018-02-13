@@ -1,1 +1,100 @@
 // place your custom site scss here
+
+$icon_colour: #C79532;
+// Custom Logo centered navbar
+
+.navbar{
+    @include media-breakpoint-down(md) {
+        text-align: left !important;
+    }
+}
+#navbar-primary .navbar-nav {
+//  background: #ededed;
+  width: 100%;
+  text-align: center;
+  > li {
+    display: inline-block;
+    float: none;
+    > a {
+      padding-left: 30px;
+      padding-right: 30px;
+    }
+  }
+}
+
+.nav-item {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    @include media-breakpoint-down(md) {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+}
+
+
+//home banner styling for a full page effect
+.home-banner {
+    width: 100vw;
+}
+
+
+//Box grid styling
+.ccd-box-item {
+    padding: 0px;
+    margin: 0px;
+}
+
+.ccd-box-img {
+    width: 100%;
+    padding: 2px;
+}
+
+
+//Section title style
+.ccd-section-title {
+    font-family: 'Playfair Display', serif;
+}
+
+
+//story section styling
+.ccd-story-image {
+    width: 100%;
+    object-fit: fill;
+    @include media-breakpoint-down(md) {
+        display: none;
+    }
+}
+
+
+//Custom Menu styling
+.ccd-menu-item-price {
+	float: right;
+}
+
+//Map styling
+.ccd-map {
+    min-width: 80%;
+    width: auto;
+}
+
+//instafeed styling
+#instafeed {
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+
+  a {
+    position: relative;
+    width: 50%;
+
+    @include media-breakpoint-up(lg) {
+      width: 25%
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

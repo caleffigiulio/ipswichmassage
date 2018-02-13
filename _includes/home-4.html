@@ -1,0 +1,71 @@
+<section class='bg-light'>
+    <div class="py-5">
+        <h1 class='ccd-section-title text-center'>Menu</h1>
+        <div class="container">
+                <h5 class='py-5 text-center'>
+                    Breakfast
+                </h5>
+                <div class="row pb-4">
+                  {% include menu-item.html
+                    title="Toasted Sourdough"
+                    price="$6"
+                    description="with choice of spread : Peanut Butter, Vegemite, or Jam"
+                  %}
+                  {% include menu-item.html
+                    title="Granola with Yogurt"
+                    price="$11"
+                    description=""
+                  %}
+                  {% include menu-item.html
+                    title="Brekky Burger"
+                    price="$12"
+                    description="Brioche Bun, with Bacon, Tomato Relish, Cheese and Egg"
+                  %}
+                </div>
+                <div class="row pb-4">
+                  {% include menu-item.html
+                    title="Ham and Cheese Croissant"
+                    price="$8"
+                    description=""
+                  %}
+                  {% include menu-item.html
+                    title="Poached Eggs"
+                    price="$12"
+                    description="On Rye bread with home made Dukka, add-on: Mushrooms $3, Fetta Cheese $2"
+                  %}
+                  {% include menu-item.html
+                    title="Ham off the Bone, with Gouda Cheese and Mustard toastie"
+                    price="$10"
+                    description="On Sourdough"
+                  %}
+                </div>
+                <div class="row pb-4">
+                  {% include menu-item.html
+                    title="Turmeric mushrooms with avocado and stone ground almonds"
+                    price="$8"
+                    description=""
+                  %}
+                </div>
+                <h5 class='py-5 text-center'>
+                    Drinks
+                </h5>
+                <div class="row pb-4">
+                    {% include menu-item.html
+                    title="Coffee"
+                    price="$4"
+                    description=""
+                    %}
+                    {% include menu-item.html
+                    title="Tea"
+                    price="$4"
+                    description=""
+                    %}
+                    {% include menu-item.html
+                    title="Lemonade"
+                    price="$4"
+                    description=""
+                     %}
+                </div>
+        </div>
+    </div>
+</section>
