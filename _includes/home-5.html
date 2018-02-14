@@ -1,30 +1,11 @@
-<div id="instafeed">
-</div>
-{% assign specialimage = '{{image}}' %}
-{% assign speciallink = '{{link}}' %}
-{% assign specialcaption = '{{caption}}' %}
-{% assign speciallikes = '{{likes}}' %}
-<script type="text/javascript">
-  var userFeed = new Instafeed({
-    //See http://instafeedjs.com/ for formatting
-    get: 'user',
-    userId: '',
-    clientId: 'ebb408ba9eec4790b6ba33a8573023dc',
-    accessToken: '',
-    resolution: 'standard_resolution',
-    sortBy: 'most-recent',
-    limit: 6,
-    template: '<div class=\"col-12 col-lg-4 col-md-4 insta-text card rounded mb-4 md-0\">' +
-                '<div class=\"p-2 bg-light\">' +
-                '<a href=\"{{ speciallink }}\">' +
-                '<img class=\"card-img-top insta-img\" src=\"{{ specialimage }}\">' +
-                '<\/a>' +
-                '<div class=\"card-body pt-2 bg-light text-dark\">' +
-                '<h5 class=\"card-title\">{{ speciallikes }} likes<\/h5>' +
-                '<p class=\"card-text\"><strong id=\"insta-user\">charboys_burgers<\/strong> {{ specialcaption }}<\/p>' +
-                '<\/div>' +
-                '<\/div>' +
-                '<\/div>',
-  });
-  userFeed.run();
-</script>
+
+
+<section id="news">
+    <div class="container py-5">
+		<h2 class="text-center mb-5 ccd-section-title">What's happening</h2>
+		<div class="row">
+            <div id="instafeed">
+            </div>
+        </div>
+    </div>
+<section>

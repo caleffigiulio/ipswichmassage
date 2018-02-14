@@ -1,0 +1,29 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/instafeed.js/1.4.1/instafeed.min.js"></script>
+{% assign specialimage = '{{image}}' %}
+{% assign speciallink = '{{link}}' %}
+{% assign specialcaption = '{{caption}}' %}
+{% assign speciallikes = '{{likes}}' %}
+<script type="text/javascript">
+  var userFeed = new Instafeed({
+    //See http://instafeedjs.com/ for formatting
+    get: 'user',
+    userId: '4349447005',
+    clientId: 'ebb408ba9eec4790b6ba33a8573023dc',
+    accessToken: '4349447005.ebb408b.d1d1af7e8638453db0d189fd6f8627a1',
+    resolution: 'standard_resolution',
+    sortBy: 'most-recent',
+    limit: 6,
+    template: '<div class=\"col-12 col-lg-4 col-md-4 insta-text mb-4 md-0\">' +
+                '<div class=\"\">' +
+                '<a href=\"{{ speciallink }}\">' +
+                '<img class=\"insta-img\" src=\"{{ specialimage }}\">' +
+                '<\/a>' +
+                '<div class=\"pt-2 text-dark\">' +
+                '<h5 class=\"\">{{ speciallikes }} likes<\/h5>' +
+                '<p class=\"\"><strong id=\"insta-user\">colombiancoffeedealer<\/strong> {{ specialcaption }}<\/p>' +
+                '<\/div>' +
+                '<\/div>' +
+                '<\/div>',
+  });
+  userFeed.run();
+</script>

@@ -7,19 +7,37 @@
 
   <div class="collapse navbar-collapse" id="navbarsExampleDefault">
     <ul class="navbar-nav mr-auto mx-auto">
-      <li class="nav-item {% if page.url == "/about/" %}active{% endif %}">
-        <a class="nav-link h4" href="/">About Us</a>
-      </li>
-      <li class="nav-item mr-3 pr-1 {% if page.url == "/menu/" %}active{% endif %}">
-        <a class="nav-link h4" href="#">Menu</a>
-      </li>
-      <a class="navbar-brand d-none d-md-inline" href="/">{% asset 'logo.png' height="110" %}</a>
-      <li class="nav-item {% if page.url == "/news/" %}active{% endif %}">
-        <a class="nav-link h4" href="#">News</a>
-      </li>
-      <li class="nav-item {% if page.url == "/contact/" %}active{% endif %}">
-        <a class="nav-link h4" href="#">Contact Us</a>
-      </li>
+        {% if page.layout == 'home' %}
+          <li class="nav-item {% if page.url == "/about/" %}active{% endif %}">
+            <a class="nav-link h4" href="#about">About Us</a>
+          </li>
+          <li class="nav-item mr-3 pr-1 {% if page.url == "/menu/" %}active{% endif %}">
+            <a class="nav-link h4" href="#menu">Menu</a>
+          </li>
+          <a class="navbar-brand d-none d-md-inline" href="/">{% asset 'logo.png' height="110" %}</a>
+          <li class="nav-item {% if page.url == "/news/" %}active{% endif %}">
+            <a class="nav-link h4" href="/coffeeinfo/">Learn</a>
+          </li>
+          <li class="nav-item {% if page.url == "/contact/" %}active{% endif %}">
+            <a class="nav-link h4" href="#contact">Contact Us</a>
+          </li>
+          {% else %}
+          {% assign url = site.url %}
+          <li class="nav-item {% if page.url == "/about/" %}active{% endif %}">
+            <a class="nav-link h4" href="{{ '/#about' | prepend: url }}t">About Us</a>
+          </li>
+          <li class="nav-item mr-3 pr-1 {% if page.url == "/menu/" %}active{% endif %}">
+            <a class="nav-link h4" href="{{ '/#menu' | prepend: url }}">Menu</a>
+          </li>
+          <a class="navbar-brand d-none d-md-inline" href="/">{% asset 'logo.png' height="110" %}</a>
+          <li class="nav-item {% if page.url == "/news/" %}active{% endif %}">
+            <a class="nav-link h4" href="/coffeeinfo/">Learn</a>
+          </li>
+          <li class="nav-item {% if page.url == "/contact/" %}active{% endif %}">
+            <a class="nav-link h4" href="{{ '/#contact' | prepend: url }}">Contact Us</a>
+          </li>
+          {% endif %}
+
     </ul>
   </div>
 </nav>

@@ -1,15 +1,16 @@
 
-title: AMARO TEMPLATE
-email: support@amaro.com.au
+title: COLOMBIAN COFFEE DEALER
+email: colombiancoffeedealer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write app description here
+  Colombian Coffee Dealer is a food and coffee and Burger Restaurant and Coffee stand in Brisbane Queensland, who produce and make authentic colombian coffee and cuisine.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_link:
+facebook_link: https://www.facebook.com/colombiancoffeedealer/
 twitter_link:
-instagram_link:
-phone: 
-phone_nospaces:
+instagram_link: https://www.instagram.com/colombiancoffeedealer/
+phone: 0426 197 873
+phone_nospaces: 0426197873
+address: 288 Edward Street, Brisbane City, Queensland
 
 # Build settings
 markdown: kramdown
@@ -19,6 +20,8 @@ plugins:
     - jekyll-feed
     - jekyll-assets
 
+assets:
+  compression: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
