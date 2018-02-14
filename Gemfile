@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 #Ruby Version indicator, can be essential for Netlify, as otherwise will build in older version.
-ruby '2.4.3'
+ruby '2.4.2'
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
