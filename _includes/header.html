@@ -1,43 +1,37 @@
-<nav class="navbar navbar-expand-md navbar-light bg-white text-center text-dark">
-    <a class="navbar-brand d-inline d-md-none" href="/">{% asset 'logo.png' height="60" alt="colombian coffee dealer logo" %}</a>
-
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="/">{% asset ipswich-massage-logo.png height=75 %}</a>
+  <button class="navbar-toggler" type="button}" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <ul class="navbar-nav mr-auto">
+      {% assign url = page.url %}
+            {% for page in site.navigation %}
+              {% if page.dropdown == true %}
+                <li class="nav-item dropdown">
+                  <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true">
+                    {{ page.name }}
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    {% for item in page.items %}
+                      <a class="dropdown-item" href="{{ item.url }}">{{ item.name }}</a>
+                    {% endfor %}
+                  </div>
+                </li>
 
-  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-    <ul class="navbar-nav mr-auto mx-auto">
-        {% if page.layout == 'home' %}
-          <li class="nav-item {% if page.url == "/about/" %}active{% endif %}">
-            <a class="nav-link h4" href="#about">About Us</a>
-          </li>
-          <li class="nav-item mr-3 pr-1 {% if page.url == "/menu/" %}active{% endif %}">
-            <a class="nav-link h4" href="#menu">Menu</a>
-          </li>
-          <a class="navbar-brand d-none d-md-inline" href="/">{% asset 'logo.png' height="110" alt="colombian coffee dealer logo" %}</a>
-          <li class="nav-item {% if page.url == "/news/" %}active{% endif %}">
-            <a class="nav-link h4" href="/coffeeinfo/">Learn</a>
-          </li>
-          <li class="nav-item {% if page.url == "/contact/" %}active{% endif %}">
-            <a class="nav-link h4" href="#contact">Contact Us</a>
-          </li>
-          {% else %}
-          {% assign url = site.url %}
-          <li class="nav-item {% if page.url == "/about/" %}active{% endif %}">
-            <a class="nav-link h4" href="{{ '/#about' | prepend: url }}t">About Us</a>
-          </li>
-          <li class="nav-item mr-3 pr-1 {% if page.url == "/menu/" %}active{% endif %}">
-            <a class="nav-link h4" href="{{ '/#menu' | prepend: url }}">Menu</a>
-          </li>
-          <a class="navbar-brand d-none d-md-inline" href="/">{% asset 'logo.png' height="110" alt="colombian coffee dealer logo" %}</a>
-          <li class="nav-item {% if page.url == "/news/" %}active{% endif %}">
-            <a class="nav-link h4" href="/coffeeinfo/">Learn</a>
-          </li>
-          <li class="nav-item {% if page.url == "/contact/" %}active{% endif %}">
-            <a class="nav-link h4" href="{{ '/#contact' | prepend: url }}">Contact Us</a>
-          </li>
-          {% endif %}
+              {% else %}
 
+                <li {% if url == page.url %} class="nav-item active"{% else %} class="nav-item"{% endif %} >
+                  <a href="{{ page.url }}" class="nav-link">{{ page.name }}</a>
+                </li>
+
+              {% endif %}
+            {% endfor %}
     </ul>
+    <span class="navbar-text d-none d-md-inline">
+      <p><i class="fas fa-phone"></i> 3281 6007</p>
+      <p><i class="fas fa-envelope"></i> enquiry@ipswichmassage.com</p>
+      <p><i class="fas fa-map-signs"></i> Address</p>
+    </span>
   </div>
 </nav>

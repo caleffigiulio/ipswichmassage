@@ -1,7 +1,15 @@
 // place your custom site scss here
 
 $icon_colour: #C79532;
+$jade_green: #c9ded4;
 // Custom Logo centered navbar
+body {
+  font-size: 100%;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: $jade_green;
+}
 
 .navbar{
     @include media-breakpoint-down(md) {
@@ -24,11 +32,25 @@ $icon_colour: #C79532;
 
 .nav-item {
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 42px;
     @include media-breakpoint-down(md) {
         padding-top: 5px;
         padding-bottom: 5px;
     }
+    > .nav-link:hover {
+        color: $jade_green !important;
+        border-bottom: 2px $jade_green solid !important;
+    }
+}
+.nav-item:hover {
+      padding-bottom: 40px;
+}
+
+.navbar-text {
+  > p {
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+  }
 }
 
 
@@ -51,10 +73,9 @@ $icon_colour: #C79532;
 
 
 //Section title style
-.ccd-section-title {
-    font-family: 'Playfair Display', serif;
+.ims-section-title {
+    font-family: 'Nanum Myeongjo', serif;
 }
-
 
 //story section styling
 .ccd-story-image {
@@ -98,7 +119,6 @@ $icon_colour: #C79532;
     }
   }
 }
-
 .insta-text {
 	font-family: 'Helvetica Neue',sans-serif;
 }
@@ -113,4 +133,18 @@ $icon_colour: #C79532;
 .ccd-info-img {
     max-width: 300px;
     height: auto;
+}
+
+//blog
+.blog-image {
+	width: 100%;
+	height: auto;
+}
+.blog-section {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+.blog-container {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
 }

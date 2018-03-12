@@ -1,16 +1,16 @@
 
-title: COLOMBIAN COFFEE DEALER
-email: colombiancoffeedealer@gmail.com
+title: Ipswich Massage And Herbal Spa
+email: enquiry@ipswichmassage.com.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Colombian Coffee Dealer is a food and coffee and Burger Restaurant and Coffee stand in Brisbane Queensland, who produce and make authentic colombian coffee and cuisine.
+  Ipswich Massage and Herbal Spa is a natural therapy studio based in Ipswich Queensland which offers therapeutic treatments for your health, wellbeing and beauty
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_link: https://www.facebook.com/colombiancoffeedealer/
+facebook_link:
 twitter_link:
-instagram_link: https://www.instagram.com/colombiancoffeedealer/
-phone: 0426 197 873
+instagram_link:
+phone: 0412 345 678
 phone_nospaces: 0426197873
-address: 288 Edward Street, Brisbane City, Queensland
+address:
 
 # Build settings
 markdown: kramdown
@@ -34,3 +34,28 @@ assets:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+navigation:
+- name: Home
+  url: /
+- name: About Us
+  url: /about/
+- name: Schedule
+  url: /therapy-and-classes-schedule/
+- name: Therapies
+  dropdown: true
+  items:
+  - name: 'Osteopathy'
+    url: '/osteopathy-therapy-information/'
+- name: Blog
+  url: /ipswich-massage-herbal-spa-blog/
+- name: Shop
+  url: /
+- name: Gift Vouchers
+  url: /
+- name: Our App
+  url: /
+- name: Package Specials
+  url: /
+- name: Contact Us
+  url: /contact/
