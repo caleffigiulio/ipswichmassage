@@ -197,3 +197,27 @@ body {
 .team-member {
   padding: 2rem;
 }
+
+.footer {
+	a {
+		color: black;
+	}
+	.footer-section {
+	    border-bottom: 1px solid #3e4954;
+	    padding: 1.25rem 0;
+	}
+	.social-links {
+		a,i {
+			transition: 0.2s;
+		}
+		a:hover {
+			text-decoration: none;
+			i.fa-circle {
+				color: $jade_green !important;
+			}
+			i.fa-stack-1x {
+				color: white !important;
+			}
+		}
+	}
+}
