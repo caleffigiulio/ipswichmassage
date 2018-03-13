@@ -8,18 +8,10 @@
       	<div class="col-12 col-md-3 col-lg-4">
         	<h3 class="h5">{{ site.title }}</h3>
 	        <ul class="list-unstyled info-list m-sm-0">
-                {% if page.layout == 'home' %}
-                      <li><a href="#About Us">About Us</a></li>
-                      <li><a href="#Menu">Menu</a></li>
-                      <li><a href="/coffeeinfo/">Learn About Colombian Coffee</a></li>
-                      <li><a href="#contact">Contact Us</a></li>
-                  {% endif %}
-                  {% if page.layout != 'home' %}
-                      <li><a href="{{ '#about' | prepend: site.url }}">About Us</a></li>
-                      <li><a href="{{ '#menu' | prepend: site.url }}">Menu</a></li>
-                      <li><a href="{{ '/coffeeinfo/' | prepend: site.url }}">Learn About Colombian Coffee</a></li>
-                      <li><a href="{{ '#contact' | prepend: site.url }}">Contact Us</a></li>
-                  {% endif %}
+                      <li><a href="#">About Us</a></li>
+                      <li><a href="#">Book</a></li>
+                      <li><a href="#">Our Therapies</a></li>
+                      <li><a href="#">Contact Us</a></li>
 	        </ul>
       	</div>
         <div class="col-12 col-md-6 col-lg-6">
