@@ -1,10 +1,10 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-light pr-lg-0 pb-0 pt-0">
   <a class="navbar-brand" href="/">{% asset ipswich-massage-logo.png height=75 %}</a>
   <button class="navbar-toggler" type="button}" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarText">
-    <ul class="navbar-nav mr-auto">
+    <ul class="navbar-nav mr-auto align-middle">
       {% assign url = page.url %}
             {% for page in site.navigation %}
               {% if page.dropdown == true %}
@@ -28,10 +28,10 @@
               {% endif %}
             {% endfor %}
     </ul>
-    <span class="navbar-text d-none d-md-inline">
-      <p><i class="fas fa-phone"></i> 3281 6007</p>
-      <p><i class="fas fa-envelope"></i> enquiry@ipswichmassage.com</p>
-      <p><i class="fas fa-map-signs"></i> Address</p>
+    <span class="navbar-text d-none d-lg-inline bg-primary p-3 text-dark">
+      <p><i class="fa fa-phone pr-3"></i>{{site.phone}}</p>
+      <p><i class="fa fa-envelope pr-3"></i>{{site.email}}</p>
+      <p><i class="fa fa-map-signs pr-3"></i>{{site.address}}</p>
     </span>
   </div>
 </nav>

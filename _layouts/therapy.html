@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<section>
+    {% asset 'banner3.jpg' class='home-banner mx-auto' alt='Home Banner' %}
+        <div class='container text-center py-4'>
+            <div class='row pt-4'>
+                {% asset 'icons/therapy.svg' height='50' width='50' class='mx-auto' alt='Lotus Flower Icon' %}
+            </div>
+            <h2 class='ims-section-title pt-4'>{{ page.title }}</h2>
+            <div class='container py-4'>
+                {{ content }}
+            </div>
+        </div>
+</section>

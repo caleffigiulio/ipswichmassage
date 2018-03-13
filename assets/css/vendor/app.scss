@@ -10,6 +10,9 @@ body {
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: $jade_green;
 }
+.bg-primary {
+  background-color: $jade_green !important;
+}
 
 .navbar{
     @include media-breakpoint-down(md) {
@@ -30,20 +33,24 @@ body {
   }
 }
 
+//Custom navbar styling that create a jade grene hover and underline effect on large screens
 .nav-item {
-    padding-top: 40px;
-    padding-bottom: 42px;
+    padding-bottom: 2px;
     @include media-breakpoint-down(md) {
         padding-top: 5px;
         padding-bottom: 5px;
     }
     > .nav-link:hover {
         color: $jade_green !important;
-        border-bottom: 2px $jade_green solid !important;
+        @include media-breakpoint-up(lg) {
+          border-bottom: 2px $jade_green solid !important;
+        }
     }
 }
 .nav-item:hover {
-      padding-bottom: 40px;
+  @include media-breakpoint-up(lg) {
+    padding-bottom: 0px;
+  }
 }
 
 .navbar-text {
@@ -64,13 +71,42 @@ body {
 .ccd-box-item {
     padding: 0px;
     margin: 0px;
+    position: relative;
+    background-color: $jade_green
+}
+.ccd-box-item:hover .ccd-box-img {
+  opacity: 0.3;
+}
+
+.ccd-box-item:hover .box-middle {
+  opacity: 1;
+}
+.box-text {
+  background-color: $jade_green;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
 }
 
 .ccd-box-img {
     width: 100%;
-    padding: 2px;
+    border: 2px solid white;
+    opacity: 1;
+    display: block;
+    transition: .5s ease;
+    backface-visibility: hidden;
 }
 
+.box-middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
 
 //Section title style
 .ims-section-title {
@@ -147,4 +183,17 @@ body {
 .blog-container {
 	margin-left: 0 !important;
 	margin-right: 0 !important;
+}
+
+.bg-about-split {
+  background-color: $jade_green;
+}
+
+.award-box {
+    box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
+
+}
+
+.team-member {
+  padding: 2rem;
 }

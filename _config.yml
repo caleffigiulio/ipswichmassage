@@ -10,7 +10,7 @@ twitter_link:
 instagram_link:
 phone: 0412 345 678
 phone_nospaces: 0426197873
-address:
+address: 123 Ipswich Road, Ipswich
 
 # Build settings
 markdown: kramdown
@@ -39,7 +39,7 @@ navigation:
 - name: Home
   url: /
 - name: About Us
-  url: /about/
+  url: /Learn-About-Ipswich-Massage/
 - name: Schedule
   url: /therapy-and-classes-schedule/
 - name: Therapies
@@ -47,15 +47,25 @@ navigation:
   items:
   - name: 'Osteopathy'
     url: '/osteopathy-therapy-information/'
+  - name: 'Acupuncture & Chinese Medicine'
+    url: '/Acupuncture-and-chinese-medicine/'
+  - name: 'Massage Therapy'
+    url: '/massage-therapy/'
+  - name: 'Beauty therapy'
+    url: '/Beauty-therapy/'
+  - name: 'Corporate Massage'
+    url: '/corporate-massage/'
+  - name: 'Spa Therapy'
+    url: '/spa-therapy/'
 - name: Blog
   url: /ipswich-massage-herbal-spa-blog/
 - name: Shop
-  url: /
+  url: /ipswich-massage-products/
 - name: Gift Vouchers
-  url: /
+  url: /gift-vouchers/
 - name: Our App
-  url: /
+  url: /ipswich-massage-mobile-app/
 - name: Package Specials
-  url: /
+  url: /package-specials/
 - name: Contact Us
-  url: /contact/
+  url: /contact-and-map/
