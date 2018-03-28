@@ -6,6 +6,9 @@ $jade_green: #c9ded4;
 body {
   font-size: 100%;
   font-family: 'Nanum Gothic', sans-serif;
+  a {
+    color: #33a06d;
+  }
 }
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: $jade_green;
@@ -32,7 +35,9 @@ body {
     }
   }
 }
-
+.jade-green {
+  color: $jade_green;
+}
 //Custom navbar styling that create a jade grene hover and underline effect on large screens
 .nav-item {
     padding-bottom: 2px;
@@ -72,26 +77,24 @@ body {
     padding: 0px;
     margin: 0px;
     position: relative;
-    background-color: $jade_green
+    background-color: $jade_green;
 }
 .ccd-box-item:hover .ccd-box-img {
-  opacity: 0.3;
+  opacity: 0.2;
 }
 
 .ccd-box-item:hover .box-middle {
   opacity: 1;
 }
 .box-text {
-  background-color: $jade_green;
-  color: white;
-  font-size: 16px;
+  color: #fff;
   padding: 16px 32px;
 }
 
 .ccd-box-img {
     width: 100%;
     border: 2px solid white;
-    opacity: 1;
+    opacity: 0.4;
     display: block;
     transition: .5s ease;
     backface-visibility: hidden;
@@ -99,7 +102,7 @@ body {
 
 .box-middle {
   transition: .5s ease;
-  opacity: 0;
+  opacity: 1;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -163,10 +166,6 @@ body {
 	font-family: 'Helvetica Neue',sans-serif;
 	font-style: bold;
 	font-weight: 900;
-}
-
-.insta-img {
-  
 }
 
 //coffe info styling

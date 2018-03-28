@@ -16,3 +16,9 @@ Initial consultation / $90
 Subsequent consultation / $80
 
 This is a medicare registered treatment. Please contact us for further details – 3281 6007.
+
+<div class='container bg-light my-4 p-4'>
+<script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
+
+<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3644048a4" data-widget-version="0"></healcode-widget>
+</div>

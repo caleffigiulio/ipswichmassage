@@ -1,9 +1,9 @@
 <section class='bg-light'>
     <div class='container text-center py-4'>
-        <div class='row pt-4'>
+        <div class='row'>
             {% asset 'icons/lotus.svg' height='50' width='50' class='mx-auto' alt='Lotus Flower Icon' %}
         </div>
-        <h2 class='ims-section-title pt-4'>YOUR WELLBEING EXPERTS</h2>
+        <h2 class='ims-section-title'>YOUR WELLBEING EXPERTS</h2>
         <div class='container py-4'>
             <div class='col-12 copl-md-8 col-lg-8>'>
                 <p> Philosophy at Ipswich Massage and Herbal Spa follows a healthy living philosophy that takes its inspiration from nature.</p>
@@ -11,9 +11,26 @@
                 <p>We embrace lifelong learning and development, our company never wanting to be everything to everybody, but instead offering only the very best to an exacting few.</p>
             </div>
         </div>
-        <button type="button" class="btn btn-primary btn-lg btn-outline-light">See our Therapies</button>
     </div>
-    <div class='container py-4'>
+    <section class="fdb-block bg-white">
+    <div class="container py-4">
+                    <h2 class='ims-section-title text-center'>Are you new to Ipswich Massage?</h2>
+      <div class="row justify-content-center">
+        <div class="col-12 col-md-8 text-center">
+          <p class="text-h3">
+           <strong> Receive 10% off your first visit by getting in contact with us through the button below</strong>
+          </p>
+
+          <p class="">
+            <a href="/first-visit-signup/"><button type="#" class="btn btn-primary btn-outline-light">Get in contact</button></a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class='py-4'>
+    <h2 class='ims-section-title text-center pb-4'>See our Therapies</h2>
+    <div class='container'>
         <div class='row'>
             {% include box.html
                 image="therapies/osteopathy.png"
@@ -45,4 +62,6 @@
                 link='/Beauty-therapy/'
             %}
         </div>
+      </div>
+    </div>
 </section>

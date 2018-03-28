@@ -5,9 +5,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ipswich Massage and Herbal Spa is a natural therapy studio based in Ipswich Queensland which offers therapeutic treatments for your health, wellbeing and beauty
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_link:
+facebook_link: https://www.facebook.com/ipswichmassage/
 twitter_link:
-instagram_link:
+instagram_link: https://www.instagram.com/ipswichmassagecentre/
 phone: 0412 345 678
 phone_nospaces: 0426197873
 address: 123 Ipswich Road, Ipswich
@@ -34,38 +34,3 @@ assets:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-navigation:
-- name: Home
-  url: /
-- name: About Us
-  url: /Learn-About-Ipswich-Massage/
-- name: Schedule
-  url: /therapy-and-classes-schedule/
-- name: Therapies
-  dropdown: true
-  items:
-  - name: 'Osteopathy'
-    url: '/osteopathy-therapy-information/'
-  - name: 'Acupuncture & Chinese Medicine'
-    url: '/Acupuncture-and-chinese-medicine/'
-  - name: 'Massage Therapy'
-    url: '/massage-therapy/'
-  - name: 'Beauty therapy'
-    url: '/Beauty-therapy/'
-  - name: 'Corporate Massage'
-    url: '/corporate-massage/'
-  - name: 'Spa Therapy'
-    url: '/spa-therapy/'
-- name: Blog
-  url: /ipswich-massage-herbal-spa-blog/
-- name: Shop
-  url: /ipswich-massage-products/
-- name: Gift Vouchers
-  url: /gift-vouchers/
-- name: Our App
-  url: /ipswich-massage-mobile-app/
-- name: Package Specials
-  url: /package-specials/
-- name: Contact Us
-  url: /contact-and-map/

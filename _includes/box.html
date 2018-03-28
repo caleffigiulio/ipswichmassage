@@ -1,6 +1,7 @@
 <div class='col-4 ccd-box-item'>
-    {% asset '{{include.image}}' class='ccd-box-img' alt='box image' %}
+   <a href='{{include.link}}'> {% asset '{{include.image}}' class='ccd-box-img' alt='box image' %}
     <div class="box-middle">
-      <a href='{{include.link}}'><button type="button" class="btn btn-primary btn-lg btn-outline-light box-text">{{include.text}}</button></a>
+      <h3 class='box-text'>{{include.text}}</h3>
     </div>
+    </a>
 </div>
