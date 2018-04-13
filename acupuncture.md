@@ -21,6 +21,6 @@ Childrens’ health issues
 Initial consultation approximately 60min / $92
 Subsequent visits $72 approximately 60mins
 
-<div class='container bg-light my-4 p-4'>
+<div class='container big-small bg-light my-4 p-4'>
   <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3639448a4" data-widget-version="0"></healcode-widget>
 </div>

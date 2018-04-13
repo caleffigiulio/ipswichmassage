@@ -28,17 +28,15 @@ navigation:
   dropdown: true
   items:
   - name: Shop
-    url: /ipswich-massage-products/
+    url: https://clients.mindbodyonline.com/Pages/OnlineStore.aspx?studioid=23881&partnerID=0&catid=
   - name: Gift Vouchers
-    url: /gift-vouchers/
+    url: https://clients.mindbodyonline.com/asp/main_shop.asp?pMode=2&tabID=3
   - name: Our App
-    url: /ipswich-massage-mobile-app/
+    url: http://get.mndbdy.ly/s1ud/sEYHLCmj7s
   - name: Package Specials
-    url: /package-specials/
+    url: https://clients.mindbodyonline.com/asp/main_shop.asp?pMode=0&tabID=3
   - name: Blog
     url: /ipswich-massage-herbal-spa-blog/
-# - name: Register
-#   url: /register-to-our-studio/
 - name: Book Now
   url: /book-a-therapy-session/
 - name: Contact Us

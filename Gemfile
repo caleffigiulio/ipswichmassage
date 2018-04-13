@@ -23,6 +23,7 @@ group :jekyll_plugins do
     gem 'uglifier'
     gem "bootstrap", '~> 4.0.0.beta2.1'
     gem 'jekyll-sitemap'
+    gem 'font-awesome-sass', '~> 5.0.9'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

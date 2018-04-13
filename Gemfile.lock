@@ -21,6 +21,8 @@ GEM
       forwardable-extended (~> 2.5)
     fastimage (2.1.1)
     ffi (1.9.21)
+    font-awesome-sass (5.0.9)
+      sass (>= 3.2)
     forwardable-extended (2.6.0)
     i18n (0.9.4)
       concurrent-ruby (~> 1.0)
@@ -111,6 +113,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap (~> 4.0.0.beta2.1)
+  font-awesome-sass (~> 5.0.9)
   jekyll (~> 3.6.2)
   jekyll-assets
   jekyll-feed (~> 0.6)
@@ -121,7 +124,7 @@ DEPENDENCIES
   uglifier
 
 RUBY VERSION
-   ruby 2.4.2p198
+   ruby 2.4.3p205
 
 BUNDLED WITH
    1.16.1
