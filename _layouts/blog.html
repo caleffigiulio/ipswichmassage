@@ -12,32 +12,32 @@ layout: default
       {% for post in site.posts %}
       <div class="container blog-container col-12 col-md-6 col-lg-4 p-4">
         {% if post.article_link %}
-            <a class="text-dark" href="{{ post.article_link }}">
-        {% else %}
-            <a class="text-dark" href="{{ post.url | relative_url }}">
-        {% endif %}
+          <a class="text-dark" href="{{ post.article_link }}">
+       {% else %}
+          <a class="text-dark" href="{{ post.url | relative_url }}">
+      {% endif %}
 
-        <div class='card2 text-center'>
-                    {% if post.link-image %}
-                        <img class="card-img-top  img-fluid" src="{{ post.link-image }}"/>
-                    {% elsif post.image %}
-                        <img class="card-img-top  img-fluid" src="{{ post.image }}"/>
-                    {% else %}
-                        <img class="card-img-top  img-fluid" src="{{ "/assets/img/banner2.jpg" | absolute_url }}"/>
-                    {% endif %}
+            <div class='card2 text-center'>
+              {% if post.link-image %}
+              <img class="card-img-top  img-fluid" src="{{ post.link-image }}"/>
+              {% elsif post.image %}
+              <img class="card-img-top  img-fluid" src="{{ post.image }}"/>
+              {% else %}
+              <img class="card-img-top  img-fluid" src="{{ "/assets/img/banner2.jpg" | absolute_url }}"/>
+              {% endif %}
 
-                    <div class="card-body text-left">
-                        <h2 class="card-title">{{ post.title | escape }}</h2>
-                        <p class="card-text">{{ post.headline }}</p>
-                        <hr>
-                        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                        <span class="post-meta">{{ post.date | date: date_format }}</span>
-                    </div>
-                </a>
+              <div class="card-body text-left">
+                <h2 class="card-title">{{ post.title | escape }}</h2>
+                <p class="card-text">{{ post.headline }}</p>
+                <hr>
+                {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+              </div>
+            </a>
+          </div>
         </div>
-    </div>
-      {% endfor %}
-  </div>
+        {% endfor %}
+      </div>
 
+    </div>
   </div>
-</div>
