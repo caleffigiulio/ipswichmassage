@@ -1,36 +1,28 @@
-
+---
 title: Ipswich Massage And Herbal Spa
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: enquiry@ipswichmassage.com.au
-description: >- # this means to ignore newlines until "baseurl:"
-  Ipswich Massage and Herbal Spa is a natural therapy studio based in Ipswich Queensland which offers therapeutic treatments for your health, wellbeing and beauty
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: Ipswich Massage and Herbal Spa is a natural therapy studio based in Ipswich
+  Queensland which offers therapeutic treatments for your health, wellbeing and beauty
+baseurl: ''
+url: ''
 facebook_link: https://www.facebook.com/ipswichmassage/
-twitter_link:
+twitter_link: 
 instagram_link: https://www.instagram.com/ipswichmassagecentre/
 phone: 0412 345 678
-phone_nospaces: 0426197873
+phone_nospaces: '0426197873'
 address: 196 Brisbane Street, Ipswich
-
-# Build settings
 markdown: kramdown
-#theme: minima
 plugins:
-    - jekyll-pug
-    - jekyll-feed
-    - jekyll-assets
-
+- jekyll-pug
+- jekyll-feed
+- jekyll-assets
 assets:
   compression: true
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

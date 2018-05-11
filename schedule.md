@@ -1,8 +1,9 @@
 ---
-layout: webtool
 title: Our Classes and Therapy, this is a Test Widget
-permalink: /therapy-and-classes-schedule/
+permalink: "/therapy-and-classes-schedule/"
+layout: webtool
 ---
+
 <div class='container'>
   <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
 

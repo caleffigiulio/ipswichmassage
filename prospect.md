@@ -1,8 +1,9 @@
 ---
-layout: webtool
 title: First Visitors Sign up
-permalink: /first-visit-signup/
+permalink: "/first-visit-signup/"
+layout: webtool
 ---
+
 <div class='container bg-light my-4 p-4'>
 
  <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
