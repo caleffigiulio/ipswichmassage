@@ -39,3 +39,20 @@ $('a[href*="#"]')
       }
     }
   });
+
+  $(document).ready(function() {
+    var elem = $('#scrollBox');
+    distance = elem.childWidth();
+    $('#box-before').onClick(
+      function() {
+        elem.animate({scrollLeft: -distance}, 1000),
+        console.log('complete')
+      } 
+    );
+    $('#box-after').onClick(
+      function() {
+        elem.animate({scrollLeft: distance}, 1000),
+        console.log('complete')
+      } 
+    );
+  });
