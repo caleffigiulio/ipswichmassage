@@ -1,8 +1,9 @@
 ---
-layout: webtool
 title: Register
-permalink: /register-to-our-studio/
+permalink: "/register-to-our-studio/"
+layout: webtool
 ---
+
 <div class='container bg-light my-4 p-4'>
 
   <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>

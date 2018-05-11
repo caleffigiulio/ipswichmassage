@@ -1,8 +1,9 @@
 ---
-layout: therapy
 title: Acupuncture and Chinese Medicine
-permalink: /Acupuncture-and-chinese-medicine/
+permalink: "/Acupuncture-and-chinese-medicine/"
+layout: therapy
 ---
+
 Acupuncture involves the insertion of fine pins into specific acu-points to harmonise the flow of qi (vital energy) in the body. Other non-insertion techniques like moxibustion, cupping, or acupressure may be used alone or in conjunction with the acupuncture treatment.
 
 Some conditions which may respond well to acupuncture include:

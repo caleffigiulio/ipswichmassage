@@ -1,7 +1,7 @@
 ---
-layout: therapy
 title: Beauty Therapy
-permalink: /Beauty-therapy/
+permalink: "/Beauty-therapy/"
+layout: therapy
 ---
 
 <div class='container bg-light my-4 p-4'>
