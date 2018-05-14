@@ -1,8 +1,9 @@
 ---
-layout: therapy
 title: Cool Peel Package
-permalink: /cool-peel-package/
+permalink: "/cool-peel-package/"
+layout: therapy
 ---
+
 The Cool Peel treatment is designed to address problem skin, helping to clear the complexion and calm inflammation, achieving incredible results without damage to the skin. ... Low strength lactic acid is used to reduce the skin's PH and trigger the release of growth factors, which creates tighter, smoother skin.  Highly recommended during winter.     Suitable for
 All skin types
 Particularly good for oily, acne or rosacea
