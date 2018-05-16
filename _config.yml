@@ -17,7 +17,7 @@ facebook_link: https://www.facebook.com/ipswichmassage/
 twitter_link: 
 instagram_link: https://www.instagram.com/ipswichmassagecentre/
 phone: 07 3281 6007
-phone_nospaces: 0732816007
+phone_nospaces: '0732816007'
 address: 196 Brisbane Street, Ipswich
 markdown: kramdown
 plugins:
