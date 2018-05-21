@@ -3,6 +3,7 @@ title: Beauty Therapy
 permalink: "/Beauty-therapy/"
 layout: therapy
 ---
+
 Waxing starts at $12
 
 <div class='container bg-light my-4 p-4'>

@@ -3,6 +3,7 @@ title: Spa Therapy
 permalink: "/spa-therapy/"
 layout: therapy
 ---
+
 #### Add a relaxing herbal spa bath treatment to any service to fully enjoy the moment
 
 <div class='container bg-light my-4 p-4'>
