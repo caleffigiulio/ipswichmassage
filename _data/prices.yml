@@ -1,225 +1,323 @@
-accupuncture:
-  - name: Acupuncture - Chinese Cupping 30min
-    price: 47.00
-  - name: Chinese Cupping 60min
-    price: 75.00
-  - name: Initial consultation
-    price: 92.00
-  - name: subsequent visit
-    price: 72.00
-  - name: Acupuncture + Massage Combo
-    price: 75.00
-  - name: Acupuncture+ Massage Combo 60min
-    price: 75.00
-  - name: 
-    price:
-
-waxing:
-  - name: 3/4 Leg Wax
-    price: 40.00
-  - name: Advanced Super Facial
-    price: 136.37
-  - name: Back Wax
-    price: 46.00
-  - name: Bikini Wax
-    price: 22.00
-  - name: Chest Wax
-    price: 46.00
-  - name: Ear Wax
-    price: 10.00
-  - name: Eyebrow Sculpt
-    price: 18.50
-  - name: Eyebrow Tinting
-    price: 14.00
-  - name: Eyebrow Wax
-    price: 18.50
-  - name: Eyelash Tinting
-    price: 14.00
-  - name: Full Arm Wax
-    price: 40.00
-  - name: Full Leg Wax
-    price: 47.00
-  - name: Full Leg Wax Incl Bikini
-    price: 62.00
-  - name: G-String Wax
-    price: 46.00
-  - name: Half Leg Wax
-    price: 35.00
-  - name: Lip and Chin Wax
-    price: 25.00
-  - name: Lip or Chin Wax
-    price: 11.00
-  - name: Shoulder Wax
-    price: 12.00
-  - name: Stomach Line Wax
-    price: 7.00
-  - name: Stomach Wax
-    price: 46.00
-  - name: Toe Wax
-    price: 7.00 
-  - name: Underarm Wax
-    price: 22.00
-  - name: Beautiful Eyes Package
-    price: 33.63
-
-facial:
-  - name: Deep Cleansing Facial
-    price: 80.00
-  - name: DF Infused Eye Lift Treatment
-    price: 50.00
-  - name: Express Facial
-    price: 51.81
-  - name: Millia / Blackhead Extractions
-    price: 35.00
-  - name: Radiance Facial
-    price: 80.00
-  - name: Express Facial 30min
-    price: 44.55
-
-body:
-  - name: Back Scrub
-    price: 22.00
-  - name: Body Scrub 30min
-    price: 47.00
-  - name: Cool Peel Treatment
+--- 
+accupuncture: 
+  - 
+    name: "Acupuncture - Chinese Cupping 30min"
+    price: 47.0
+  - 
+    name: "Chinese Cupping 60min"
+    price: 75.0
+  - 
+    name: "Initial consultation"
+    price: 92.0
+  - 
+    name: "subsequent visit"
+    price: 72.0
+  - 
+    name: "Acupuncture + Massage Combo"
+    price: 75.0
+  - 
+    name: "Acupuncture+ Massage Combo 60min"
+    price: 75.0
+body: 
+  - 
+    name: "Back Scrub"
+    price: 22.0
+  - 
+    name: "Body Scrub 30min"
+    price: 47.0
+  - 
+    name: "Cool Peel Treatment"
     price: 113.63
-  - name: Environ Hand & Foot Treatment
-    price: 35.00
-  - name: Foot Spa
+  - 
+    name: "Environ Hand & Foot Treatment"
+    price: 35.0
+  - 
+    name: "Foot Spa"
     price: 20.91
-  - name: Infrared Body Wrap 60min
+  - 
+    name: "Infrared Body Wrap 60min"
     price: 31.81
-  - name: Make Me Over Package
-    price: 99.00
-  - name: Mini me - Total Relaxation
-    price: 80.00
-  - name: Skin So Smooth Package
-    price: 70.00
-  - name: Seasonal Body Wrap
-    price: 104.50
-  - name: Total Body Package
-    price: 150.00
-  - name: Total Relaxation Package
-    price: 150.00
-
-massage:
-  - name: Corporate massage 2hrs
-    price: 180.00
-  - name: Corporate Massage 60 min
-    price: 90.00
-  - name: Aromatherapy 45min
-    price: 57.00
-  - name: Aromatherapy 30 Min
-    price: 47.00
-  - name: Aromatherapy 60 Min
-    price: 75.00
-  - name: Aromatherapy 90 Min
-    price: 107.00
-  - name: Hawaiian Lomi Lomi - 60 Minutes
-    price: 75.00
-  - name: Hawaiian Lomi Lomi 90min
+  - 
+    name: "Make Me Over Package"
+    price: 99.0
+  - 
+    name: "Mini me - Total Relaxation"
+    price: 80.0
+  - 
+    name: "Skin So Smooth Package"
+    price: 70.0
+  - 
+    name: "Seasonal Body Wrap"
+    price: 104.5
+  - 
+    name: "Total Body Package"
+    price: 150.0
+  - 
+    name: "Total Relaxation Package"
+    price: 150.0
+facial: 
+  - 
+    name: "Deep Cleansing Facial"
+    price: 80.0
+  - 
+    name: "DF Infused Eye Lift Treatment"
+    price: 50.0
+  - 
+    name: "Express Facial"
+    price: 51.81
+  - 
+    name: "Millia / Blackhead Extractions"
+    price: 35.0
+  - 
+    name: "Radiance Facial"
+    price: 80.0
+  - 
+    name: "Express Facial 30min"
+    price: 44.55
+massage: 
+  - 
+    name: "Corporate massage 2hrs"
+    price: 180.0
+  - 
+    name: "Corporate Massage 60 min"
+    price: 90.0
+  - 
+    name: "Aromatherapy 45min"
+    price: 57.0
+  - 
+    name: "Aromatherapy 30 Min"
+    price: 47.0
+  - 
+    name: "Aromatherapy 60 Min"
+    price: 75.0
+  - 
+    name: "Aromatherapy 90 Min"
+    price: 107.0
+  - 
+    name: "Hawaiian Lomi Lomi - 60 Minutes"
+    price: 75.0
+  - 
+    name: "Hawaiian Lomi Lomi 90min"
     price: 106.82
-  - name: Hot Stone 60 Minutes
-    price: 75.00
-  - name: Hot Stone 90 Minutes
-    price: 107.00
-  - name: Hot Stone 45 Minutes
-    price: 57.00
-  - name: Hot Stone 30 Minutes
-    price: 47.00
-  - name: Indian Head Massage 45 minutes
-    price: 57.00
-  - name: Indian Head Massage add on
-    price: 12.50
-  - name: Chinese Cupping 60 mins
-    price: 75.00
-  - name: Chinese Cupping 30 min
-    price: 47.00
-  - name: Chinese Cupping 90 mins
-    price: 107.00
-  - name: Couples Massage - 30 Minutes
-    price: 47.00
-  - name: Couples Massage - 60 Minutes
-    price: 75.00
-  - name: Couples Massage - 90 Minutes
-    price: 107.00
-  - name: Couples Massage - 45 Minutes
-    price: 57.00
-  - name: Couples Massage - 120 Minutes
-    price: 150.00
-  - name: Deep Tissue / Remedial - 120 mins
-    price: 150.00
-  - name: Deep Tissue / Remedial - 45 mins
-    price: 57.00
-  - name: Deep Tissue / Remedial - 60 mins
-    price: 75.00
-  - name: Deep Tissue / Remedial - 30 mins
-    price: 45.00
-  - name: Deep Tissue / Remedial - 90 mins
-    price: 107.00
-  - name: lymphatic drainage - 30 min
-    price: 47.00
-  - name: lymphatic drainage - 45 min
-    price: 57.00
-  - name: lymphatic drainage - 60 min
-    price: 75.00
-  - name: lymphatic drainage - 90 min
-    price: 107.00
-  - name: Pregnancy Massage - 30 Minutes
-    price: 47.00
-  - name: Pregnancy Massage - 60 Minutes
-    price: 75.00
-  - name: Pregnancy Massage - 90 Minutes
-    price: 107.00
-  - name: Pregnancy Massage - 45 Minutes
-    price: 57.00
-  - name: Reflexology 45 min
-    price: 57.00
-  - name: Reflexology 30 min
-    price: 47.00
-  - name: Reflexology 60 min
-    price: 75.00
-  - name: Sports Massage 30 Minutes
-    price:  47.00
-  - name: Sports Massage 60 Minutes
-    price:  75.00
-  - name: Sports Massage 90 Minutes
-    price:  107.00
-  - name: Swedish Massage - 30 Minutes
-    price: 47.00
-  - name: Swedish Massage - 60 Minutes
-    price: 75.00
-  - name: Swedish Massage - 90 Minutes
-    price: 107.00
-  - name: Swedish Massage - 120 Minutes
-    price: 150.00
-  - name: Swedish Massage - 45 Minutes
-    price: 57.00
-
-
-spa:
-  - name: Spa bath herbal therapy
+  - 
+    name: "Hot Stone 60 Minutes"
+    price: 75.0
+  - 
+    name: "Hot Stone 90 Minutes"
+    price: 107.0
+  - 
+    name: "Hot Stone 45 Minutes"
+    price: 57.0
+  - 
+    name: "Hot Stone 30 Minutes"
+    price: 47.0
+  - 
+    name: "Indian Head Massage 45 minutes"
+    price: 57.0
+  - 
+    name: "Indian Head Massage add on"
+    price: 12.5
+  - 
+    name: "Chinese Cupping 60 mins"
+    price: 75.0
+  - 
+    name: "Chinese Cupping 30 min"
+    price: 47.0
+  - 
+    name: "Chinese Cupping 90 mins"
+    price: 107.0
+  - 
+    name: "Couples Massage - 30 Minutes"
+    price: 47.0
+  - 
+    name: "Couples Massage - 60 Minutes"
+    price: 75.0
+  - 
+    name: "Couples Massage - 90 Minutes"
+    price: 107.0
+  - 
+    name: "Couples Massage - 45 Minutes"
+    price: 57.0
+  - 
+    name: "Couples Massage - 120 Minutes"
+    price: 150.0
+  - 
+    name: "Deep Tissue / Remedial - 120 mins"
+    price: 150.0
+  - 
+    name: "Deep Tissue / Remedial - 45 mins"
+    price: 57.0
+  - 
+    name: "Deep Tissue / Remedial - 60 mins"
+    price: 75.0
+  - 
+    name: "Deep Tissue / Remedial - 30 mins"
+    price: 45.0
+  - 
+    name: "Deep Tissue / Remedial - 90 mins"
+    price: 107.0
+  - 
+    name: "lymphatic drainage - 30 min"
+    price: 47.0
+  - 
+    name: "lymphatic drainage - 45 min"
+    price: 57.0
+  - 
+    name: "lymphatic drainage - 60 min"
+    price: 75.0
+  - 
+    name: "lymphatic drainage - 90 min"
+    price: 107.0
+  - 
+    name: "Pregnancy Massage - 30 Minutes"
+    price: 47.0
+  - 
+    name: "Pregnancy Massage - 60 Minutes"
+    price: 75.0
+  - 
+    name: "Pregnancy Massage - 90 Minutes"
+    price: 107.0
+  - 
+    name: "Pregnancy Massage - 45 Minutes"
+    price: 57.0
+  - 
+    name: "Reflexology 45 min"
+    price: 57.0
+  - 
+    name: "Reflexology 30 min"
+    price: 47.0
+  - 
+    name: "Reflexology 60 min"
+    price: 75.0
+  - 
+    name: "Sports Massage 30 Minutes"
+    price: 47.0
+  - 
+    name: "Sports Massage 60 Minutes"
+    price: 75.0
+  - 
+    name: "Sports Massage 90 Minutes"
+    price: 107.0
+  - 
+    name: "Swedish Massage - 30 Minutes"
+    price: 47.0
+  - 
+    name: "Swedish Massage - 60 Minutes"
+    price: 75.0
+  - 
+    name: "Swedish Massage - 90 Minutes"
+    price: 107.0
+  - 
+    name: "Swedish Massage - 120 Minutes"
+    price: 150.0
+  - 
+    name: "Swedish Massage - 45 Minutes"
+    price: 57.0
+osteo: 
+  - 
+    name: Check-Up
+    price: 0.0
+  - 
+    name: "DVA initial"
+    price: 63.3
+  - 
+    name: "DVA subsequent"
+    price: 63.3
+  - 
+    name: "Initial Consultation"
+    price: 95.0
+  - 
+    name: "Subsequent Visit"
+    price: 85.0
+spa: 
+  - 
+    name: "Spa bath herbal therapy"
     price: 41.81
-  - name:
-    price: 
-  - name:
-    price: 
-  - name:
-    price: 
-  - name:
-    price: 
-  - name:
-    price: 
-  - name:
-    price: 
-osteo:
-  - name: Check-Up
-    price: 0.00
-  - name: DVA initial
-    price: 63.30
-  - name: DVA subsequent
-    price: 63.30
-  - name: Initial Consultation
-    price: 95.00
-  - name: Subsequent Visit
-    price: 85.00
+  - 
+    name: ~
+    price: ~
+  - 
+    name: ~
+    price: ~
+  - 
+    name: ~
+    price: ~
+  - 
+    name: ~
+    price: ~
+  - 
+    name: ~
+    price: ~
+  - 
+    name: ~
+    price: ~
+waxing: 
+  - 
+    name: "3/4 Leg Wax"
+    price: 40.0
+  - 
+    name: "Advanced Super Facial"
+    price: 136.37
+  - 
+    name: "Back Wax"
+    price: 46.0
+  - 
+    name: "Bikini Wax"
+    price: 22.0
+  - 
+    name: "Chest Wax"
+    price: 46.0
+  - 
+    name: "Ear Wax"
+    price: 10.0
+  - 
+    name: "Eyebrow Sculpt"
+    price: 18.5
+  - 
+    name: "Eyebrow Tinting"
+    price: 14.0
+  - 
+    name: "Eyebrow Wax"
+    price: 18.5
+  - 
+    name: "Eyelash Tinting"
+    price: 14.0
+  - 
+    name: "Full Arm Wax"
+    price: 40.0
+  - 
+    name: "Full Leg Wax"
+    price: 47.0
+  - 
+    name: "Full Leg Wax Incl Bikini"
+    price: 62.0
+  - 
+    name: "G-String Wax"
+    price: 46.0
+  - 
+    name: "Half Leg Wax"
+    price: 35.0
+  - 
+    name: "Lip and Chin Wax"
+    price: 25.0
+  - 
+    name: "Lip or Chin Wax"
+    price: 11.0
+  - 
+    name: "Shoulder Wax"
+    price: 12.0
+  - 
+    name: "Stomach Line Wax"
+    price: 7.0
+  - 
+    name: "Stomach Wax"
+    price: 46.0
+  - 
+    name: "Toe Wax"
+    price: 7.0
+  - 
+    name: "Underarm Wax"
+    price: 22.0
+  - 
+    name: "Beautiful Eyes Package"
+    price: 33.63

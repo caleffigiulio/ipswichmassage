@@ -13,6 +13,11 @@ Waxing starts at $12
 
 Facial Pricing is as Follows
 
+{% for item in site.data.prices.facial %}
+    {{item.name}}
+    $ {{item.price}}
+{% endfor %}
+
 Express facial 45 min $57
 
 Deep Cleanse / Radiance 1hr facial $88
