@@ -6,9 +6,7 @@ layout: therapy
 
 Osteopathy is a form of drug-free non-invasive manual medicine that focuses on total body health by treating and strengthening the musculoskeletal framework, which includes the joints, muscles and spine. Its aim is to positively affect the body’s nervous, circulatory and lymphatic systems.
 
-Initial consultation / $95
-
-Subsequent consultation / $85
+<a href="/pricing-reference/">Pricing Reference</a>
 
 This is a medicare registered treatment. Please contact us for further details – 3281 6007.
 
