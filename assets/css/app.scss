@@ -141,13 +141,13 @@ body {
 }
 
 //instafeed styling
-#instafeedContainer {
-  overflow: hidden !important;
+.instafeedContainer {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
 }
 #instafeed {
   width: 100vw;
-  display: flex;
-  flex-wrap: wrap;
 
   a {
     position: relative;
@@ -166,7 +166,8 @@ body {
   }
 }
 .insta-text {
-	font-family: 'Helvetica Neue',sans-serif;
+  font-family: 'Helvetica Neue',sans-serif;
+  display: inline-block;
 }
 
 #insta-user {
