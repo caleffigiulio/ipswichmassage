@@ -41,6 +41,12 @@ body {
 .jade-green {
   color: $jade_green;
 }
+.bg-jade-green {
+  background-color: $jade_green;
+}
+.package-title {
+  font-weight: 900;
+}
 //Custom navbar styling that create a jade grene hover and underline effect on large screens
 .nav-item {
     padding-bottom: 2px;
@@ -261,5 +267,5 @@ body {
 
 .package-title {
   text-decoration: underline;
-  text-decoration-color: $jade_green;
+  text-decoration-color: white;
 }
