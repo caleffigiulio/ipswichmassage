@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  data:
+    title: data
+    output: true
 email: enquiry@ipswichmassage.com.au
 description: Ipswich Massage and Herbal Spa is a natural therapy studio based in Ipswich
   Queensland which offers therapeutic treatments for your health, wellbeing and beauty
