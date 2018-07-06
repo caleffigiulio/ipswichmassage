@@ -3,6 +3,7 @@ title: Pricing Reference
 permalink: "/pricing-reference/"
 layout: pricing
 ---
+
 ### Facial Pricing
 ----
 
