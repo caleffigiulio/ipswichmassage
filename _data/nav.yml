@@ -1,43 +1,61 @@
-navigation:
-- name: Home
-  url: /
-- name: About Us
-  url: /Learn-About-Ipswich-Massage/
-- name: Therapies
-  dropdown: true
-  items:
-  - name: 'Osteopathy'
-    url: '/osteopathy-therapy-information/'
-    isLast: false
-  - name: 'Acupuncture & Chinese Medicine'
-    url: '/Acupuncture-and-chinese-medicine/'
-    isLast: false
-  - name: 'Massage Therapy'
-    url: '/massage-therapy/'
-    isLast: false
-  - name: 'Beauty therapy'
-    url: '/Beauty-therapy/'
-    isLast: false
-  - name: 'Corporate Massage'
-    url: '/corporate-massage/'
-    isLast: false
-  - name: 'Spa Therapy'
-    url: '/spa-therapy/'
-    isLast: true
-- name: Other Services
-  dropdown: true
-  items:
-  - name: Shop
-    url: https://clients.mindbodyonline.com/Pages/OnlineStore.aspx?studioid=23881&partnerID=0&catid=
-  - name: Gift Vouchers
-    url: https://clients.mindbodyonline.com/asp/main_shop.asp?pMode=2&tabID=3
-  - name: Our App
-    url: http://get.mndbdy.ly/s1ud/sEYHLCmj7s
-  - name: Package Specials
-    url: https://clients.mindbodyonline.com/asp/main_shop.asp?pMode=0&tabID=3
-  - name: Blog
-    url: /ipswich-massage-herbal-spa-blog/
-- name: Book Now
-  url: /book-a-therapy-session/
-- name: Contact Us
-  url: /contact-and-map/
+--- 
+navigation: 
+  - 
+    name: Home
+    url: /
+  - 
+    name: "About Us"
+    url: /Learn-About-Ipswich-Massage/
+  - 
+    dropdown: true
+    items: 
+      - 
+        isLast: false
+        name: Osteopathy
+        url: /osteopathy-therapy-information/
+      - 
+        isLast: false
+        name: "Acupuncture & Chinese Medicine"
+        url: /Acupuncture-and-chinese-medicine/
+      - 
+        isLast: false
+        name: "Massage Therapy"
+        url: /massage-therapy/
+      - 
+        isLast: false
+        name: "Beauty therapy"
+        url: /Beauty-therapy/
+      - 
+        isLast: false
+        name: "Corporate Massage"
+        url: /corporate-massage/
+      - 
+        isLast: true
+        name: "Spa Therapy"
+        url: /spa-therapy/
+    name: Therapies
+  - 
+    dropdown: true
+    items: 
+      - 
+        name: Shop
+        url: "https://clients.mindbodyonline.com/Pages/OnlineStore.aspx?studioid=23881&partnerID=0&catid="
+      - 
+        name: "Gift Vouchers"
+        url: "https://clients.mindbodyonline.com/asp/main_shop.asp?pMode=2&tabID=3"
+      - 
+        name: "Our App"
+        url: "http://get.mndbdy.ly/s1ud/sEYHLCmj7s"
+      - 
+        name: "Package Specials"
+        url: "https://clients.mindbodyonline.com/asp/main_shop.asp?pMode=0&tabID=3"
+      - 
+        name: Blog
+        url: /ipswich-massage-herbal-spa-blog/
+    name: "Other Services"
+  - 
+    name: "Book Now"
+    url: /book-a-therapy-session/
+  - 
+    name: "Contact Us"
+    url: /contact-and-map/

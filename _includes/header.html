@@ -1,40 +1,41 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light pr-lg-0 pb-0 pt-0">
   <a class="navbar-brand" href="/">{% asset ipswich-massage-logo.png alt="brand logo" height=75 %}</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText"
+    aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarText">
     <ul class="navbar-nav mr-auto align-middle">
-      {% assign url = page.url %}
-            {% for page in site.data.nav.navigation %}
-              {% if page.dropdown == true %}
-                <li class="nav-item dropdown">
-                  <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true">
-                    {{ page.name }}
-                  </a>
-                  <div class="dropdown-menu">
-                    {% for item in page.items %}
-                      <a class="dropdown-item" href="{{ item.url }}">{{ item.name }}</a>
-                    {% endfor %}
-                  </div>
-                </li>
-
-              {% else %}
-
-                <li {% if url == page.url %} class="nav-item active"{% else %} class="nav-item"{% endif %} >
-                  <a href="{{ page.url }}" class="nav-link">{{ page.name }}</a>
-                </li>
-
-              {% endif %}
-            {% endfor %}
+      {% assign url = page.url %} {% for page in site.data.nav.navigation %} {% if page.dropdown == true %}
+      <li class="nav-item dropdown">
+        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true">
+          {{ page.name }}
+        </a>
+        <div class="dropdown-menu">
+          {% for item in page.items %}
+          <a class="dropdown-item" href="{{ item.url }}">{{ item.name }}</a>
+          {% endfor %}
+        </div>
+      </li>
+      {% else %}
+      <li {% if url==page.url %} class="nav-item active" {% else %} class="nav-item" {% endif %}>
+        <a href="{{ page.url }}" class="nav-link">{{ page.name }}</a>
+      </li>
+      {% endif %} {% endfor %}
     </ul>
     <span class='pr-4'>
-      <healcode-widget data-version="0.2" data-link-class="healcode-login-register-text-link" data-site-id="50224" data-mb-site-id="23881" data-type="account-link" data-inner-html="Login | Register"></healcode-widget>
+      <healcode-widget data-version="0.2" data-link-class="healcode-login-register-text-link" data-site-id="50224" data-mb-site-id="23881"
+        data-type="account-link" data-inner-html="Login | Register"></healcode-widget>
     </span>
     <span class="navbar-text d-none d-lg-inline bg-primary p-3 text-dark">
-      <a href="tel:{{ site.phone_nospaces }}"><i class="fa fa-phone pr-3 py-1"></i>{{site.phone}}</a><br>
-      <a href="mailto:{{site.email}}"><i class="fa fa-envelope pr-3 py-1"></i>{{site.email}}</a><br>
-      <a href="{{ site.address-link }}"><i class="fa fa-map-signs pr-3 py-1"></i>{{site.address}}</a>
+      <a href="tel:{{ site.phone_nospaces }}">
+        <i class="fa fa-phone pr-3 py-1"></i>{{site.phone}}</a>
+      <br>
+      <a href="mailto:{{site.email}}">
+        <i class="fa fa-envelope pr-3 py-1"></i>{{site.email}}</a>
+      <br>
+      <a href="{{ site.address-link }}">
+        <i class="fa fa-map-signs pr-3 py-1"></i>{{site.address}}</a>
     </span>
   </div>
 </nav>
