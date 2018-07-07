@@ -6,54 +6,51 @@ layout: pricing
 
 ### Facial Pricing
 ----
+* Advanced Super Facial - $150.01
+* Cool Peel - $124.99
+* Deep Cleansing Facial - $88
+* DF Infused Eye Lift Treatment - $55
+* Express Facial - $56.99
+* Millia / Blackhead Extractions - $38.50
+* Radiance Facial - $88
 
-* Deep Cleansing Facial - $80
-* DF Infused Eye Lift Treatment - $50
-* Express Facial - $51.81
-* Millia / Blackhead Extractions - $35
-* Radiance Facial - $80
-* Express Facial 30min - $44.55
 
 ### Waxing Pricing
 ----
-
-* 3/4 Leg Wax - $40
-* Advanced Super Facial - $136.37
-* Back Wax - $46
-* Bikini Wax - $22
-* Chest Wax - $46
-* Ear Wax - $10
-* Eyebrow Sculpt - $18.5
-* Eyebrow Tinting - $14
-* Eyebrow Wax - $18.5
-* Eyelash Tinting - $14
-* Full Arm Wax - $40
-* Full Leg Wax - $47
-* Full Leg Wax Incl Bikini - $62
-* G-String Wax - $46
-* Half Leg Wax - $35
-* Lip and Chin Wax - $25
-* Lip or Chin Wax - $11
-* Shoulder Wax - $12
-* Stomach Line Wax - $7
-* Stomach Wax - $46
-* Toe Wax - $7
-* Underarm Wax - $22
-* Beautiful Eyes Package - $33.63
+* 3/4 Leg Wax - $44
+* Back Wax - $50.60
+* Bikini Wax - $24.20
+* Chest Wax - $50.60
+* Ear Wax - $11
+* Eyebrow Sculpt - $20.35
+* Eyebrow Tinting - $15.40
+* Eyebrow Wax - $20.35
+* Eyelash Tinting - $15.40
+* Full Arm Wax - $44
+* Full Leg Wax - $51.70
+* Full Leg Wax Incl Bikini - $68.20
+* G-String Wax - $50.60
+* Half Leg Wax - $38.50
+* Lip and Chin Wax - $22
+* Lip or Chin Wax - $12.10
+* Shoulder Wax - $13.20
+* Stomach Line Wax - $7.70
+* Stomach Wax - $50.60
+* Toe Wax - $7.70
+* Underarm Wax - $24.20
+* Beautiful Eyes Package - $36.99
 
 ### Body Pricing
 ----
 
-* Back Scrub - $220
-* Body Scrub 30min - $470
-* Cool Peel Treatment - $113.63
-* Environ Hand & Foot Treatment - $350
-* Foot Spa - $20.91
-* Infrared Body Wrap 60min - $31.81
-* Make Me Over Package - $99
-* Mini me - Total Relaxation - $80
-* Skin So Smooth Package - $70
-* Seasonal Body Wrap - $104.5
+* Body Scrub 30min - $51.70
+* Environ Hand & Foot Treatment - $38.50
+* Foot Spa - $23
+* Infrared Body Wrap 60min - $34.99
+* Make Me Over Package - $108.90
+* Mini me - Total Relaxation - $88
+* Skin So Smooth Package - $77
+* Seasonal Body Wrap - $114.95
 * Total Body Package - $150
 * Total Relaxation Package - $150
 
@@ -61,18 +58,18 @@ layout: pricing
 ----
 
 * Acupuncture - Chinese Cupping 30min - $47
-* Chinese Cupping 60min - $750
-* Initial consultation - $920
-* subsequent visit - $720
-* Acupuncture + Massage Combo - $750
-* Acupuncture+ Massage Combo 60min - $750
+* Chinese Cupping 60min - $75
+* Initial consultation - $92
+* subsequent visit - $72
+* Acupuncture + Massage Combo - $75
+* Acupuncture+ Massage Combo 60min - $75
 
 ### Osteopathy Pricing
 ----
 
 * Check-Up - $0
-* DVA initial - $63.3
-* DVA subsequent - $63.3
+* DVA initial - $64.25
+* DVA subsequent - $64.25
 * Initial Consultation - $95
 * Subsequent Visit - $85
 
@@ -85,14 +82,14 @@ layout: pricing
 * Aromatherapy 30 Min - $47
 * Aromatherapy 60 Min - $75
 * Aromatherapy 90 Min - $107
-* Hawaiian Lomi Lomi - 60 Minutes - $75
-* Hawaiian Lomi Lomi 90min - $106.82
-* Hot Stone 60 Minutes - $75
-* Hot Stone 90 Minutes - $107
-* Hot Stone 45 Minutes - $57
-* Hot Stone 30 Minutes - $47
+* Hawaiian Lomi Lomi - 60 Minutes - $82.50
+* Hawaiian Lomi Lomi 90min - $117.50
+* Hot Stone 60 Minutes - $82.50
+* Hot Stone 90 Minutes - $117.50
+* Hot Stone 45 Minutes - $62.70
+* Hot Stone 30 Minutes - $51.70
 * Indian Head Massage 45 minutes - $57
-* Indian Head Massage add on - $12.5
+* Indian Head Massage add on - $13.75
 * Chinese Cupping 60 mins - $75
 * Chinese Cupping 30 min - $47
 * Chinese Cupping 90 mins - $107
@@ -100,7 +97,7 @@ layout: pricing
 * Couples Massage - 60 Minutes - $75
 * Couples Massage - 90 Minutes - $107
 * Couples Massage - 45 Minutes - $57
-* Couples Massage - 120 Minutes - $150
+* Couples Massage - 120 Minutes p/p - $150
 * Deep Tissue / Remedial - 120 mins - $150
 * Deep Tissue / Remedial - 45 mins - $57
 * Deep Tissue / Remedial - 60 mins - $75
@@ -128,5 +125,5 @@ layout: pricing
 
 ### Spa Therapy Pricing
 ----
-* Spa bath herbal therapy - $41.81
+* Spa bath herbal therapy - $45.99
 
