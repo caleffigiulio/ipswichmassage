@@ -10,6 +10,14 @@ body {
     color: #33a06d;
   }
 }
+.healcode-pricing-option-text-link {
+  a {
+    text-decoration: none !important;
+  }
+  a:hover {
+    text-decoration-style: #33a06d !important;
+  }
+}
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: $jade_green;
 }
