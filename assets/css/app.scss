@@ -20,6 +20,9 @@ body {
 }
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: $jade_green;
+      margin: 0 .5em .5em 0;
+      font-size: 1rem;
+      padding: .5rem;
 }
 .bg-primary {
   background-color: $jade_green !important;
