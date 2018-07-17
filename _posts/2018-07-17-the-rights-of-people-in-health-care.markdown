@@ -16,6 +16,7 @@ tags:
 - AHM
 - medicine
 - conventional
+layout: post
 ---
 
 [blog banner 1.PNG](/uploads/blog%20banner%201.PNG)
