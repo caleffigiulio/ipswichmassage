@@ -1,9 +1,6 @@
 ---
 title: The Rights of People in Health-Care
 date: 2018-07-17 03:30:00 Z
-categories:
-- health
-- health care
 tags:
 - massage
 - health
