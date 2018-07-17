@@ -1,8 +1,0 @@
----
-title: Test Post
-date: 2018-07-17 02:12:00 Z
----
-
-Test Content
-
-![banner.jpg](/uploads/banner.jpg)
