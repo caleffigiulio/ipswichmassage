@@ -4,6 +4,8 @@ permalink: "/Beauty-therapy/"
 layout: therapy
 ---
 
+We offer a number beauty services including state of the art medical grade facials.  If you don't know exactly what services you would like or would like to combine several services to create a package please call our friendly receptionist and they can offer help and advice. ph32816007
+
 <a href="/pricing-reference/">Pricing Reference</a>
 
 <div class='container bg-light my-4 p-4'>
