@@ -4,7 +4,7 @@ permalink: "/massage-therapy/"
 layout: therapy
 ---
 
-Book a qualified massage therapist for your next event.  Or reward and recognise your staff with a regular monthly booking.
+Book a qualified massage therapist. If you don't know exactly what type of massage you would like please call 32816007 and our friendly receptionist will be able to  help you.
 
 Private Health Fund Rebates are available with certain therapists, please contact 3281 6007 for more information.
 
