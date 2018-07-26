@@ -4,6 +4,9 @@ permalink: "/corporate-massage/"
 layout: therapy
 ---
 
+Book a qualified massage therapist for your next event.  Or reward and recognise your staff with a regular monthly booking.
+
+
 <a href="/pricing-reference/">Pricing Reference</a>
 
 <div class='container bg-light my-4 p-4'>
