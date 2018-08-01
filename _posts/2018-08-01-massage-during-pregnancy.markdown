@@ -16,7 +16,6 @@ tags:
 Pregnancy Massage
 
 
-
 Massage is now generally considered a safe complementary therapy for pregnancy. Studies of the benefits of massage demonstrate that it is an effective treatment both during and after pregnancy.
 
 Some of the many benefits of massage pre and post pregnancy are:
@@ -29,9 +28,9 @@ Some of the many benefits of massage pre and post pregnancy are:
 6.	Helps reduce general aches and pains associated with pregnancy
 
 
-Ipswich Massage is equipped with a specialised pregnancy table to accommodate you throughout all stages of pregnancy. So give us a call and will arrange for you to be thoroughly pampered & help relieve some of the symptoms that you may encounter whilst creating a new person. 
+Ipswich Massage is equipped with a specialised pregnancy table to accommodate you throughout all stages of pregnancy. So give us a call and we will arrange for you to be thoroughly pampered & help relieve some of the symptoms that you may encounter whilst creating a new person. 
 
- Please Note: If you suspect that you may have any risk factors, it is recommended that you wait until after the first trimester for your first massage, after consultation with your Doctor/Obstetrician.
+ Please Note: If you suspect that you may have any risk factors, it is recommended that you wait until after the first trimester for your first massage, after consultation with your Doctor/Obstetrician. If you have no risk factors then massage in the first trimester is safe. 
 
 Written by Tracy Warren (Senior Remedial Massage Expert @ Ipswich Massage & Herbal Spa)
 
