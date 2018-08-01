@@ -19,7 +19,6 @@ tags:
 layout: post
 ---
 
-[blog banner 1.PNG](/uploads/blog%20banner%201.PNG)
 
 
 It is commonly said that our greatest asset is our health. Indeed, if we have all the assets or success in the world, but do not have health, then it is very difficult to enjoy. There has been some recent and proposed changes which will affect health-care therapies. We bring this information to our readership so that they are informed of changes in this area, either as interested persons in receiving Complementary Medicine or Complementary to Medicine therapies, or as practitioners, or both.
