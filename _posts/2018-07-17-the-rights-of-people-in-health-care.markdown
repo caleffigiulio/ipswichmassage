@@ -20,6 +20,8 @@ layout: post
 ---
 
 [blog banner 1.PNG](/uploads/blog%20banner%201.PNG)
+
+
 It is commonly said that our greatest asset is our health. Indeed, if we have all the assets or success in the world, but do not have health, then it is very difficult to enjoy. There has been some recent and proposed changes which will affect health-care therapies. We bring this information to our readership so that they are informed of changes in this area, either as interested persons in receiving Complementary Medicine or Complementary to Medicine therapies, or as practitioners, or both.
 On October 13th 2017, Minister Hunt announced that the private health insurance will no longer apply to certain natural therapies, as of 1st of April 2019. Remedial massage, however will stay on the list of therapies covered. 
 The Government, has assured us that it does not intend to revisit its policy, in order for that policy to become a law the proposed change needs to be endorsed by Parliament, through private health insurance legislation. 
