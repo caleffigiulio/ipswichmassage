@@ -27,4 +27,4 @@ Structurally, your psoas muscles are the deepest muscles in your core.  They att
 
 Whether you sit at a desk, run, bike, practice yoga, or just hang out on your couch, your psoas muscles are involved.  So, if you have been experiencing tension through your lower back or hips, give us a call on Ph: 3281 6007 or go on line and book a remedial massage appointment [www.ipswichmassage.com.au](http://ipswichmassage.com.au)  
 
-Written by Tracy Warren(Senior Remedial Massage Expert at Ipswich Massage)
+Written by Tracy Warren(Senior Remedial Massage Expert at Ipswich Massage & Herbal Spa)
