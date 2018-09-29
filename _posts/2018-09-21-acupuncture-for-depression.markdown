@@ -1,6 +1,18 @@
 ---
 title: Acupuncture for  Depression?
 date: 2018-09-21 10:30:00 Z
+categories:
+- depression
+- anxiety
+- acupuncture
+tags:
+- depression
+- anxiety
+- mental health
+- health care
+- health
+- acupuncture
+- alternative
 layout: blog
 ---
 
