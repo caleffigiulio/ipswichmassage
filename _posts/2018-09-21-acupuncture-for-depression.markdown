@@ -38,4 +38,5 @@ Your course of treatment will depend on how your symptoms react to the acupunctu
 
 In conclusion, If we’re constantly under stress and pressure to perform, which can bring on disease and other serious health issues.Most of us take better care of our cars and bikes than we do ourselves. We're conditioned to remember to get oil changes every 3,000 miles on our cars and tune-ups on our bikes at the change of every season.But when do we get our own tune-ups?
 
-Acupuncture is great for maintenance. When it comes to trying acupuncture, you have nothing to lose.
+Acupuncture is great for maintenance. When it comes to trying acupuncture, you have nothing to lose. Below is a link to some evidence based research for acupuncture https://www.evidencebasedacupuncture.org/present-research/acupuncture-scientific-evidence/
+https://www.evidencebasedacupuncture.org/access-pdf-downloads/
