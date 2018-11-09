@@ -13,7 +13,7 @@ tags:
 - health
 - acupuncture
 - alternative
-layout: blog
+layout: post
 ---
 
 In Australia, it's estimated that 45% of people will experience a mental health condition in their lifetime, in one year around 1 million Australian adults have been diagnosed with depression, and 2 million with Anxiety. The numbers are alarming, and only growing. When it comes to Mental Health, i think we over look alternative options, like acupuncture and Chinese medicine. So today, from our wonderful 5th generation Chinese herbalist and senior acupuncturist to you, Here's how we can help. 
