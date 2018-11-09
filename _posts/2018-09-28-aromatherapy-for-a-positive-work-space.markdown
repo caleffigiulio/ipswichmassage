@@ -21,7 +21,7 @@ tags:
 - work place
 - wellness
 - positivity
-layout: blog
+layout: post
 ---
 
 Perfect Potions’ certified organic range of Natural skincare, bath and body care has captured the hearts of many new and old clients since we’ve stocked our shelves. Perfect Potion is always drawing new people in to know and love the brand. From aromatic room sprays to the silky soft lotion, including THE MOST precious “Beautiful Baby” Range –Safe to Say P.P has us totally obsessed!
