@@ -6,7 +6,6 @@ layout: therapy
 
 We offer state of the art medical grade facials designed for real results.
 
-\
 **Super Advanced Facial**  - the world's most technologically advanced facial. For lifting, tightening, sun damage, ageing
 
 
