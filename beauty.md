@@ -4,7 +4,15 @@ permalink: "/Beauty-therapy/"
 layout: therapy
 ---
 
-We offer a number beauty services including state of the art medical grade facials.  If you don't know exactly what services you would like or would like to combine several services to create a package please call our friendly receptionist and they can offer help and advice. ph32816007
+We offer state of the art medical grade facials designed for real results.  
+**Super Advanced Facial**  - the world's most technologically advanced facial. For lifting, tightening, sun damage, ageing
+**Cool Peel** - Achieves incredible results without damaging the skin, no down time
+**Radiance Facial** - deeply hydrating
+**Deep Cleanse Facial** - For congested problematic 
+**Vitamin Infusion** - Choose a specific area, eyes, lips, forehead to target ageing
+**Teen Facial** - For any age, male or female, going through changes that affect skin appearance,  cleans pores and calms redness and breakouts while reducing the appearance of acne scars.
+**Express Facial** - a condensed version of our full facials
+
 
 <a href="/pricing-reference/">Pricing Reference</a>
 
