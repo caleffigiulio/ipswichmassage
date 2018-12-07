@@ -34,14 +34,14 @@ navigation:
         url: /spa-therapy/
     name: Therapies
   - 
+    name: "Gift Cards"
+    url: "https://clients.mindbodyonline.com/classic/ws?studioid=23881&stype=42"
+  - 
     dropdown: true
     items: 
       - 
         name: Shop
         url: "https://clients.mindbodyonline.com/classic/ws?studioid=23881&stype=43"
-      - 
-        name: "Gift Cards"
-        url: "https://clients.mindbodyonline.com/classic/ws?studioid=23881&stype=42"
       - 
         name: "Our App"
         url: "get.mndbdy.ly/s1ud/sEYHLCmj7s"

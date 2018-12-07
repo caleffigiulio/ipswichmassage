@@ -108,7 +108,10 @@ body {
   opacity: 1;
 }
 .box-text {
-  color: #fff;
+  a {
+    color: #fff !important;
+  }
+  color: #fff !important;
   padding: 16px 32px;
 }
 
