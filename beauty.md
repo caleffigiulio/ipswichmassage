@@ -39,12 +39,29 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 <h2 class='ims-section-title'>Facials</h2>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643448a4" data-widget-version="0"></healcode-widget>
 </div>
-              Body Treatments & Packages
-Ultimate Unwind 3hrs Package
+              **Body Treatments & Packages**
+Queensland’s long hot summers inspire sunny days at the beach and tropical fruits.  Prepare your beach skin with one of these delicious body wraps 90min $130
+
+**Seaside Dream** 
+Coconut and lime exfoliation | Seaweed body wrap | Coconut oil head and neck massage
+
+**Sun Worshipper**
+Grapefruit exfoliation| Aloe Vera body wrap | Coconut oil head and neck massage
+**Tropical Escape**
+
+Sweet mango exfoliation | passionfruit & Mango body custard wrap |Coconut oil head and neck massage
+
+**Ultimate Unwind 3hrs Package**
 Sugar  exfoliation |  Hydration wrap | Head and Foot treatment | Full body oil massage | Radiance facial $329
 
-Total Relaxation 2Hrs Package 
+**Total Relaxation 2Hrs Package** 
 One hour full body oil relaxation massage plus one hour deep cleanse or radiance facial $150
+
+**Mini Me 1Hr Package**
+30min relaxation massage plus 30min express facial
+
+**Make Me Over Package**
+90min Brow shape and tint, eyelash tint plus 1 hour radiance or deep cleanse facial $108.90
 
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Body Treatment</h2>
