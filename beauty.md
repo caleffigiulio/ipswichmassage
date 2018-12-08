@@ -13,6 +13,8 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 <h2 class='ims-section-title'>Waxing</h2>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643648a4" data-widget-version="0"></healcode-widget>
 </div>
+
+                   Facials
 **Super Advanced Facial**  - the world's most technologically advanced facial. For lifting, tightening, sun damage, ageing
 
 
