@@ -4,8 +4,15 @@ permalink: "/Beauty-therapy/"
 layout: therapy
 ---
 
-We offer state of the art medical grade facials designed for real results.
+We offer state of the art medical grade facials, seasonal inspired body wraps, waxing and tinting. Check out our our packages for delicious combinations.
 
+
+<a href="/pricing-reference/">Pricing Reference</a>
+
+<div class='container bg-light my-4 p-4'>
+<h2 class='ims-section-title'>Waxing</h2>
+<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643648a4" data-widget-version="0"></healcode-widget>
+</div>
 **Super Advanced Facial**  - the world's most technologically advanced facial. For lifting, tightening, sun damage, ageing
 
 
@@ -25,13 +32,6 @@ We offer state of the art medical grade facials designed for real results.
 
 
 **Express Facial** - a condensed version of our full facials
-
-<a href="/pricing-reference/">Pricing Reference</a>
-
-<div class='container bg-light my-4 p-4'>
-<h2 class='ims-section-title'>Waxing</h2>
-<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643648a4" data-widget-version="0"></healcode-widget>
-</div>
 
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Facials</h2>
