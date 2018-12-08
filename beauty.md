@@ -15,30 +15,33 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 </div>
 
                    Facials
-**Super Advanced Facial**  - the world's most technologically advanced facial. For lifting, tightening, sun damage, ageing
+**Super Advanced Facial**  - the world's most technologically advanced facial. For lifting, tightening, sun damage, ageing 1 Hr $149
 
 
-**Cool Peel** - Achieves incredible results without damaging the skin, no down time
+**Cool Peel** - Achieves incredible results without damaging the skin, no down time 1 Hr $124.99
 
 
-**Radiance Facial** - deeply hydrating
+**Radiance Facial** - deeply hydrating 1 Hr $88
 
 
-**Deep Cleanse Facial** - For congested problematic
+**Deep Cleanse Facial** - For congested problematic skin 1 Hr $88
 
 
-**Vitamin Infusion** - Choose a specific area, eyes, lips, forehead to target ageing
+**Vitamin Infusion** - Choose a specific area, eyes, lips, forehead to target ageing 45min $57
 
 
-**Teen Facial** - For any age, male or female, going through changes that affect skin appearance,  cleans pores and calms redness and breakouts while reducing the appearance of acne scars.
+**Teen Facial** - For any age, male or female, going through changes that affect skin appearance,  cleans pores and calms redness and breakouts while reducing the appearance of acne scars. 45min $49
 
 
-**Express Facial** - a condensed version of our full facials
+**Express Facial** - a condensed version of our full facials 45 min $88
 
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Facials</h2>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643448a4" data-widget-version="0"></healcode-widget>
 </div>
+              Body Treatments & Packages
+Ultimate Unwind 3hrs Package
+Sugar  exfoliation |  Hydration wrap | Head and Foot treatment | Full body oil massage | Radiance facial $329
 
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Body Treatment</h2>
