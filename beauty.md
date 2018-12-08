@@ -43,6 +43,7 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 </div>
              
  **Body Treatments & Packages**
+
 Queensland’s long hot summers inspire sunny days at the beach and tropical fruits.  Prepare your beach skin with one of these delicious Summer inspired body wraps 90min $130
 
 **Seaside Dream** 
