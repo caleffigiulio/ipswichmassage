@@ -14,7 +14,7 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643648a4" data-widget-version="0"></healcode-widget>
 </div>
 
-                 ** Facials**
+                 **Facials Menu**
 
 **Super Advanced Facial**  - the world's most technologically advanced facial. For lifting, tightening, sun damage, ageing 1 Hr $149
 
