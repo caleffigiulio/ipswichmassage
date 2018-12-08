@@ -50,8 +50,8 @@ Coconut and lime exfoliation | Seaweed body wrap | Coconut oil head and neck mas
 
 **Sun Worshipper**
 Grapefruit exfoliation| Aloe Vera body wrap | Coconut oil head and neck massage
-**Tropical Escape**
 
+**Tropical Escape**
 Sweet mango exfoliation | passionfruit & Mango body custard wrap |Coconut oil head and neck massage
 
 **Ultimate Unwind 3hrs Package**
