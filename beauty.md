@@ -43,6 +43,9 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 Ultimate Unwind 3hrs Package
 Sugar  exfoliation |  Hydration wrap | Head and Foot treatment | Full body oil massage | Radiance facial $329
 
+Total Relaxation 2Hrs Package 
+One hour full body oil relaxation massage plus one hour deep cleanse or radiance facial $150
+
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Body Treatment</h2>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3696248a4" data-widget-version="0"></healcode-widget>
