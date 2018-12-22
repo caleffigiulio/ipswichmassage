@@ -47,7 +47,7 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 Queensland’s long hot summers inspire sunny days at the beach and tropical fruits.  Prepare your beach skin with one of these delicious Summer inspired body wraps 90min $130
 
 **Seaside Dream** 
-Coconut and lime exfoliation | Seaweed body wrap | Coconut oil head and neck massage
+Coconut and lime exfoliation | Frangipanni hydration body wrap | Coconut oil head and neck massage
 
 **Sun Worshipper**
 Grapefruit exfoliation| Aloe Vera body wrap | Coconut oil head and neck massage
