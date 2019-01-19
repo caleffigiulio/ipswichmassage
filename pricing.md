@@ -13,6 +13,7 @@ layout: pricing
 * Express Facial - $56.99
 * Millia / Blackhead Extractions - $38.50
 * Radiance Facial - $88
+* Teen facial - 45 Minutes - $49.50
 
 
 ### Waxing Pricing
@@ -78,50 +79,57 @@ layout: pricing
 
 * Corporate massage 2hrs - $180
 * Corporate Massage 60 min - $90
-* Aromatherapy 45min - $57
 * Aromatherapy 30 Min - $47
-* Aromatherapy 60 Min - $75
-* Aromatherapy 90 Min - $107
-* Hawaiian Lomi Lomi - 60 Minutes - $82.50
-* Hawaiian Lomi Lomi 90min - $117.50
-* Hot Stone 60 Minutes - $82.50
-* Hot Stone 90 Minutes - $117.50
-* Hot Stone 45 Minutes - $62.70
-* Hot Stone 30 Minutes - $51.70
+* Aromatherapy - 45 Minutes - $66
+* Aromatherapy - 60 Minutes - $88
+* Aromatherapy - 90 Minutes - $132
+* Aromatherapy - 120 Minutes - $176
+* Hawaiian Lomi Lomi - 45 Minutes - $66
+* Hawaiian Lomi Lomi - 60 Minutes - $88
+* Hawaiian Lomi Lomi - 90 Minutes - $132
+* Hawaiian Lomi Lomi - 120 Minutes - $176
+* Hot Stone - 30 Minutes - $51.70
+* Hot Stone - 45 Minutes - $66
+* Hot Stone - 60 Minutes - $88
+* Hot Stone - 90 Minutes - $132
+* Hot Stone - 120 Minutes - $176
 * Indian Head Massage 45 minutes - $57
-* Indian Head Massage add on - $13.75
-* Chinese Cupping 60 mins - $75
+* Indian Head Massage add on - $15
+* Chinese Cupping 60 mins - $80
 * Chinese Cupping 30 min - $47
-* Chinese Cupping 90 mins - $107
-* Couples Massage - 30 Minutes - $47
-* Couples Massage - 60 Minutes - $75
-* Couples Massage - 90 Minutes - $107
-* Couples Massage - 45 Minutes - $57
-* Couples Massage - 120 Minutes p/p - $150
-* Deep Tissue / Remedial - 120 mins - $150
-* Deep Tissue / Remedial - 45 mins - $57
-* Deep Tissue / Remedial - 60 mins - $75
-* Deep Tissue / Remedial - 30 mins - $45
-* Deep Tissue / Remedial - 90 mins - $107
-* lymphatic drainage - 30 min - $47
-* lymphatic drainage - 45 min - $57
-* lymphatic drainage - 60 min - $75
-* lymphatic drainage - 90 min - $107
+* Chinese Cupping 90 mins - $120
+* Couples Massage - 30 Minutes (2 People) - $94
+* Couples Massage - 45 Minutes (2 People) - $120
+* Couples Massage - 60 Minutes (2 People) - $160
+* Couples Massage - 90 Minutes (2 People) - $240
+* Couples Massage - 120 Minutes (2 People) - $320
+* Deep Tissue / Remedial - 30 Minutes - $45
+* Deep Tissue / Remedial - 45 Minutes - $60
+* Deep Tissue / Remedial - 60 Minutes - $80
+* Deep Tissue / Remedial - 90 Minutes - $120
+* Deep Tissue / Remedial - 120 Minutes - $160
+* lymphatic drainage - 30 Minutes - $47
+* lymphatic drainage - 45 Minutes - $57
+* lymphatic drainage - 60 Minutes - $75
+* lymphatic drainage - 90 Minutes - $107
 * Pregnancy Massage - 30 Minutes - $47
-* Pregnancy Massage - 60 Minutes - $75
-* Pregnancy Massage - 90 Minutes - $107
-* Pregnancy Massage - 45 Minutes - $57
-* Reflexology 45 min - $57
-* Reflexology 30 min - $47
-* Reflexology 60 min - $75
+* Pregnancy Massage - 60 Minutes - $80
+* Pregnancy Massage - 90 Minutes - $120
+* Pregnancy Massage - 45 Minutes - $60
+* Reflexology - 45 Minutes - $60
+* Reflexology - 30 Minutes - $47
+* Reflexology - 60 Minutes - $80
 * Sports Massage 30 Minutes - $47
-* Sports Massage 60 Minutes - $75
-* Sports Massage 90 Minutes - $107
+* Sports Massage 60 Minutes - $80
+* Sports Massage 90 Minutes - $120
 * Swedish Massage - 30 Minutes - $47
-* Swedish Massage - 60 Minutes - $75
-* Swedish Massage - 90 Minutes - $107
-* Swedish Massage - 120 Minutes - $150
-* Swedish Massage - 45 Minutes - $57
+* Swedish Massage - 60 Minutes - $80
+* Swedish Massage - 90 Minutes - $120
+* Swedish Massage - 120 Minutes - $160
+* Swedish Massage - 45 Minutes - $60
+* Expert Senior Remedial Massage - 30 Minutes - $47.50
+* Expert Senior Remedial Massage - 60 Minutes - $95
+* Expert Senior Remedial Massage - 90 Minutes - $142.50
 
 ### Spa Therapy Pricing
 ----
