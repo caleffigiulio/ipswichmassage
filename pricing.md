@@ -4,7 +4,7 @@ permalink: "/pricing-reference/"
 layout: pricing
 ---
 
-### Facial Pricing test
+### Facial Pricing
 ----
 * Advanced Super Facial - $150.01
 * Cool Peel - $124.99
