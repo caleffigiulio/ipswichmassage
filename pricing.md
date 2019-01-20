@@ -41,19 +41,15 @@ layout: pricing
 * Underarm Wax - $24.20
 * Beautiful Eyes Package - $36.99
 
-### Body Pricing
+### Body Treatments and Packages
 ----
 
-* Body Scrub 30min - $51.70
 * Environ Hand & Foot Treatment - $38.50
-* Foot Spa - $23
 * Infrared Body Wrap 60min - $34.99
 * Make Me Over Package - $108.90
 * Mini me - Total Relaxation - $88
-* Skin So Smooth Package - $77
-* Seasonal Body Wrap - $114.95
-* Total Body Package - $150
-* Total Relaxation Package - $150
+* Seasonal Body Wrap - $130
+* Total Relaxation Package - $165
 
 ### Acupuncture Pricing
 ----
@@ -88,12 +84,12 @@ layout: pricing
 * Hawaiian Lomi Lomi - 60 Minutes - $88
 * Hawaiian Lomi Lomi - 90 Minutes - $132
 * Hawaiian Lomi Lomi - 120 Minutes - $176
-* Hot Stone - 30 Minutes - $51.70
+* Hot Stone - 30 Minutes - $52
 * Hot Stone - 45 Minutes - $66
 * Hot Stone - 60 Minutes - $88
 * Hot Stone - 90 Minutes - $132
 * Hot Stone - 120 Minutes - $176
-* Indian Head Massage 45 minutes - $57
+* Indian Head Massage 45 minutes - $60
 * Indian Head Massage add on - $15
 * Chinese Cupping 60 mins - $80
 * Chinese Cupping 30 min - $47
@@ -103,15 +99,15 @@ layout: pricing
 * Couples Massage - 60 Minutes (2 People) - $160
 * Couples Massage - 90 Minutes (2 People) - $240
 * Couples Massage - 120 Minutes (2 People) - $320
-* Deep Tissue / Remedial - 30 Minutes - $45
+* Deep Tissue / Remedial - 30 Minutes - $47
 * Deep Tissue / Remedial - 45 Minutes - $60
 * Deep Tissue / Remedial - 60 Minutes - $80
 * Deep Tissue / Remedial - 90 Minutes - $120
 * Deep Tissue / Remedial - 120 Minutes - $160
 * lymphatic drainage - 30 Minutes - $47
-* lymphatic drainage - 45 Minutes - $57
-* lymphatic drainage - 60 Minutes - $75
-* lymphatic drainage - 90 Minutes - $107
+* lymphatic drainage - 45 Minutes - $60
+* lymphatic drainage - 60 Minutes - $80
+* lymphatic drainage - 90 Minutes - $120
 * Pregnancy Massage - 30 Minutes - $47
 * Pregnancy Massage - 60 Minutes - $80
 * Pregnancy Massage - 90 Minutes - $120
