@@ -1,6 +1,18 @@
 ---
 title: Chocolate Massage Benefits
 date: 2019-04-06 01:38:00 Z
+tags:
+- massage
+- chocolate
+- benefits
+- health
+- easter
+- eggs
+- skin
+- diet
+- moisturiser
+- health care
+- wellness
 ---
 
 Scratch the “chocolate’s bad for you” negativity, we’re going all out in this indulgent Easter special, available for a limited time only! Tried and tested by Spa Gurus, celebrities, and now Ipswich! ![chocolate massage.png](/uploads/chocolate%20massage.png)
