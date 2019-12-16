@@ -6,15 +6,14 @@ layout: pricing
 
 ### Facial Pricing
 ----
-* Advanced Super Facial - $150.01
+* Teen facial - 45 mins - $49.50
+* Express Facial - 45 mins - $56.99
+* Radiance Facial - 1 hour - $88
+* Deep Cleansing Facial - 1 hour - $88
+* Advanced Super Facial - 1 hour - $150.01
 * Cool Peel - $124.99
-* Deep Cleansing Facial - $88
 * DF Infused Eye Lift Treatment - $55
-* Express Facial - $56.99
 * Millia / Blackhead Extractions - $38.50
-* Radiance Facial - $88
-* Teen facial - 45 Minutes - $49.50
-
 
 ### Waxing Pricing
 ----
@@ -45,11 +44,21 @@ layout: pricing
 ----
 
 * Environ Hand & Foot Treatment - $38.50
-* Infrared Body Wrap 60min - $34.99
-* Make Me Over Package - $108.90
-* Mini me - Total Relaxation - $88
-* Seasonal Body Wrap - $130
-* Total Relaxation Package - $165
+* InfraRed Detox Body Wrap - 1 hour - $34.99
+* Make Me Over Package - 75 mins - $108.90
+* Mini Me Time Package - 1 hour - $88
+*30 mins Relax/Remedial Massage, 30 mins Express Facial.*
+* Total Relaxation Package - 2 hours - $165
+*1 hour Full Body Oil Massage, 1 hour Environ Radiance Facial.*
+* Ultimate Unwind Package - 3 hours - $329
+*1 hour Full Body Oil Massage, 1 hour Environ Radiance Facial, Sugar Exfoliant, Seasonal Hydration Body Wrap & Head and Foot Treatment. *
+* Seasonal Body Wrap - 90 mins - $130 (see below for options)
+**Seaside Dream – 90 mins**
+Coconut and lime exfoliation | Seaweed body wrap | Coconut oil head and neck massage
+**Sun worshipper – 90 mins **
+Grapefruit exfoliation | Aloe Vera body wrap | Coconut oil head and neck massage
+**Tropical Escape – 90 mins**
+Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck massage
 
 ### Acupuncture Pricing
 ----
@@ -75,7 +84,7 @@ layout: pricing
 
 * Corporate massage 2hrs - $180
 * Corporate Massage 60 min - $90
-* Aromatherapy 30 Min - $47
+* Aromatherapy 30 Min - $52
 * Aromatherapy - 45 Minutes - $66
 * Aromatherapy - 60 Minutes - $88
 * Aromatherapy - 90 Minutes - $132

@@ -4,7 +4,7 @@ permalink: "/massage-therapy/"
 layout: therapy
 ---
 
-Book a qualified massage therapist online. Choose from Remedial, Sports, Deep Tissue, Relaxation, Aromatherapy, Hot Stone, Pregnancy, Lymphatic or Couples
+Book a qualified massage therapist online. Choose from Remedial, Sports, Deep Tissue, Relaxation, Aromatherapy, Hot-Stone, Pregnancy, Lymphatic or Couples
 
 Private Health Fund Rebates are available with most therapists, please contact 3281 6007 for more information.
 
