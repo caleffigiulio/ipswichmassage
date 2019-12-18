@@ -18,26 +18,26 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 ### Essential Skin Treatments | 60 mins | $88
 Match one of our Environ Essential Skin Treatments to your skin type to get the best results possible.
 
-**Comfort Calm Facial **
+**Comfort Calm Facial**
 Improve the appearance of sensitivity. Ideal for sensitive, irritated skin. A powerful combination of smart ingredients, leaving the skin feeling smoothed with a healthy radiance.
 
-**Moisture Boost Facial **
+**Moisture Boost Facial**
 Improve the appearance of dehydrated skin. Reduce the appearance of fine lines caused by dehydration and increases the plumpness of the deeper layers of the skin. Hyaluronic Acid is the hero ingredient, promoting a moisturised, glowing-looking skin.
 
 **Radiance/Deep Cleansing Facial**
 Ipswich Massage’s original Environ Facials. Hydrate with our Radiance Facial or if you have congested skin, book our Deep Cleansing Facial. Best facials to book with a friend!
 
-**Radiance Reveal Plus + Facial **
+**Radiance Reveal Plus + Facial**
 A targeted solution for sun-damaged or pigmented skin. Boosting the skin with the correct combination of ingredients, results in flawless, radiant-looking skin. 
 *includes alginate masque & electro-sonic df machine
 
-**Youth Reset Facial **
+**Youth Reset Facial**
 Improve the appearance of ageing with Environ’s Youth Reset Facial. Helps soften the appearance of fine lines, sun-damage and sagging skin with our peptide and vitamin packed facial for a more youthful appearance.
 
 ### Focus Treatments | 30mins | $55
 Add on to any facial/treatment or simply book in a Focus Facial! 
 
-**Focus on | FROWN **
+**Focus on | FROWN**
 Pioneering Electro-Sonic Technology. An iconic peptide blend assists in reducing the appearance of expression and frown lines around the eyes and forehead resulting in a more youthful appearance.
  
 **Focus on | EVEN TONE**
