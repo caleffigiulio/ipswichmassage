@@ -1,7 +1,7 @@
 navigation: 
   - 
-    name: Home
-    url: /
+    name: "Timetable"
+    url: /timetable/
   - 
     name: "About Us"
     url: /Learn-About-Ipswich-Massage/
