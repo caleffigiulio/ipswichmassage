@@ -39,7 +39,7 @@ Improve the appearance of ageing with Environ’s Youth Reset Facial. Helps soft
 Introducing our DF II MACHINE that will take your skincare treatments to the next level. Specific Environ ingredients used such as vitamin A, C and growth factors give enhanced results. The IONZYME DF II MACHINE/focus treatments are totally painless, relaxing, comfortable but extremely effective. 
 *Add on to any facial/treatment or simply book in a Focus Facial!*
 
-![sono.png](/uploads/sono.png)
+![sono-3e1706.png](/uploads/sono-3e1706.png)
 
 **Focus on | FROWN**
 Pioneering Electro-Sonic Technology. An iconic peptide blend assists in reducing the appearance of expression and frown lines around the eyes and forehead resulting in a more youthful appearance.
