@@ -36,8 +36,8 @@ A targeted solution for sun-damaged or pigmented skin. Boosting the skin with th
 Improve the appearance of ageing with Environ’s Youth Reset Facial. Helps soften the appearance of fine lines, sun-damage and sagging skin with our peptide and vitamin packed facial for a more youthful appearance.
 
 ### Focus Treatments | 30mins | $55
-The DF II MACHINE will take your treatments to the next level.  Specific Environ ingredients used in DF treatments such as vitamin A, C and growth factors give enhanced results. This innovative system helps with the penetration of the active vitamins and essential growth factors into the skin and provides fast, effective results.  The IONZYME DF II MACHINE treatments are totally painless, relaxing, comfortable but extremely effective. 
-*Add on to any facial/treatment or simply book in a Focus Facial! *
+Introducing our DF II MACHINE that will take your skincare treatments to the next level. Specific Environ ingredients used such as vitamin A, C and growth factors give enhanced results. The IONZYME DF II MACHINE/focus treatments are totally painless, relaxing, comfortable but extremely effective. 
+*Add on to any facial/treatment or simply book in a Focus Facial!*
 
 ![sono.png](/uploads/sono.png)
 
