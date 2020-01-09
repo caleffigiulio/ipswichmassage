@@ -4,7 +4,7 @@ permalink: "/Beauty-therapy/"
 layout: therapy
 ---
 
-We offer state of the art medical grade facials, seasonal inspired body wraps, waxing and tinting. Check out our our packages for delicious combinations.
+We offer state of the art medical grade facials, seasonal inspired body wraps, waxing and tinting. Check out our packages for delicious combinations!
 
 
 <a href="/pricing-reference/">Pricing Reference</a>
