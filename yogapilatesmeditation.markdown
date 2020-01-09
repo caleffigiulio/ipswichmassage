@@ -52,13 +52,12 @@ Child friendly classes allows your little ones to join you in the class, we do n
 **These classes may be subject to change, as classes fill, we will be adding additional classes and times**
 
 ### PRICES: 
-**10 pack of classes**: $250.00 
+**10 pack of classes**: $190.00
 **05 pack of classes**: $110.00
-**Introductory offer**: $49.01 – 28 days unlimited classes 
-**Unlimited membership**: $47.00 per week - $188 charged every 4 weeks
-**Unlimited classes**: $1976.00 – Annual paid upfront 
+**28 days unlimited classes** : $49.01 *introductory offer*
+**Unlimited classes monthly**: $206.80 
+**Unlimited classes 1 year**: $1976.00 – Annual paid upfront 
 **One off Meditation class**: $18.01
-**One off yoga/pilates class**: $15.00 
-**One month unlimited classes after intro offer**: $181.00 
+**One off yoga/pilates class**: $27.01
 
 ****Classes begin 21st January, 2020! Can’t wait to see you all there!
