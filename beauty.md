@@ -54,6 +54,7 @@ A focused treatment to improve the appearance of fine lines and wrinkles using E
 Uses sonopheresis (low frequency ultra sound) to deeply penetrate high doses of vitamins and peptides to smooth skin texture. 
 
 ### Cool Peel Facial Treatments | 60 mins | $124.99
+![facial2.png](/uploads/facial2.png)
 
 **Cool Peel | BLEMISH CONTROL**
 This powerful cool peel therapy assists with the management of blemish prone, distressed skin, by purifying, cleansing and assisting to unclog pores and dissolve impurities. Our hero treatment for problematic skin conditions.
