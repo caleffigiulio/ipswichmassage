@@ -74,8 +74,6 @@ A concentrated, vitamin C infused peel that is freshly mixed before application 
 **Cool Peel | YOUTH RENEW**
 This cool peel treatment assists with reducing the appearance of premature ageing, fine lines, sun-damage and an uneven skin complexion. Discover the power of an intelligent skin peel that will leave the skin looking refreshed and vibrantly youthful.
 
-[Video 18-12-19, 1 28 05 pm.mov](/uploads/Video%2018-12-19,%201%2028%2005%20pm.mov)
-
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Facials</h2>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643448a4" data-widget-version="0"></healcode-widget>
