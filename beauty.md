@@ -79,7 +79,7 @@ This cool peel treatment assists with reducing the appearance of premature agein
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643448a4" data-widget-version="0"></healcode-widget>
 </div>
              
- **Body Treatments & Packages**
+# Body Treatments & Packages
 
 Our body wraps are a true spa experience. First is exfoliatation; clearing impurities, and cleaning the skin. Then to rehydrate and add moisture back in with one of our signature seasonal body wraps. Not to mention a cheeky head/neck massage to help you melt the worries away!
 
