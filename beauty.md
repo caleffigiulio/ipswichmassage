@@ -82,6 +82,7 @@ This cool peel treatment assists with reducing the appearance of premature agein
  **Body Treatments & Packages**
 
 Queensland’s long hot summers inspire sunny days at the beach and tropical fruits.  Prepare your beach skin with one of these delicious Summer inspired body wraps 90min $130
+![bwrap.png](/uploads/bwrap.png)
 
 **Seaside Dream** 
 Coconut and lime exfoliation | Frangipanni hydration body wrap | Coconut oil head and neck massage
