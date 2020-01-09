@@ -81,7 +81,7 @@ This cool peel treatment assists with reducing the appearance of premature agein
              
  **Body Treatments & Packages**
 
-Queensland’s long hot summers inspire sunny days at the beach and tropical fruits.  Prepare your beach skin with one of these delicious Summer inspired body wraps 90min $130
+Our body wraps are a true spa experience. First is exfoliatation; clearing impurities, and cleaning the skin. Then to rehydrate and add moisture back in with one of our signature seasonal body wraps. Not to mention a cheeky head/neck massage to help you melt the worries away!
 
 ![bwrap.png](/uploads/bwrap.png)
 
