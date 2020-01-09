@@ -15,7 +15,7 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 </div>
 
 # FACIAL MENU
-![environ wbsite-1f21d4.png](/uploads/environ%20wbsite-1f21d4.png)
+![environ wbsite.png](/uploads/environ%20wbsite.png)
 ### Essential Skin Treatments | 60 mins | $88
 Match one of our Environ Essential Skin Treatments to your skin type to get the best results possible.
 
