@@ -1,7 +1,14 @@
 navigation: 
   - 
-    name: "Timetable"
-    url: /timetable/
+    name: "Classes"
+    dropdown: true
+    items:
+      -
+        name: "Classes Timetable"
+        url: /timetable/
+      -
+        name: "Prices"
+        url: "https://clients.mindbodyonline.com/classic/mainclass?fl=true&tabID=103"
   - 
     name: "About Us"
     url: /Learn-About-Ipswich-Massage/
@@ -32,6 +39,10 @@ navigation:
         isLast: true
         name: "Spa Therapy"
         url: /spa-therapy/
+      - 
+        isLast: true
+        name: "Yoga, Pilates, Meditation 2020"
+        url: /yoga-pilates-meditation/
     name: Therapies
   - 
     name: "Gift Cards"
