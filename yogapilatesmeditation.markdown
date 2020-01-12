@@ -7,7 +7,8 @@ layout: therapy
 
 # YOGA, PILATES AND MEDITATION 2020
 ![YOGAPHOTO2.jpg](/uploads/YOGAPHOTO2.jpg)
-
+**LOG IN TO OUR SITE TO PURCHASE A PASS AND TO SIGN IN TO A CLASS
+**
 ### A LITTLE BIT ABOUT YOUR TEACHER, MIKEALA
 “I am so excited to meet you in our new space! 
 I am a Yoga Teacher and Pilates instructor with additional training in Pre and Postnatal. I teach a hatha style yoga Focusing on mindfully connecting breath and movement. I am passionate about using yoga and meditation to create healthy minds.
@@ -61,5 +62,6 @@ Child friendly classes allows your little ones to join you in the class, we do n
 **Unlimited classes 1 year**: $1976.00 – Annual paid upfront 
 **One off Meditation class**: $18.01
 **One off yoga/pilates class**: $27.01
-
+**LOG IN TO OUR SITE TO PURCHASE A PASS AND TO SIGN IN TO A CLASS
+**
 ****Classes begin 21st January, 2020! Can’t wait to see you all there!
