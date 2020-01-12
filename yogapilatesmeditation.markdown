@@ -46,7 +46,7 @@ Child friendly classes allows your little ones to join you in the class, we do n
 ## Thursdays
 9:45 – 10:45 AM – Child friendly yoga
 5:30 – 6:30 PM – Restorative Yoga
-7:15 – 8:30 PM – Prenatal Yoga
+7:15 – 8:30 PM – Prenatal Yoga 
 ## Saturdays
 7:30 – 8:15 AM – Pilates
 8:30 – 9:30 AM – Yin Yang Yoga
