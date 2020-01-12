@@ -63,7 +63,7 @@ Child friendly classes allows your little ones to join you in the class, we do n
 **Unlimited classes monthly**: $120 Best option if you plan to do 3 or more classes per week 
 **Unlimited classes 1 year**: $1976.00 – Annual paid upfront (Best option for those committed to regular practice) 
 **One off Meditation class**: $18.01
-**One off yoga/pilates class**: $27.01
+**One off yoga/pilates class**: $22
 **LOG IN TO OUR SITE TO PURCHASE A PASS AND TO SIGN IN TO A CLASS
 **
 ****Classes begin 21st January, 2020! Can’t wait to see you all there!
