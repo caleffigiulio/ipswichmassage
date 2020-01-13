@@ -26,7 +26,7 @@ Yourself in movable clothing, a water bottle, your mat (mats available to use if
 For child friendly classes with your little ones please bring their own blanket with any books/quiet toys where needed.
 
 ### PLEASE NOTE:
-Shoes and devices are not permitted in the studio- please either leave your phone at home or in reception (our front door will be locked at the start of class when no one is at the reception desk, keeping your belonging safe) 
+Shoes and devices are not permitted in the studio. Please either leave your phone at home or in reception (our front door will be locked at the start of class when no one is at the reception desk, keeping your belonging safe).
 As the door is locked at the start of class please ensure you arrive 5-10 minutes early to class. This allows you time to find your spot, get settled in and take a breath before we begin. 
 As you move from the reception to the studio please be mindful of unnecessary chatter, be respectful that others may have arrived early to class to step away from their day, preparing for their practise. If you’ve found friends and would like to chat please stay in reception until we begin. 
 OUR FACILITY:
@@ -54,12 +54,13 @@ Child friendly classes allows your little ones to join you in the class, we do n
 8:30 – 9:30 AM – Yin Yang Yoga
 ## Sundays
 3:45- 5:00 PM – Restorative Yoga + Meditation
+
 **These classes may be subject to change, as classes fill, we will be adding additional classes and times**
 
 ### PRICES: 
 **10 pack of classes**: $175.01 (6 months expiry)
 **05 pack of classes**: $95.01 (6 months expiry)
-**28 days unlimited classes** Excludes Prenatal : $49.01 *introductory offer*
+**28 days unlimited classes** Excludes Prenatal: $49.01 *introductory offer*
 **Unlimited classes monthly**: $120 Best option if you plan to do 3 or more classes per week 
 **Unlimited classes 1 year**: $1976.00 – Annual paid upfront (Best option for those committed to regular practice) 
 **One off Meditation class**: $18.01
