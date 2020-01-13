@@ -140,9 +140,10 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 ----
 
 * 3 x 60min Remedial - $225 
-* 5 x 50min Remedial - $360 
-* 3 x 90 min Remedial - $345 
+* 5 x 60min Remedial - $360 
+* 3 x 90min Remedial - $345 
 * 5 x 90min Remedial - $550
+
 * 3 x 60min Expert Remedial - $270
 * 5 x 60min Expert Remedial - $437.50 
 * 3 x 90min Expert Remedial - $412.50 
