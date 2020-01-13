@@ -135,6 +135,17 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 * Expert Senior Remedial Massage - 30 Minutes - $47.50
 * Expert Senior Remedial Massage - 60 Minutes - $95
 * Expert Senior Remedial Massage - 90 Minutes - $142.50
+### Massage Packages 
+----
+
+* 3 x 60min Remedial - $225 
+* 5 x 50min Remedial - $360 
+* 3 x 90 min Remedial - $345 
+* 5 x 90min Remedial - $550
+* 3 x 60min Expert Remedial - $270
+* 5 x 60min Expert Remedial - $437.50 
+* 3 x 90min Expert Remedial - $412.50 
+* 5 x 90min Expert Remedial - $675 
 
 ### Spa Therapy Pricing
 ----
