@@ -111,6 +111,19 @@ One hour full body oil relaxation massage plus one hour deep cleanse or radiance
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3696248a4" data-widget-version="0"></healcode-widget>
 </div>
 
+# InfraRed Body Wrap
+The Infrared Body Wrap reduces the appearance of cellulite and burns calories in under an hour.  Lay back and relax as heat activated pads promote the breakdown of fat and cleanse the pores of toxins through perspiration. 
+  
+• Increases metabolism for up to 36 hours after your session
+• Purges the body of toxins and fat through perspiration
+• Targeted cellulite reduction
+• Soothes sore and strained muscles
+• Increases blood circulation
+• Anti-inflammatory for muscle and joint pain
+• Burns up to 1400 calories per session
+
+Book in with one of our receptionists so we can set the wrap up for you!
+
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Infrared Body Wrap</h2>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3788248a4" data-widget-version="0"></healcode-widget>
