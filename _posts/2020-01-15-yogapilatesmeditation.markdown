@@ -8,7 +8,7 @@ tags:
 - mental health
 - physical health
 - relaxing
-layout: blog
+layout: default
 ---
 
 When it comes to setting New Year’s resolutions, many of us hope that each year we’ll be feeling healthier and happier than the year before, but who else finds it hard to stick to these plans or truly do something new for yourself?
