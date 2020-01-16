@@ -1,6 +1,13 @@
 ---
 title: Yoga, Pilates & Meditation | Ipswich
 date: 2020-01-16 04:18:00 Z
+tags:
+- yoga
+- pilates
+- meditation
+- mental health
+- physical health
+- relaxing
 layout: blog
 ---
 
