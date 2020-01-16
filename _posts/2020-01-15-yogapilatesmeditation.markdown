@@ -1,6 +1,6 @@
 ---
 title: Yoga, Pilates & Meditation | Ipswich
-date: 2020-01-16 04:18:00 Z
+date: 2020-01-15 04:18:00 Z
 tags:
 - yoga
 - pilates
