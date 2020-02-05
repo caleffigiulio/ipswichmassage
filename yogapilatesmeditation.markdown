@@ -36,10 +36,10 @@ Child friendly classes allows your little ones to join you in the class, we do n
 ## Mondays
 9:45 – 10:45 AM - Pilates child friendly
 5:30 – 6:30 PM - Yoga
-6:30 – 7:00 PM - Meditation
+6:45 – 7:15 PM - Meditation
 ## Tuesdays
 9:45 – 11:00 AM – Restorative Yoga + meditation
-1:30 – 2:30 PM – Mums and Bubs Yogalates
+11:15 – 12:15 PM – Mums and Bubs Yogalates
 6:15 – 7:15 PM – Yin Yang yoga
 ## Wednesdays
 4:00 – 5:00 PM – Yoga
