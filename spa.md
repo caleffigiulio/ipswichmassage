@@ -4,16 +4,15 @@ permalink: "/spa-therapy/"
 layout: therapy
 ---
 
+Take an extra moment for yourself with our new pamper FEET PRAY LOVE packages. Enjoy your treatment in our new, beach inspired Fanta-sea Room; created to take you away from Ipswich and onto the shore of paradise. Sit back and relax in our swinging chairs, help yourself to a refreshment and enjoy one of our 30min, 45min or 60min luxury experiences.
 
+**Soul Blissful** ($88) is a **60 min** hand & foot journey including luxurious foot soak, scrub and Perfect Potion peppermint foot massage coupled with a silky hand treatment and soothing eye mask. Your cuticle and nail care is then followed by a relaxing hand and arm massage! Linger back in our swinging hammock chairs with our noise cancelling headphones. 
 
-**Soul Blissful** ($88) is a 60 min journey including luxurious foot soak, scrub and peppermint foot massage coupled with Environ hand treatment and soothing eye mask.  Linger back in our swinging hammock chairs with our noise cancelling headphones.  Enhance your experience even further with a Pre ordered grazing platter $25
+**Soul Mate** ($55)  is a **45 min** foot journey includes foot soak, foot and calve sugar scrub and a Perfect Potion peppermint oil foot massage aswell as cuticle and nail care. Enjoy on your own or bring your soul mate and enjoy as a couple. 
 
+**Hands with Feeling** ($49.50) this **30 min** pamper is a quick and easy way to add a little well-deserved ‘me’ time into an otherwise busy schedule. Our pampering hand massage is both soothing and relaxing, and a great way to nourish sore or overworked joints. From repetitive strain from regular computer use to everyday wear and tear, our hands are often the last thing we think of when it comes to a pamper session, but often times a good and thorough kneading on our hands and wrists can really help to release tension and get you on the road to relaxation. Feel and see the difference with Environ skin care. Sugar Hand Scrub, Cuticle & Nail Care, Hand & Arm Massage treatment.
 
-**Soul Mate** ($55)  45 min foot journey includes foot bath, sugar scrub and perfect potion peppermint foot lotion massage.  Enjoy on your own or bring your soul mate and enjoy as a couple.  Enhance your experience with a Pre ordered share platter from just $25
-
-**Hands with Feeling** ($49.50)  30mins A quick and easy way to add a little well-deserved ‘me’ time into an otherwise busy schedule, our pampering hand massage is both soothing and relaxing, and a great way to nourish sore or overworked joints. From repetitive strain from regular computer use to everyday wear and tear, our hands are often the last thing we think of when it comes to a pamper session, but often times a good and thorough kneading on our hands and wrists can really help to release tension and get you on the road to relaxation. Feel and see the difference with Environ skin care.   Enhance your experience with a Pre ordered share platter from just $25
-
-
+### Enhance your experience with a pre-ordered share platter from just $25
 
 <script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
 
