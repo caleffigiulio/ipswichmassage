@@ -6,6 +6,8 @@ layout: therapy
 
 Take an extra moment for yourself with our new pamper FEET PRAY LOVE packages. Enjoy your treatment in our new, beach inspired Fanta-sea Room; created to take you away from Ipswich and onto the shore of paradise. Sit back and relax in our swinging chairs, help yourself to a refreshment and enjoy one of our 30min, 45min or 60min luxury experiences.
 
+![feet.png](/uploads/feet.png)
+
 **Soul Blissful** ($88) is a **60 min** hand & foot journey including luxurious foot soak, scrub and Perfect Potion peppermint foot massage coupled with a silky hand treatment and soothing eye mask. Your cuticle and nail care is then followed by a relaxing hand and arm massage! Linger back in our swinging hammock chairs with our noise cancelling headphones. 
 
 **Soul Mate** ($55)  is a **45 min** foot journey includes foot soak, foot and calve sugar scrub and a Perfect Potion peppermint oil foot massage aswell as cuticle and nail care. Enjoy on your own or bring your soul mate and enjoy as a couple. 
