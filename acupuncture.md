@@ -1,9 +1,11 @@
 ---
 title: Acupuncture and Chinese Medicine
 permalink: "/Acupuncture-and-chinese-medicine/"
+Field name: 
 layout: therapy
 ---
 
+<meta name="google-site-verification" content="OPaPM21cHk2Q0rSb0KK5t4miYYI6ToUjwcS9bYgWYzI" />
 Acupuncture involves the insertion of fine pins into specific acu-points to harmonise the flow of qi (vital energy) in the body. Other non-insertion techniques like moxibustion, cupping, or acupressure may be used alone or in conjunction with the acupuncture treatment. 
 
 Book an acupuncture and Chinese medicine consult and treatment below.  If you do not know which type of treatment you need please call our friendly receptionist and they will be able to help you. Ph32816007
