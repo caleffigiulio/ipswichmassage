@@ -98,6 +98,9 @@ The massage therapist will use a combination of:
 • long, flowing strokes in the direction of the heart
 • deep circular motions
 
+--------------------------------
+## MASSAGE PRICING
+
 *Couples, Deep Tissue/Remedial, Pregnancy, Reflexology, Sports & Swedish Massage*
 
 30 mins - $47.00
