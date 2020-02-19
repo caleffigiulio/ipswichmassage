@@ -1,7 +1,7 @@
 ---
 title: Our Rooms
 date: 2020-02-19 04:06:00 Z
-layout: home
+layout: therapy
 ---
 
 ![9VGe9cTc.jpeg](/uploads/9VGe9cTc.jpeg)
