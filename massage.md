@@ -8,7 +8,7 @@ layout: therapy
 
 <a href="/pricing-reference/">Pricing Reference</a>
 
-![room.png](/uploads/room.png)
+![rooms.png](/uploads/rooms.png)
 
 <div class='container bg-light my-4 p-4'>
   <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643748a4" data-widget-version="0"></healcode-widget>
