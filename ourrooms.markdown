@@ -1,6 +1,7 @@
 ---
 title: Our Rooms
 date: 2020-02-19 04:06:00 Z
+permalink: "/ourrooms"
 layout: therapy
 ---
 
