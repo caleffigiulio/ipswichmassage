@@ -22,6 +22,7 @@ Take an extra moment for yourself with our new pamper FEET PRAY LOVE packages. E
 
 
 #### Add a relaxing herbal spa bath treatment to any service to fully enjoy the moment
+Improve cardiovascular health, promote better sleep, alleviate aches and pains, lower  blood pressure, can help with weight loss, reduce stress, reduce headaches and improve anxiety.
 
 ![ipswich.png](/uploads/ipswich.png)
 
