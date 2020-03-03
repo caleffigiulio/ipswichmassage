@@ -56,6 +56,25 @@ Hot stone massage may help:
 
 During a hot stone massage, heated stones are placed on different areas around your whole body. Your therapist may hold a stone as they massage different parts of your body using Swedish massage techniques using gentle pressure. Sometimes cold stones are also used. 
 
+### MYOTHERAPY
+A Myotherapist is an excellent alternative to seeing a physio, chiro, remedial massage therapist or osteo. Our Myotherapist Sascha has a Bachelor of Health Science (Myotherapy) and is a member of the Myotherapy Association Australia. 
+
+Sascha uses an integrated therapeutic approach of assessment and treatment using the latest evidence-based manual therapy techniques to assist with chronic pain, recovery from injury, repetitive stress injuries, tendinitis, headaches, back and neck pain, hip pain, shoulder problems, bursitis, restricted joints and mobility, muscular imbalances, nerve impingement, postural correction as well as increased performance and well-being. She enjoys being able to help people by relieving pain, increasing their mobility, and providing education around their specific needs, allowing them to regain control of their life.
+
+**Sascha's treatments may include;**
+• Sports Massage
+• Remedial Massage
+• Dry Needling
+• Electrotherapeutic Dry Needling
+• Cupping
+• Low Level Laser Therapy
+• Joint mobilization
+• Dry needling
+• Nerve mobilization
+• Strapping & taping
+• Exercise prescription
+• Client education
+
 ### PREGNANCY MASSAGE
 Prenatal massage is a safe way for women to get a massage during pregnancy. It can help reduce pregnancy body aches, reduce stress, and ease muscle tension. You can get a massage at any time during your pregnancy; however, we only take clients after 12 weeks just to be safe.
 
