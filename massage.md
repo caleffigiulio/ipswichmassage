@@ -120,15 +120,25 @@ The massage therapist will use a combination of:
 
 *Couples, Deep Tissue/Remedial, Pregnancy, Reflexology, Sports & Swedish Massage*
 
-30 mins - $47.00 | 45 mins - $60.00 | 60 mins - $80.00 | 90 mins - $120.00 | 120 mins - $160.00
+30 mins - $47.00 
+45 mins - $60.00
+60 mins - $80.00
+90 mins - $120.00
+120 mins - $160.00
 
 *Aromatherapy, Hot Stone & Chinese Cupping Massage*
 
-30 mins - $52.00 | 45 mins - $66.00 | 60 mins - $88.00 | 90 mins - $132.00
+30 mins - $52.00
+45 mins - $66.00
+60 mins - $88.00
+90 mins - $132.00
 
 *Expert Senior Remedial Massage/Myotherapy*
 
-30 mins - $47.50 | 45 mins - $70.00 | 60 mins - $95.00 | 90 mins - $142.50
+30 mins - $47.50
+45 mins - $70.00
+60 mins - $95.00
+90 mins - $142.50
 
 `Contact Us:
 P: (07) 3281 6007 | F: (07) 3143 5648
