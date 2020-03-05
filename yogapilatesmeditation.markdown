@@ -9,6 +9,7 @@ layout: therapy
 ![yoga.png](/uploads/yoga.png)
 
 **LOG IN TO OUR SITE TO PURCHASE A PASS AND TO SIGN IN TO A CLASS**
+## [CLICK HERE TO SEE OUR CLASSES AND TIMETABLE](https://ipswichmassage.com.au/timetable/)
 
 ### A LITTLE BIT ABOUT YOUR TEACHER, MIKEALA
 “I am so excited to meet you in our new space! 
@@ -30,8 +31,6 @@ As the door is locked at the start of class please ensure you arrive 5-10 minute
 OUR FACILITY:
 We have easy pram and wheelchair entry however our toilets and change rooms with a change table are downstairs and not that easy for prams and wheelchairs.  
 Child friendly classes allows your little ones to join you in the class, we do not offer child minding services.
-
-[CLICK HERE TO SEE OUR CLASSES AND TIMETABLE](https://ipswichmassage.com.au/timetable/)
 
 ### PRICES: 
 **05 pack of classes**: $95.01 (6 months expiry)
