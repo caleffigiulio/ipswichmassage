@@ -9,7 +9,7 @@ layout: therapy
 ![yoga.png](/uploads/yoga.png)
 
 **LOG IN TO OUR SITE TO PURCHASE A PASS AND TO SIGN IN TO A CLASS**
-## [CLICK HERE TO SEE OUR CLASSES AND TIMETABLE](https://ipswichmassage.com.au/timetable/)
+**[CLICK HERE TO SEE OUR CLASSES AND TIMETABLE](https://ipswichmassage.com.au/timetable/)**
 
 ### A LITTLE BIT ABOUT YOUR TEACHER, MIKEALA
 “I am so excited to meet you in our new space! 
