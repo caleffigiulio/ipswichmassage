@@ -6,8 +6,7 @@ layout: therapy
 ---
 
 # YOGA, PILATES AND MEDITATION 2020
-![YOGAPHOTO2.jpg](/uploads/YOGAPHOTO2.jpg)
-
+![yoga.png](/uploads/yoga.png)
 
 **LOG IN TO OUR SITE TO PURCHASE A PASS AND TO SIGN IN TO A CLASS
 **
@@ -47,4 +46,4 @@ Child friendly classes allows your little ones to join you in the class, we do n
 
 **LOG IN TO OUR SITE OR MINDBODY APP TO PURCHASE A PASS AND TO SIGN IN TO A CLASS**
 
-![yoga.png](/uploads/yoga.png)
+![YOGAPHOTO2.jpg](/uploads/YOGAPHOTO2.jpg)
