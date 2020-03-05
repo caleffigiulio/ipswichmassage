@@ -45,6 +45,6 @@ Child friendly classes allows your little ones to join you in the class, we do n
 
 **One off yoga/pilates class**: $22
 
-**LOG IN TO OUR SITE TO PURCHASE A PASS AND TO SIGN IN TO A CLASS
-**
+**LOG IN TO OUR SITE OR MINDBODY APP TO PURCHASE A PASS AND TO SIGN IN TO A CLASS**
+
 ![yoga.png](/uploads/yoga.png)
