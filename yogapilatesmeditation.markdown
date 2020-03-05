@@ -30,8 +30,7 @@ For child friendly classes with your little ones please bring their own blanket 
 Shoes and devices are not permitted in the studio. Please either leave your phone at home or in reception (our front door will be locked at the start of class when no one is at the reception desk, keeping your belonging safe).
 As the door is locked at the start of class please ensure you arrive 5-10 minutes early to class. This allows you time to find your spot, get settled in and take a breath before we begin. As you move from the reception to the studio please be mindful of unnecessary chatter, be respectful that others may have arrived early to class to step away from their day, preparing for their practise. If you’ve found friends and would like to chat please stay in reception until we begin. 
 OUR FACILITY:
-We have easy pram and wheelchair entry however our toilets and change rooms with a change table are downstairs and not that easy for prams and wheelchairs.  
-Child friendly classes allows your little ones to join you in the class, we do not offer child minding services.
+We have easy pram and wheelchair entry however our toilets and change rooms with a change table are downstairs and not that easy for prams and wheelchairs. Child friendly classes allows your little ones to join you in the class, we do not offer child minding services.
 
 ### PRICES: 
 **One off yoga/pilates class**: $22
