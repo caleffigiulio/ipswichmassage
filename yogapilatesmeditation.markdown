@@ -8,8 +8,8 @@ layout: therapy
 # YOGA, PILATES AND MEDITATION 2020
 ![yoga.png](/uploads/yoga.png)
 
-**LOG IN TO OUR SITE TO PURCHASE A PASS AND TO SIGN IN TO A CLASS
-**
+**LOG IN TO OUR SITE TO PURCHASE A PASS AND TO SIGN IN TO A CLASS**
+
 ### A LITTLE BIT ABOUT YOUR TEACHER, MIKEALA
 “I am so excited to meet you in our new space! 
 I am a Yoga Teacher and Pilates instructor with additional training in Pre and Postnatal. I teach a hatha style yoga Focusing on mindfully connecting breath and movement. I am passionate about using yoga and meditation to create healthy minds.
