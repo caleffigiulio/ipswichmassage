@@ -140,11 +140,6 @@ The massage therapist will use a combination of:
 * 60 mins - $95.00
 * 90 mins - $142.50
 
-Contact Us:
-*P: (07) 3281 6007 | F: (07) 3143 5648
-E: enquiry@ipswichmassage.com.au
-W: www.ipswichmassage.com.au*
-
 <div data-fred-widget-reviews></div>
 <script src="https://d1yw3duy3i4qiv.cloudfront.net/js/sdk-v1.js"></script>
 <script>
