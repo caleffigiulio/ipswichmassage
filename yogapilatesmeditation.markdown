@@ -33,6 +33,8 @@ We have easy pram and wheelchair entry however our toilets and change rooms with
 Child friendly classes allows your little ones to join you in the class, we do not offer child minding services.
 
 ### PRICES: 
+**One off yoga/pilates class**: $22
+
 **05 pack of classes**: $95.01 (6 months expiry)
 
 **10 pack of classes**: $175.01 (6 months expiry)
@@ -40,8 +42,6 @@ Child friendly classes allows your little ones to join you in the class, we do n
 **INTRO OFFER - 28 days unlimited classes** (excludes prenatal): $49.01 
 
 **Unlimited classes monthly**: $120 ($99 if purchased during intro offer)
-
-**One off yoga/pilates class**: $22
 
 **LOG IN TO OUR SITE OR MINDBODY APP TO PURCHASE A PASS AND TO SIGN IN TO A CLASS**
 
