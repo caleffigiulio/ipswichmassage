@@ -39,7 +39,7 @@ Child friendly classes allows your little ones to join you in the class, we do n
 
 **10 pack of classes**: $175.01 (6 months expiry)
 
-**28 days unlimited classes** (excludes prenatal): $49.01 *introductory offer*
+**INTRO OFFER - 28 days unlimited classes** (excludes prenatal): $49.01 
 
 **Unlimited classes monthly**: $120 ($99 if purchased during intro offer)
 
