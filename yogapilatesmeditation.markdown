@@ -35,9 +35,9 @@ Child friendly classes allows your little ones to join you in the class, we do n
 [## CLICK HERE TO SEE OUR CLASSES AND TIMETABLE](https://ipswichmassage.com.au/timetable/)
 
 ### PRICES: 
-**10 pack of classes**: $175.01 (6 months expiry)
-
 **05 pack of classes**: $95.01 (6 months expiry)
+
+**10 pack of classes**: $175.01 (6 months expiry)
 
 **28 days unlimited classes** (excludes prenatal): $49.01 *introductory offer*
 
