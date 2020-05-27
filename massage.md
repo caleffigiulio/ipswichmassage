@@ -30,9 +30,9 @@ During the massage, you’ll be given a full-body massage while inhaling essenti
 Cupping therapy is an alternative therapy where suction devices are placed on the skin to disperse and break up stagnation and congestion by drawing congested blood or energy to the surface. People have cupping treatments for many purposes, including to help with pain, inflammation, blood flow, relaxation and well-being, and as a type of deep-tissue massage.
 
 ### COUPLES MASSAGE *(RELAXATION/REMEDIAL)*
-A couple’s massage is a treatment that you can experience with your partner, friend, or family member in the same room. It brings all the benefits of a regular massage and you can add a herbal spa bath, foot massage, our new VIP treatment, body scrub, facials or whatever you’d like!
+A couple’s massage is a treatment that you can experience with your partner, friend, or family member in the same room. It brings all the benefits of a regular massage and you can add a herbal spa bath, foot massage, body scrub, or facials. Be sure to book and purchase TWO couples massages when booking online.
 
-You and your partner/friends/fam can choose a massage style or treatment each, depending on your preference. Your partner and you will be on tables side-by-side, and you’ll each have your own massage therapist working on your body. You can talk during the massage if you wish as our Couple Massages are in our private, secluded rooms. Enjoy the experience together.
+You and your partner/friends/fam can choose a massage style or treatment each, depending on your preference. Your partner and you will be on tables side-by-side, and you’ll each have your own massage therapist working on your body. 
 
 ### DEEP TISSUE/REMEDIAL MASSAGE
 Deep tissue massage uses more pressure than a Swedish massage. It’s a good option if you have chronic muscle problems, such as soreness, injury, or imbalance. It can help relieve tight muscles, chronic muscle pain, and anxiety.
@@ -58,24 +58,6 @@ Hot stone massage may help:
 
 During a hot stone massage, heated stones are placed on different areas around your whole body. Your therapist may hold a stone as they massage different parts of your body using Swedish massage techniques using gentle pressure. Sometimes cold stones are also used. 
 
-### MYOTHERAPY
-A Myotherapist is an excellent alternative to seeing a physio, chiro, remedial massage therapist or osteo. Our Myotherapist Sascha has a Bachelor of Health Science (Myotherapy) and is a member of the Myotherapy Association Australia. 
-
-Sascha uses an integrated therapeutic approach of assessment and treatment using the latest evidence-based manual therapy techniques to assist with chronic pain, recovery from injury, repetitive stress injuries, tendinitis, headaches, back and neck pain, hip pain, shoulder problems, bursitis, restricted joints and mobility, muscular imbalances, nerve impingement, postural correction as well as increased performance and well-being. She enjoys being able to help people by relieving pain, increasing their mobility, and providing education around their specific needs, allowing them to regain control of their life.
-
-**Sascha's treatments may include;**
-• Sports Massage
-• Remedial Massage
-• Dry Needling
-• Electrotherapeutic Dry Needling
-• Cupping
-• Low Level Laser Therapy
-• Joint mobilization
-• Dry needling
-• Nerve mobilization
-• Strapping & taping
-• Exercise prescription
-• Client education
 
 ### PREGNANCY MASSAGE
 Prenatal massage is a safe way for women to get a massage during pregnancy. It can help reduce pregnancy body aches, reduce stress, and ease muscle tension. You can get a massage at any time during your pregnancy; however, we only take clients after 12 weeks just to be safe.
