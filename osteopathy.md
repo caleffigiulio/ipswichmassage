@@ -4,7 +4,7 @@ permalink: "/osteopathy-therapy-information/"
 layout: therapy
 ---
 
-Due to the Covid 19 restrictions we are currently only seeing patients who desperately need pain relief.  We only have Dr Paul Gray Osteopath and Carolina (Physiotherapist) working.
+
 
 Osteopathy is a form of drug-free non-invasive manual medicine that focuses on total body health by treating and strengthening the musculoskeletal framework, which includes the joints, muscles and spine. Its aim is to positively affect the body’s nervous, circulatory and lymphatic systems.
 
