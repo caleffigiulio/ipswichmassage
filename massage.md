@@ -60,7 +60,7 @@ During a hot stone massage, heated stones are placed on different areas around y
 
 
 ### PREGNANCY MASSAGE
-Prenatal massage is a safe way for women to get a massage during pregnancy. It can help reduce pregnancy body aches, reduce stress, and ease muscle tension. You can get a massage at any time during your pregnancy; however, we only take clients after 12 weeks just to be safe.
+Prenatal massage is a safe way for women to get a massage during pregnancy. It can help reduce pregnancy body aches, reduce stress, and ease muscle tension. You can get a massage at any time during your pregnancy; however, if you are in your 1st Tri Semester we will need to book you with our Expert Remedial therapists.
 
 Prenatal massage uses mild pressure like Swedish massage. The therapist will focus on areas such as your lower back, hips, and legs. 
 
