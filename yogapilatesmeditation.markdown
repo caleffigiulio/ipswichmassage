@@ -41,7 +41,7 @@ We have easy pram and wheelchair entry however our toilets and change rooms with
 
 **INTRO OFFER - 28 days unlimited classes** (excludes prenatal): $49.01 
 
-**Unlimited classes monthly**: $120 ($99 if purchased during intro offer)
+**Unlimited classes monthly**: $120 
 
 **LOG IN TO OUR SITE OR MINDBODY APP TO PURCHASE A PASS AND TO SIGN IN TO A CLASS**
 
