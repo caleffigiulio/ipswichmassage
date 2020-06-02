@@ -43,6 +43,6 @@ We have easy pram and wheelchair entry however our toilets and change rooms with
 
 **Unlimited classes monthly**: $120 
 
-**LOG IN TO OUR SITE OR MINDBODY APP TO PURCHASE A PASS AND TO SIGN IN TO A CLASS**
+**LOG IN TO OUR SITE OR DOWNLOAD MINDBODY APP TO PURCHASE A PASS AND TO SIGN IN TO A CLASS**  CALL 32816007 IF YOU NEED ASSISTANCE 
 
 ![YOGAPHOTO2.jpg](/uploads/YOGAPHOTO2.jpg)
