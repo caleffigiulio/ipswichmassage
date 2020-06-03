@@ -67,8 +67,7 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 * Chinese Cupping 60min - $75
 * Initial consultation - $92
 * subsequent visit - $72
-* Acupuncture + Massage Combo - $75
-* Acupuncture+ Massage Combo 60min - $75
+* Acupuncture+ Massage Combo 60min - $80
 
 ### Osteopathy Pricing
 ----
@@ -152,4 +151,6 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 ### Spa Therapy Pricing
 ----
 * Spa bath herbal therapy - $45.99
+* Infra Red Bodywrap 60min - $35
+* Infra Red Bodywrap 4 sessions - $99
 
