@@ -2,25 +2,25 @@
 title: Aromatherapy for a Positive Work Space
 date: 2018-09-28 01:52:00 Z
 categories:
-- oil blends
-- aromatherapy
-- essential oils
-- work place
+  - oil blends
+  - aromatherapy
+  - essential oils
+  - work place
 tags:
-- Perfect Potion
-- essential oils
-- diffuser
-- calm
-- peace
-- productivity
-- focus
-- relax
-- oil blend
-- benefits
-- work
-- work place
-- wellness
-- positivity
+  - Perfect Potion
+  - essential oils
+  - diffuser
+  - calm
+  - peace
+  - productivity
+  - focus
+  - relax
+  - oil blend
+  - benefits
+  - work
+  - work place
+  - wellness
+  - positivity
 layout: post
 ---
 
@@ -32,17 +32,17 @@ Can you imagine a workplace infused with peace, calm and productivity instead? W
 
 # **Boost Your Mood- Happy & Calm**
 
-Swap that cheeky afternoon sugar hit for some aroma goodness! The smell of cheerful oranges, calming chamomile and lavender creates feelings of positivity. Frankincense essential oil evokes elevation, relaxation and revitalization.Happy and Calm is the perfect 3pm pick me up to help you move through your afternoon feeling uplifted and naturally joyous. 
+Swap that cheeky afternoon sugar hit for some aroma goodness! The smell of cheerful oranges, calming chamomile and lavender creates feelings of positivity. Frankincense essential oil evokes elevation, relaxation and revitalization.Happy and Calm is the perfect 3pm pick me up to help you move through your afternoon feeling uplifted and naturally joyous.
 
-![happy n clam blend.PNG](/uploads/happy%20n%20clam%20blend.PNG) 
+![happy n clam blend.PNG](/uploads/happy%20n%20clam%20blend.PNG)
 
-# Remain Calm and Centered - Relax 
+# Remain Calm and Centered - Relax
 
 Soothe stress your stress. Relax Blend features lavender for calmness and ylang ylang to invite in peace and ease irritation.Geranium essential oil is also included to promote feelings of balance. This blend is perfect for helping keep stress at bay in environments filled with long meetings and tight deadlines.
 
 ![relax blend.PNG](/uploads/relax%20blend.PNG)
 
-# Deepen your Concentration - Focus 
+# Deepen your Concentration - Focus
 
 ![focus.PNG](/uploads/focus.PNG)
 
@@ -52,4 +52,4 @@ Find focus with rosemary essential oil. It's known for enhancing productivity, m
 
 Keep your bright ideas flowing. This energizing powerhouse is formulated to awaken your mind, excite your senses and lift your spirits. Lime essential oil refreshes whilst mandarin adds a playful, optimistic and joyful energy.Zest also features sweet orange for creativity, imagination and enthusiasm.\*Zest Currently not available in store.
 
-Infuse your work place with Peace, Calm and Productivity for just \*$18.95, Available in-store. 
+Infuse your work place with Peace, Calm and Productivity for just \*\$18.95, Available in-store.

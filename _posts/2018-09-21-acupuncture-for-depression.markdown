@@ -2,21 +2,21 @@
 title: Acupuncture for  Depression?
 date: 2018-09-21 10:30:00 Z
 categories:
-- depression
-- anxiety
-- acupuncture
+  - depression
+  - anxiety
+  - acupuncture
 tags:
-- depression
-- anxiety
-- mental health
-- health care
-- health
-- acupuncture
-- alternative
+  - depression
+  - anxiety
+  - mental health
+  - health care
+  - health
+  - acupuncture
+  - alternative
 layout: post
 ---
 
-In Australia, it's estimated that 45% of people will experience a mental health condition in their lifetime, in one year around 1 million Australian adults have been diagnosed with depression, and 2 million with Anxiety. The numbers are alarming, and only growing. When it comes to Mental Health, i think we over look alternative options, like acupuncture and Chinese medicine. So today, from our wonderful 5th generation Chinese herbalist and senior acupuncturist to you, Here's how we can help. 
+In Australia, it's estimated that 45% of people will experience a mental health condition in their lifetime, in one year around 1 million Australian adults have been diagnosed with depression, and 2 million with Anxiety. The numbers are alarming, and only growing. When it comes to Mental Health, i think we over look alternative options, like acupuncture and Chinese medicine. So today, from our wonderful 5th generation Chinese herbalist and senior acupuncturist to you, Here's how we can help.
 
 **What is Depression? **
 
@@ -34,7 +34,7 @@ Depression, on the other hand, can be described as stagnant energy within the bo
 
 Your course of treatment will depend on how your symptoms react to the acupuncture. Someone with an acute injury will need more frequent treatments for a shorter period of time. Whereas someone working on a chronic condition might have their treatments spaced further apart, but can expect to commit to a longer process. At beginning, your treatment plan will be a little more aggressive. You can expect to come in for acupuncture at least once or twice weekly for the first two or three weeks and then every two weeks or once per month.
 
-*Don't forget, it's usually taken years for our symptoms to manifest in the way they do now. We can't expect them to disappear in one or two treatments.*
+_Don't forget, it's usually taken years for our symptoms to manifest in the way they do now. We can't expect them to disappear in one or two treatments._
 
 In conclusion, If we’re constantly under stress and pressure to perform, which can bring on disease and other serious health issues.Most of us take better care of our cars and bikes than we do ourselves. We're conditioned to remember to get oil changes every 3,000 miles on our cars and tune-ups on our bikes at the change of every season.But when do we get our own tune-ups?
 

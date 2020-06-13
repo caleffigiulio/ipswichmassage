@@ -4,24 +4,30 @@ permalink: "/book-a-therapy-session/"
 layout: webtool
 ---
 
-<p>This selection contains all our therapy options, if you would like to book based on a specific therapy, please select one of the following to visit that therapy's page.</p>
-<p> {% for page in site.data.nav.navigation %}
-      {% if page.name == "Therapies" %}
-        {% for therapy in page.items %}
-          {% if therapy.isLast == false %}
-            <a href="{{ therapy.url }}" class='px-2'>{{ therapy.name }}</a><span> | </span>
-          {% else %}
-            <a href="{{ therapy.url }}"> {{ therapy.name }}</a>
-          {% endif %}
-        {% endfor %}
-      {% endif %}
-    {% endfor %}</p>
-    <a href="/pricing-reference/">Pricing Reference</a>
+<p>
+  This selection contains all our therapy options, if you would like to book
+  based on a specific therapy, please select one of the following to visit that
+  therapy's page.
+</p>
+<p>
+  {% for page in site.data.nav.navigation %} {% if page.name == "Therapies" %}
+  {% for therapy in page.items %} {% if therapy.isLast == false %}
+  <a href="{{ therapy.url }}" class="px-2">{{ therapy.name }}</a
+  ><span> | </span>
+  {% else %}
+  <a href="{{ therapy.url }}"> {{ therapy.name }}</a>
+  {% endif %} {% endfor %} {% endif %} {% endfor %}
+</p>
+<a href="/pricing-reference/">Pricing Reference</a>
 
-<div class='container bg-light my-4 p-4'>
-
+<div class="container bg-light my-4 p-4">
   <script src="https://widgets.healcode.com/javascripts/healcode.js"></script>
 
-  <healcode-widget class='text-center' data-type="appointments" data-widget-partner="object" data-widget-id="1f3630248a4" data-widget-version="0"></healcode-widget>
-
+  <healcode-widget
+    class="text-center"
+    data-type="appointments"
+    data-widget-partner="object"
+    data-widget-id="1f3630248a4"
+    data-widget-version="0"
+  ></healcode-widget>
 </div>

@@ -24,4 +24,3 @@ layout: webtool
       starHexColor: "fcc415"
     });
 </script>
-

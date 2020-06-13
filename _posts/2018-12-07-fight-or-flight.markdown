@@ -2,29 +2,29 @@
 title: Fight or Flight?
 date: 2018-12-07 02:06:00 Z
 categories:
-- acupuncture
-- health
-- wellness
-- mental health
+  - acupuncture
+  - health
+  - wellness
+  - mental health
 tags:
-- acupuncture
-- stress
-- depression
-- fight
-- flight
-- hormones
-- wellbeing
-- health
-- benefits
-- health care
-- Ipswich
-- private health
-- wellness
-- mental health
-- anxiety
+  - acupuncture
+  - stress
+  - depression
+  - fight
+  - flight
+  - hormones
+  - wellbeing
+  - health
+  - benefits
+  - health care
+  - Ipswich
+  - private health
+  - wellness
+  - mental health
+  - anxiety
 ---
 
-# How acupuncture can pull the plug on stress! 
+# How acupuncture can pull the plug on stress!
 
 Stress is a silent killer in our culture, and its this time of year we generally feel it the most. We are constantly barraged with the demands of life, violence on TV and anger on the internet. This is all on top of the business of life where most of us just have too much on our plates, with Christmas around the corner, we’re finding plates are beginning to feel a little too full with the extra stress.
 

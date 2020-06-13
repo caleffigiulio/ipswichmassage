@@ -28,7 +28,7 @@ With Health, comes *health-Care. *Health care is a fundamental aspect of Austral
 
 There are approximately 69 million complimentary medicine appointments with practitioners annually. Many Australians that are managing chronic disease utilise complementary medicine. The Australian public chooses between the various forms of health-care daily. It is a fundamental right of people to determine their own health-care.
 
-**Conventional Medicine** 
+**Conventional Medicine**
 
 ![Conventional-Medicine-1024x683.jpg](/uploads/Conventional-Medicine-1024x683.jpg)Conventional medicine, commonly called western medicine, is a critical part of our health- care system. Conventional medicine is practised by registered medical practitioners and incorporates doctors, surgeons and medical specialists and associated hospital procedures and pharmaceuticals. Medical practitioners are registered under National Boards regulated by the overarching regulatory body, Australian Health Practitioner Regulation Agency (AHPRA).
 
@@ -64,16 +64,16 @@ Practitioners of complementary medicine generally state that they offer and supp
 
 · An estimated 69.2 million adult Australians had visited CAM practitioners in the preceding 12-month period, compared with an almost identical number of estimated visits to medical practitioners (69.3).
 
-· The annual ‘out of pocket’ expenditure on CAM nationally was estimated as A$4.13 billion,
+· The annual ‘out of pocket’ expenditure on CAM nationally was estimated as A\$4.13 billion,
 
 **What is the difference between Complementary and Alternative Medicine?**
 
-Alternative Medicine practitioners and modalities operate *to the exclusion of* (or as an alternative to) Conventional Medicine. Practitioners of these modalities present that they offer an alternative that people can choose on a stand-alone basis. As an example of alternative medicine, a person may choose to treat disease using a diet, supplements or other treatment, instead of using conventional treatment by a medical doctor.
+Alternative Medicine practitioners and modalities operate _to the exclusion of_ (or as an alternative to) Conventional Medicine. Practitioners of these modalities present that they offer an alternative that people can choose on a stand-alone basis. As an example of alternative medicine, a person may choose to treat disease using a diet, supplements or other treatment, instead of using conventional treatment by a medical doctor.
 
 **Complementary to Medicine**
 
 ![compmedicine.jpg](/uploads/compmedicine.jpg)
 
-Complementary to Medicine means therapies that **work *alongside* and not instead of conventional medicine**, supporting the work that conventional medicine does. They deliberately work together with conventional medicine so that both are used for the benefit of the client.
+Complementary to Medicine means therapies that **work _alongside_ and not instead of conventional medicine**, supporting the work that conventional medicine does. They deliberately work together with conventional medicine so that both are used for the benefit of the client.
 
 Conventional Medicine is held in very high regard as effectively performing miracles on a daily basis that save people from often dire symptoms. Complementary to Medicine therapies can support Conventional Medicine’s work, and the body and person that receives it.

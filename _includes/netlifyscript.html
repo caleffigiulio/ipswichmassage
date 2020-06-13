@@ -1,9 +1,7 @@
-
-
 <!-- Needs to be inline as it will get called individually in two places, at the head file and in the index of the admin file -->
 <script>
   if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
+    window.netlifyIdentity.on("init", (user) => {
       if (!user) {
         window.netlifyIdentity.on("login", () => {
           document.location.href = "/admin/";

@@ -6,7 +6,6 @@ layout: therapy
 
 We offer state of the art medical grade facials, seasonal inspired body wraps, waxing and tinting. Check out our packages for delicious combinations!
 
-
 <a href="/pricing-reference/">Pricing Reference</a>
 
 <div class='container bg-light my-4 p-4'>
@@ -15,8 +14,11 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 </div>
 
 # FACIAL MENU
+
 ![environ wbsite.png](/uploads/environ%20wbsite.png)
-### Essential Skin Treatments | 60 mins | $88
+
+### Essential Skin Treatments | 60 mins | \$88
+
 Match one of our Environ Essential Skin Treatments to your skin type to get the best results possible.
 
 **Comfort Calm Facial**
@@ -29,21 +31,22 @@ Improve the appearance of dehydrated skin. Reduce the appearance of fine lines c
 Ipswich Massage’s original Environ Facials. Hydrate with our Radiance Facial or if you have congested skin, book our Deep Cleansing Facial. Best facials to book with a friend!
 
 **Radiance Reveal Plus + Facial**
-A targeted solution for sun-damaged or pigmented skin. Boosting the skin with the correct combination of ingredients, results in flawless, radiant-looking skin. 
-*includes alginate masque & electro-sonic df machine
+A targeted solution for sun-damaged or pigmented skin. Boosting the skin with the correct combination of ingredients, results in flawless, radiant-looking skin.
+\*includes alginate masque & electro-sonic df machine
 
 **Youth Reset Facial**
 Improve the appearance of ageing with Environ’s Youth Reset Facial. Helps soften the appearance of fine lines, sun-damage and sagging skin with our peptide and vitamin packed facial for a more youthful appearance.
 
-### Focus Treatments | 30mins | $55
-Introducing our DF II MACHINE that will take your skincare treatments to the next level. Specific Environ ingredients used such as vitamin A, C and growth factors give enhanced results. The IONZYME DF II MACHINE/focus treatments are totally painless, relaxing, comfortable but extremely effective. 
-*Add on to any facial/treatment or simply book in a Focus Facial!*
+### Focus Treatments | 30mins | \$55
+
+Introducing our DF II MACHINE that will take your skincare treatments to the next level. Specific Environ ingredients used such as vitamin A, C and growth factors give enhanced results. The IONZYME DF II MACHINE/focus treatments are totally painless, relaxing, comfortable but extremely effective.
+_Add on to any facial/treatment or simply book in a Focus Facial!_
 
 ![sono-3e1706.png](/uploads/sono-3e1706.png)
 
 **Focus on | FROWN**
 Pioneering Electro-Sonic Technology. An iconic peptide blend assists in reducing the appearance of expression and frown lines around the eyes and forehead resulting in a more youthful appearance.
- 
+
 **Focus on | EVEN TONE**
 A focused treatment to improve the appearance of uneven skin tone (pigmentation) using the ENVIRON mela fade system and sonophoresis. The powerful combination of vitamin A, C and AHA is a unique approach to assist in lightening the appearance of pigmented marks resulting in a more even-toned, brighter complexion.
 
@@ -51,9 +54,10 @@ A focused treatment to improve the appearance of uneven skin tone (pigmentation)
 A focused treatment to improve the appearance of fine lines and wrinkles using Environ Hydrating serum and sonophoresis. Combining our powerful peptide complexes with Hyalouronic Acid, ensures a completely refreshed, hydrated and youthful appearance.
 
 **Focus on | TEXTURE**
-Uses sonopheresis (low frequency ultra sound) to deeply penetrate high doses of vitamins and peptides to smooth skin texture. 
+Uses sonopheresis (low frequency ultra sound) to deeply penetrate high doses of vitamins and peptides to smooth skin texture.
 
-### Cool Peel Facial Treatments | 60 mins | $124.99
+### Cool Peel Facial Treatments | 60 mins | \$124.99
+
 ![facial2.png](/uploads/facial2.png)
 
 **Cool Peel | BLEMISH CONTROL**
@@ -85,7 +89,7 @@ Our body wraps are a true spa experience. First is exfoliatation; clearing impur
 
 ![bwrap.png](/uploads/bwrap.png)
 
-**Seaside Dream** 
+**Seaside Dream**
 Coconut and lime exfoliation | Frangipanni hydration body wrap | Coconut oil head and neck massage
 
 **Sun Worshipper**
@@ -95,16 +99,16 @@ Grapefruit exfoliation| Aloe Vera body wrap | Coconut oil head and neck massage
 Sweet mango exfoliation | passionfruit & Mango body custard wrap |Coconut oil head and neck massage
 
 **Ultimate Unwind 3hrs Package**
-Sugar  exfoliation |  Hydration wrap | Head and Foot treatment | Full body oil massage | Radiance facial $329
+Sugar exfoliation | Hydration wrap | Head and Foot treatment | Full body oil massage | Radiance facial \$329
 
-**Total Relaxation 2Hrs Package** 
-One hour full body oil relaxation massage plus one hour deep cleanse or radiance facial $150
+**Total Relaxation 2Hrs Package**
+One hour full body oil relaxation massage plus one hour deep cleanse or radiance facial \$150
 
 **Mini Me 1Hr Package**
 30min relaxation massage plus 30min express facial
 
 **Make Me Over Package**
-90min Brow shape and tint, eyelash tint plus 1 hour radiance or deep cleanse facial $108.90
+90min Brow shape and tint, eyelash tint plus 1 hour radiance or deep cleanse facial \$108.90
 
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Body Treatment</h2>
@@ -112,8 +116,9 @@ One hour full body oil relaxation massage plus one hour deep cleanse or radiance
 </div>
 
 # InfraRed Body Wrap
-The Infrared Body Wrap reduces the appearance of cellulite and burns calories in under an hour.  Lay back and relax as heat activated pads promote the breakdown of fat and cleanse the pores of toxins through perspiration. Recommended on it's own or before a massage treatment!
-  
+
+The Infrared Body Wrap reduces the appearance of cellulite and burns calories in under an hour. Lay back and relax as heat activated pads promote the breakdown of fat and cleanse the pores of toxins through perspiration. Recommended on it's own or before a massage treatment!
+
 • Increases metabolism for up to 36 hours after your session
 
 • Relieve pain and joint stiffness
@@ -134,9 +139,9 @@ The Infrared Body Wrap reduces the appearance of cellulite and burns calories in
 
 • Decrease water clusters and improve flow of fluids
 
-• Skin rejuvenation 
+• Skin rejuvenation
 
-*Book in with one of our receptionists so we can set the wrap up for you!*
+_Book in with one of our receptionists so we can set the wrap up for you!_
 
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Infrared Body Wrap</h2>

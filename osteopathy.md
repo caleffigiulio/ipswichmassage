@@ -4,8 +4,6 @@ permalink: "/osteopathy-therapy-information/"
 layout: therapy
 ---
 
-
-
 Osteopathy is a form of drug-free non-invasive manual medicine that focuses on total body health by treating and strengthening the musculoskeletal framework, which includes the joints, muscles and spine. Its aim is to positively affect the body’s nervous, circulatory and lymphatic systems.
 
 <a href="/pricing-reference/">Pricing Reference</a>

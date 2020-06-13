@@ -11,6 +11,6 @@ Sunday 7:30 - 3:00pm
 Monday 7:30 - 7:00pm
 Tuesday 7:30 - 7:00pm
 Wednesday 7:30 - 7:00pm
-Thursday 7:30 - 7:00pm 
-Friday 7:30 - 7:00 pm 
+Thursday 7:30 - 7:00pm
+Friday 7:30 - 7:00 pm
 Saturday 7:30 - 5:00pm

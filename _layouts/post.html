@@ -3,41 +3,51 @@ layout: default
 ---
 
 <section class="post">
-    <div class="container">
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-          <header class="py-5">
-            <h1 class="ims-section-title" itemprop="name headline">{{ page.title | escape }}</h1>
-            <br><p class='text-center'>
-            {% if page.link-image %}
-                <img class="img-fluid mh-10" src="{{ page.link-image }}"/>
-            {% elsif page.image %}
-                <img class="img-fluid mh-10" src="{{ page.image }}"/>
-            {% else %}
-                <img class="img-fluid mh-10" src="{{ "/assets/img/banner2.jpg" | absolute_url }}"/>
-            {% endif %}
+  <div class="container">
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+      <header class="py-5">
+        <h1 class="ims-section-title" itemprop="name headline">
+          {{ page.title | escape }}
+        </h1>
+        <br />
+        <p class="text-center">
+          {% if page.link-image %}
+          <img class="img-fluid mh-10" src="{{ page.link-image }}" />
+          {% elsif page.image %}
+          <img class="img-fluid mh-10" src="{{ page.image }}" />
+          {% else %} <img class="img-fluid mh-10" src="{{
+          "/assets/img/banner2.jpg" | absolute_url }}"/> {% endif %}
         </p>
 
-            <p class="post-meta">
-              <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                - {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                {{ page.date | date: date_format }}
-              </time>
-              {% if page.author %}
-                • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-              {% endif %}</p>
-          </header>
-
-          <div class="post-content" itemprop="articleBody">
-            {{ content }}
-          </div>
-
-          {% if site.disqus.shortname %}
-            {% include disqus_comments.html %}
+        <p class="post-meta">
+          <time
+            datetime="{{ page.date | date_to_xmlschema }}"
+            itemprop="datePublished"
+          >
+            - {% assign date_format = site.minima.date_format | default: "%b
+            %-d, %Y" %} {{ page.date | date: date_format }}
+          </time>
+          {% if page.author %} •
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person"
+            ><span itemprop="name">{{ page.author }}</span></span
+          >
           {% endif %}
-        </article>
-    </div>
-    <div class="py-4">
-        <a href="/blog/"><p class='text-center'><i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Blog</p></a>
-    </div>
+        </p>
+      </header>
+
+      <div class="post-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+
+      {% if site.disqus.shortname %} {% include disqus_comments.html %} {% endif
+      %}
+    </article>
+  </div>
+  <div class="py-4">
+    <a href="/blog/"
+      ><p class="text-center">
+        <i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Blog
+      </p></a
+    >
+  </div>
 </section>

@@ -4,7 +4,7 @@ permalink: "/cool-peel-package/"
 layout: therapy
 ---
 
-The Cool Peel treatment is designed to address problem skin, helping to clear the complexion and calm inflammation, achieving incredible results without damage to the skin. ... Low strength lactic acid is used to reduce the skin's PH and trigger the release of growth factors, which creates tighter, smoother skin.  Highly recommended during winter.     Suitable for
+The Cool Peel treatment is designed to address problem skin, helping to clear the complexion and calm inflammation, achieving incredible results without damage to the skin. ... Low strength lactic acid is used to reduce the skin's PH and trigger the release of growth factors, which creates tighter, smoother skin. Highly recommended during winter. Suitable for
 All skin types
 Particularly good for oily, acne or rosacea
 Thickened sun damaged skin
@@ -27,7 +27,6 @@ Preparation for the cool peel.
 Clients must be using a Vitamin A cream for a minimum of 3 weeks prior to treatment.
 Patch test 48 hours before.
 
-
 Contra-indications
 
 Skin not prepared with Vitamin A
@@ -39,7 +38,6 @@ Roaccuatane
 Recent dermabrasion or laser resurfacing treatments
 Waxing of the area is not recommended 10 days before or after the peel.
 
-
 Skin care after peeling
 
 Avoid sun exposure for minimum of 7 days
@@ -48,7 +46,6 @@ No swimming in the sea or swimming pool for 24 hours
 Do not pick or rub the skin
 Avoid use of AHA or other exfoliating products for 48 hours
 Make up and normal skincare can be worn
-
 
 For stubborn skin conditions a course is recommended
 

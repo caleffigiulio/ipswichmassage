@@ -22,26 +22,34 @@
   <div class="footer-section">
     <div class="container">
       <div class="copyright">
-        <h5> Strict Cancellation Policy</h5>
-        <p class="small m-0">Ipswich Massage is committed to providing all of our patients with exceptional care. When a patient cancels without giving enough notice, they prevent another patient from being seen.
-Please call us at (07) 32816007 by 2:00 p.m. on the day prior to your scheduled appointment to notify us of any changes or cancellations. If prior notification is not given, you will be charged the FULL FEE for the missed appointment.
-Cancellation by Facebook will not be considered.
-Please note that if you simply do not show up to your appointment, or if you cancel at very short notice, we may also require pre-payment of future appointments and you will no longer be able to use our generous rewards points system.
-
-</p>
+        <h5>Strict Cancellation Policy</h5>
+        <p class="small m-0">
+          Ipswich Massage is committed to providing all of our patients with
+          exceptional care. When a patient cancels without giving enough notice,
+          they prevent another patient from being seen. Please call us at (07)
+          32816007 by 2:00 p.m. on the day prior to your scheduled appointment
+          to notify us of any changes or cancellations. If prior notification is
+          not given, you will be charged the FULL FEE for the missed
+          appointment. Cancellation by Facebook will not be considered. Please
+          note that if you simply do not show up to your appointment, or if you
+          cancel at very short notice, we may also require pre-payment of future
+          appointments and you will no longer be able to use our generous
+          rewards points system.
+        </p>
       </div>
     </div>
   </div>
-   <div class="footer-section">
+  <div class="footer-section">
     <div class="container">
       <div class="copyright">
-        <p class="small m-0">Copyright © {{ 'now' | date: "%Y" }} {{ site.title }}. {{ site.description | escape }}</p>
+        <p class="small m-0">
+          Copyright © {{ 'now' | date: "%Y" }} {{ site.title }}. {{
+          site.description | escape }}
+        </p>
       </div>
     </div>
   </div>
 
-  {% asset main.js %}
-  {% include instafeed.html %}
+  {% asset main.js %} {% include instafeed.html %}
   <script src="https://widgets.healcode.com/javascripts/healcode.js"></script>
-  
 </footer>

@@ -1,11 +1,11 @@
 // place your custom site scss here
 
-$icon_colour: #C79532;
+$icon_colour: #c79532;
 $jade_green: #c9ded4;
 // Custom Logo centered navbar
 body {
   font-size: 100%;
-  font-family: 'Nanum Gothic', sans-serif;
+  font-family: "Nanum Gothic", sans-serif;
   a {
     color: #33a06d;
   }
@@ -18,27 +18,30 @@ body {
     text-decoration-style: white !important;
   }
 }
-.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: $jade_green;
-      margin: 0 .5em .5em 0;
-      font-size: 1rem;
-      padding: .5rem;
-      color: #000;
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+  background-color: $jade_green;
+  margin: 0 0.5em 0.5em 0;
+  font-size: 1rem;
+  padding: 0.5rem;
+  color: #000;
 }
 .bg-primary {
   background-color: $jade_green !important;
 }
 
-.navbar{
-    @include media-breakpoint-down(md) {
-        text-align: left !important;
-        .navbar-collapse {
-            padding-bottom: 1.3rem;
-        }
+.navbar {
+  @include media-breakpoint-down(md) {
+    text-align: left !important;
+    .navbar-collapse {
+      padding-bottom: 1.3rem;
     }
+  }
 }
 #navbar-primary .navbar-nav {
-//  background: #ededed;
+  //  background: #ededed;
   width: 100%;
   text-align: center;
   > li {
@@ -61,17 +64,17 @@ body {
 }
 //Custom navbar styling that create a jade grene hover and underline effect on large screens
 .nav-item {
-    padding-bottom: 2px;
-    @include media-breakpoint-down(md) {
-        padding-top: 5px;
-        padding-bottom: 5px;
+  padding-bottom: 2px;
+  @include media-breakpoint-down(md) {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  > .nav-link:hover {
+    color: $jade_green !important;
+    @include media-breakpoint-up(lg) {
+      border-bottom: 2px $jade_green solid !important;
     }
-    > .nav-link:hover {
-        color: $jade_green !important;
-        @include media-breakpoint-up(lg) {
-          border-bottom: 2px $jade_green solid !important;
-        }
-    }
+  }
 }
 .nav-item:hover {
   @include media-breakpoint-up(lg) {
@@ -86,19 +89,17 @@ body {
   }
 }
 
-
 //home banner styling for a full page effect
 .home-banner {
-    width: 100vw;
+  width: 100vw;
 }
-
 
 //Box grid styling
 .ccd-box-item {
-    padding: 0px;
-    margin: 0px;
-    position: relative;
-    background-color: $jade_green;
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+  background-color: $jade_green;
 }
 .ccd-box-item:hover .ccd-box-img {
   opacity: 0.2;
@@ -115,19 +116,17 @@ body {
   padding: 16px 32px;
 }
 
-
-
 .ccd-box-img {
-    width: 100%;
-    border: 2px solid white;
-    opacity: 0.4;
-    display: block;
-    transition: .5s ease;
-    backface-visibility: hidden;
+  width: 100%;
+  border: 2px solid white;
+  opacity: 0.4;
+  display: block;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
 }
 
 .box-middle {
-  transition: .5s ease;
+  transition: 0.5s ease;
   opacity: 1;
   position: absolute;
   top: 50%;
@@ -139,28 +138,27 @@ body {
 
 //Section title style
 .ims-section-title {
-    font-family: 'Nanum Myeongjo', serif;
+  font-family: "Nanum Myeongjo", serif;
 }
 
 //story section styling
 .ccd-story-image {
-    width: 100%;
-    object-fit: fill;
-    @include media-breakpoint-down(md) {
-        display: none;
-    }
+  width: 100%;
+  object-fit: fill;
+  @include media-breakpoint-down(md) {
+    display: none;
+  }
 }
-
 
 //Custom Menu styling
 .ccd-menu-item-price {
-	float: right;
+  float: right;
 }
 
 //Map styling
 .ccd-map {
-    min-width: 80%;
-    width: auto;
+  min-width: 80%;
+  width: auto;
 }
 
 //instafeed styling
@@ -177,7 +175,7 @@ body {
     width: 50%;
 
     @include media-breakpoint-up(lg) {
-      width: 25%
+      width: 25%;
     }
 
     img {
@@ -189,34 +187,34 @@ body {
   }
 }
 .insta-text {
-  font-family: 'Helvetica Neue',sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   display: inline-block;
 }
 
 #insta-user {
-	font-family: 'Helvetica Neue',sans-serif;
-	font-style: bold;
-	font-weight: 900;
+  font-family: "Helvetica Neue", sans-serif;
+  font-style: bold;
+  font-weight: 900;
 }
 
 //coffe info styling
 .ccd-info-img {
-    max-width: 300px;
-    height: auto;
+  max-width: 300px;
+  height: auto;
 }
 
 //blog
 .blog-image {
-	width: 100%;
-	height: auto;
+  width: 100%;
+  height: auto;
 }
 .blog-section {
-	padding-top: 2em;
-	padding-bottom: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 .blog-container {
-	margin-left: 0 !important;
-	margin-right: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 .bg-about-split {
@@ -224,8 +222,7 @@ body {
 }
 
 .award-box {
-    box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
-
+  box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
 }
 
 .team-member {
@@ -233,27 +230,28 @@ body {
 }
 
 .footer {
-	a {
-		color: black;
-	}
-	.footer-section {
-	    border-bottom: 1px solid #3e4954;
-	    padding: 1.25rem 0;
-	}
-	.social-links {
-		a,i {
-			transition: 0.2s;
-		}
-		a:hover {
-			text-decoration: none;
-			i.fa-circle {
-				color: $jade_green !important;
-			}
-			i.fa-stack-1x {
-				color: white !important;
-			}
-		}
-	}
+  a {
+    color: black;
+  }
+  .footer-section {
+    border-bottom: 1px solid #3e4954;
+    padding: 1.25rem 0;
+  }
+  .social-links {
+    a,
+    i {
+      transition: 0.2s;
+    }
+    a:hover {
+      text-decoration: none;
+      i.fa-circle {
+        color: $jade_green !important;
+      }
+      i.fa-stack-1x {
+        color: white !important;
+      }
+    }
+  }
 }
 
 .big-small {
@@ -265,12 +263,13 @@ body {
 .container-fluid {
   overflow: scroll !important;
   overflow-x: scroll !important;
-  overflow-y:hidden !important;
+  overflow-y: hidden !important;
 }
 
-.box-before, .box-after {
+.box-before,
+.box-after {
   width: 100px;
-  top:0;
+  top: 0;
   bottom: 0;
 }
 

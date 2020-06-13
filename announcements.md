@@ -13,6 +13,7 @@ layout: therapy
 </div>
 
 ### AROMATHERAPY MASSAGE
+
 Aromatherapy massages are best for people who want to have an emotional healing component to their massage. This type of massage can help:
 • boost your mood
 • reduce stress and anxiety
@@ -25,27 +26,32 @@ Aromatherapy massages combine soft, gentle pressure with the use of essential oi
 During the massage, you’ll be given a full-body massage while inhaling essential oils through a diffuser and absorbing them through your skin. Sometimes an aromatherapy massage will only focus on your back, shoulders, and head. If you’re sensitive to smells or essential oils, we don’t recommend booking an Aromatherapy appointment.
 
 ### CHINESE CUPPING
+
 Cupping therapy is an alternative therapy where suction devices are placed on the skin to disperse and break up stagnation and congestion by drawing congested blood or energy to the surface. People have cupping treatments for many purposes, including to help with pain, inflammation, blood flow, relaxation and well-being, and as a type of deep-tissue massage.
 
-### COUPLES MASSAGE *(RELAXATION/REMEDIAL)*
+### COUPLES MASSAGE _(RELAXATION/REMEDIAL)_
+
 A couple’s massage is a treatment that you can experience with your partner, friend, or family member in the same room. It brings all the benefits of a regular massage and you can add a herbal spa bath, foot massage, body scrub, or facials. Be sure to book and purchase TWO couples massages when booking online.
 
-You and your partner/friends/fam can choose a massage style or treatment each, depending on your preference. Your partner and you will be on tables side-by-side, and you’ll each have your own massage therapist working on your body. 
+You and your partner/friends/fam can choose a massage style or treatment each, depending on your preference. Your partner and you will be on tables side-by-side, and you’ll each have your own massage therapist working on your body.
 
 ### DEEP TISSUE/REMEDIAL MASSAGE
+
 Deep tissue massage uses more pressure than a Swedish massage. It’s a good option if you have chronic muscle problems, such as soreness, injury, or imbalance. It can help relieve tight muscles, chronic muscle pain, and anxiety.
 
-During a deep tissue massage, your massage therapist will use slow strokes and deep finger pressure to relieve tension from the deepest layers of your muscles and connective tissues. While deep tissue may be more intense, you shouldn’t feel any pain or soreness. If you're covered, *health fund rebates* are available.
+During a deep tissue massage, your massage therapist will use slow strokes and deep finger pressure to relieve tension from the deepest layers of your muscles and connective tissues. While deep tissue may be more intense, you shouldn’t feel any pain or soreness. If you're covered, _health fund rebates_ are available.
 
 60 – 90 mins is recommended to gain the most benefits out of your Remedial Massage.
 
 ### EXPERT REMEDIAL MASSAGE
-Expert Remedial Therapy is a complete assessment and treatment of your pain and dysfunction of your musculoskeletal conditions.  Our Senior Expert Therapists have been in the industry for over 10 years and provide extensive assessment to identify the cause of your musculoskeletal conditions by using a combination of hands-on treatment techniques, education and after care to be applied at home.  
 
-The pressure or massage technique needed to help realign or repair sore & dysfunctional muscles can cause a slight inflammatory response which may be felt as tenderness or bruising over the worked areas. It is common; rest, stretches, heat/ice packs and lots of water is recommended.  
+Expert Remedial Therapy is a complete assessment and treatment of your pain and dysfunction of your musculoskeletal conditions. Our Senior Expert Therapists have been in the industry for over 10 years and provide extensive assessment to identify the cause of your musculoskeletal conditions by using a combination of hands-on treatment techniques, education and after care to be applied at home.
+
+The pressure or massage technique needed to help realign or repair sore & dysfunctional muscles can cause a slight inflammatory response which may be felt as tenderness or bruising over the worked areas. It is common; rest, stretches, heat/ice packs and lots of water is recommended.
 
 ### HOT STONE MASSAGE
-Hot stone massage is best for people who have muscle pain and tension or who simply want to relax. This type of therapeutic massage is similar to a Swedish massage, only the massage therapist uses heated stones in lieu of or in addition to their hands. It eases muscle tension, improves blood flow, and relieves pain by using heated stones. 
+
+Hot stone massage is best for people who have muscle pain and tension or who simply want to relax. This type of therapeutic massage is similar to a Swedish massage, only the massage therapist uses heated stones in lieu of or in addition to their hands. It eases muscle tension, improves blood flow, and relieves pain by using heated stones.
 
 Hot stone massage may help:
 • ease muscle tension
@@ -54,22 +60,23 @@ Hot stone massage may help:
 • promote relaxation
 • relieve stress
 
-During a hot stone massage, heated stones are placed on different areas around your whole body. Your therapist may hold a stone as they massage different parts of your body using Swedish massage techniques using gentle pressure. Sometimes cold stones are also used. 
-
+During a hot stone massage, heated stones are placed on different areas around your whole body. Your therapist may hold a stone as they massage different parts of your body using Swedish massage techniques using gentle pressure. Sometimes cold stones are also used.
 
 ### PREGNANCY MASSAGE
+
 Prenatal massage is a safe way for women to get a massage during pregnancy. It can help reduce pregnancy body aches, reduce stress, and ease muscle tension. You can get a massage at any time during your pregnancy; however, if you are in your 1st Tri Semester we will need to book you with our Expert Remedial therapists.
 
-Prenatal massage uses mild pressure like Swedish massage. The therapist will focus on areas such as your lower back, hips, and legs. 
+Prenatal massage uses mild pressure like Swedish massage. The therapist will focus on areas such as your lower back, hips, and legs.
 
 During the massage, you’ll either lie on your side or on a specially designed table with a cutout for your belly. If you’ve had pain in your calves or other parts of your leg, see a doctor before you have a massage.
 
 ### REFLEXOLOGY MASSAGE
-Reflexology is best for people who are looking to relax or restore their natural energy levels. It’s also a good option if you aren’t comfortable being touched on your entire body. 
+
+Reflexology is best for people who are looking to relax or restore their natural energy levels. It’s also a good option if you aren’t comfortable being touched on your entire body.
 
 The underlying theory behind reflexology is that there are certain points or "reflex areas" on the feet and hands that are connected energetically to specific organs and body parts through energy channels in the body.
 
-By applying pressure to reflex areas, a reflexologist is said to remove energy blockages and promote health in the related body area. 
+By applying pressure to reflex areas, a reflexologist is said to remove energy blockages and promote health in the related body area.
 
 Here are some examples of reflex areas and their corresponding body parts:
 • The tips of the toes reflect the head
@@ -78,7 +85,8 @@ Here are some examples of reflex areas and their corresponding body parts:
 • Low back and intestines are towards the heel
 
 ### SPORTS MASSAGE
-Sports massage is a good option if you have a repetitive use injury to a muscle, such as what you may get from playing a sport. It’s also a good option if you’re prone to injuries because it can be used to help prevent sports injuries. 
+
+Sports massage is a good option if you have a repetitive use injury to a muscle, such as what you may get from playing a sport. It’s also a good option if you’re prone to injuries because it can be used to help prevent sports injuries.
 
 You may also use sports massage to increase flexibility and performance. Additionally, sports massage can be used to relieve pain, anxiety, and muscle tension.
 It can be done as a full-body massage or the massage therapist may focus on the parts of the body that need the most attention. Deep pressure may be alternated with soothing strokes depending on your needs.
@@ -86,6 +94,7 @@ It can be done as a full-body massage or the massage therapist may focus on the 
 If you prefer to wear clothing, make sure it’s thin, loose, and allows the therapist access to your muscles. Loose shorts and a tank top are options, otherwise our therapists treat people all day and drape to cover up any exposed areas.
 
 ### SWEDISH MASSAGE
+
 Swedish massage is a gentle type of full-body massage that’s ideal for people who:
 • are new to massage
 • have a lot of tension
@@ -97,30 +106,31 @@ The massage therapist will use a combination of:
 • long, flowing strokes in the direction of the heart
 • deep circular motions
 
---------------------------------
+---
+
 ## MASSAGE PRICING
 
-*Couples, Deep Tissue/Remedial, Pregnancy, Reflexology, Sports & Swedish Massage*
+_Couples, Deep Tissue/Remedial, Pregnancy, Reflexology, Sports & Swedish Massage_
 
-* 30 mins - $47.00 
-* 45 mins - $60.00
-* 60 mins - $80.00
-* 90 mins - $120.00
-* 120 mins - $160.00
+- 30 mins - \$47.00
+- 45 mins - \$60.00
+- 60 mins - \$80.00
+- 90 mins - \$120.00
+- 120 mins - \$160.00
 
-*Aromatherapy, Hot Stone & Chinese Cupping Massage*
+_Aromatherapy, Hot Stone & Chinese Cupping Massage_
 
-* 30 mins - $52.00
-* 45 mins - $66.00
-* 60 mins - $88.00
-* 90 mins - $132.00
+- 30 mins - \$52.00
+- 45 mins - \$66.00
+- 60 mins - \$88.00
+- 90 mins - \$132.00
 
-*Expert Senior Remedial Massage/Myotherapy*
+_Expert Senior Remedial Massage/Myotherapy_
 
-* 30 mins - $47.50
-* 45 mins - $70.00
-* 60 mins - $95.00
-* 90 mins - $142.50
+- 30 mins - \$47.50
+- 45 mins - \$70.00
+- 60 mins - \$95.00
+- 90 mins - \$142.50
 
 <div data-fred-widget-reviews></div>
 <script src="https://d1yw3duy3i4qiv.cloudfront.net/js/sdk-v1.js"></script>

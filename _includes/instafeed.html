@@ -1,23 +1,22 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/instafeed.js/1.4.1/instafeed.min.js"></script>
-{% assign specialimage = '{{image}}' %}
-{% assign speciallink = '{{link}}' %}
-{% assign specialcaption = '{{caption}}' %}
-{% assign speciallikes = '{{likes}}' %}
+{% assign specialimage = '{{image}}' %} {% assign speciallink = '{{link}}' %} {%
+assign specialcaption = '{{caption}}' %} {% assign speciallikes = '{{likes}}' %}
 <script type="text/javascript">
   var userFeed = new Instafeed({
     //See http://instafeedjs.com/ for formatting
-    get: 'user',
-    userId: '426765373',
-    clientId: 'c7f0e5fc960c4c1195acc8cafd9394dc',
-    accessToken: '426765373.c7f0e5f.b96295919a084f84b6f515f290a03cfb',
-    resolution: 'standard_resolution',
-    sortBy: 'most-recent',
+    get: "user",
+    userId: "426765373",
+    clientId: "c7f0e5fc960c4c1195acc8cafd9394dc",
+    accessToken: "426765373.c7f0e5f.b96295919a084f84b6f515f290a03cfb",
+    resolution: "standard_resolution",
+    sortBy: "most-recent",
     limit: 6,
-    template: '<div class=\"px-1 insta-text\">' +
-                '<a href=\"{{ speciallink }}\">' +
-                '<img class=\"insta-img\" src=\"{{ specialimage }}\" alt=\"instagram image\">' +
-                '<\/a>' +
-                '<\/div>',
+    template:
+      '<div class="px-1 insta-text">' +
+      '<a href="{{ speciallink }}">' +
+      '<img class="insta-img" src="{{ specialimage }}" alt="instagram image">' +
+      "<\/a>" +
+      "<\/div>",
   });
   userFeed.run();
 </script>
