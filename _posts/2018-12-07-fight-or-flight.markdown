@@ -2,26 +2,26 @@
 title: Fight or Flight?
 date: 2018-12-07 02:06:00 Z
 categories:
-  - acupuncture
-  - health
-  - wellness
-  - mental health
+- acupuncture
+- health
+- wellness
+- mental health
 tags:
-  - acupuncture
-  - stress
-  - depression
-  - fight
-  - flight
-  - hormones
-  - wellbeing
-  - health
-  - benefits
-  - health care
-  - Ipswich
-  - private health
-  - wellness
-  - mental health
-  - anxiety
+- acupuncture
+- stress
+- depression
+- fight
+- flight
+- hormones
+- wellbeing
+- health
+- benefits
+- health care
+- Ipswich
+- private health
+- wellness
+- mental health
+- anxiety
 ---
 
 # How acupuncture can pull the plug on stress!

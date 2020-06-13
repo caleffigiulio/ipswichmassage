@@ -2,15 +2,15 @@
 title: Muscle of the Month - PSOAS
 date: 2018-08-01 04:48:00 Z
 categories:
-  - massage
-  - Ipswich
-  - remedial massage
+- massage
+- Ipswich
+- remedial massage
 tags:
-  - Remedial massage
-  - massage
-  - Ipswich
-  - lower back pain
-  - Tracy Warren
+- Remedial massage
+- massage
+- Ipswich
+- lower back pain
+- Tracy Warren
 layout: post
 ---
 

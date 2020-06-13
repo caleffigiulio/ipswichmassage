@@ -2,20 +2,20 @@
 title: The Rights of People in Health-Care
 date: 2018-07-17 03:30:00 Z
 categories:
-  - health
-  - health care
+- health
+- health care
 tags:
-  - massage
-  - health
-  - healthcare
-  - benefits
-  - private health
-  - health care
-  - medibank
-  - bupa
-  - AHM
-  - medicine
-  - conventional
+- massage
+- health
+- healthcare
+- benefits
+- private health
+- health care
+- medibank
+- bupa
+- AHM
+- medicine
+- conventional
 layout: post
 ---
 

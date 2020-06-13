@@ -2,25 +2,25 @@
 title: Aromatherapy for a Positive Work Space
 date: 2018-09-28 01:52:00 Z
 categories:
-  - oil blends
-  - aromatherapy
-  - essential oils
-  - work place
+- oil blends
+- aromatherapy
+- essential oils
+- work place
 tags:
-  - Perfect Potion
-  - essential oils
-  - diffuser
-  - calm
-  - peace
-  - productivity
-  - focus
-  - relax
-  - oil blend
-  - benefits
-  - work
-  - work place
-  - wellness
-  - positivity
+- Perfect Potion
+- essential oils
+- diffuser
+- calm
+- peace
+- productivity
+- focus
+- relax
+- oil blend
+- benefits
+- work
+- work place
+- wellness
+- positivity
 layout: post
 ---
 

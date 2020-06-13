@@ -2,13 +2,13 @@
 title: Massage during pregnancy
 date: 2018-08-01 06:25:00 Z
 categories:
-  - Pregnancy massage
+- Pregnancy massage
 tags:
-  - Pregnant
-  - pregnancy massage
-  - Tracy Warren
-  - Ipswich
-  - Massage
+- Pregnant
+- pregnancy massage
+- Tracy Warren
+- Ipswich
+- Massage
 layout: post
 ---
 

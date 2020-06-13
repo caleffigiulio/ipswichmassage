@@ -2,12 +2,12 @@
 title: Yoga, Pilates & Meditation | Ipswich
 date: 2020-01-15 06:47:00 Z
 tags:
-  - yoga
-  - pilates
-  - meditation
-  - mental health
-  - pain
-  - relax
+- yoga
+- pilates
+- meditation
+- mental health
+- pain
+- relax
 ---
 
 When it comes to setting New Year’s resolutions, many of us hope that each year we’ll be feeling healthier and happier than the year before, but who else finds it hard to stick to these plans or truly do something new for yourself?
