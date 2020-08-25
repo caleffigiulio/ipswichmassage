@@ -1,6 +1,6 @@
 ---
 title: Announcements
-layout: home
+layout: default
 ---
 
 ### We are currently open and taking appointments, clients, and all bookings. 
