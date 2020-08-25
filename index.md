@@ -1,5 +1,6 @@
 ---
 title: Announcements
+date: 2020-08-25 17:00:00 Z
 layout: default
 ---
 
