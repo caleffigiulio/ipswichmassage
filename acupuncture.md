@@ -10,7 +10,7 @@ Due to the Covid 19 restrictions we are currently only seeing patients who despe
 
 Acupuncture involves the insertion of fine pins into specific acu-points to harmonise the flow of qi (vital energy) in the body. Other non-insertion techniques like moxibustion, cupping, or acupressure may be used alone or in conjunction with the acupuncture treatment.
 
-Book an acupuncture and Chinese medicine consult and treatment below. If you do not know which type of treatment you need please call our friendly receptionist and they will be able to help you. Ph32816007
+Book an acupuncture and Chinese medicine consult and treatment below. If you do not know which type of treatment you need please call our friendly receptionist and they will be able to help you. Ph: 3281 6007
 
 <a href="/pricing-reference/">Pricing Reference</a>
 
