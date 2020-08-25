@@ -1,7 +1,7 @@
 ---
 title: Announcements
-date: 2020-08-25 17:00:00 Z
-layout: default
+date: 2020-08-25 18:45:00 Z
+layout: home
 ---
 
 ### We are currently open and taking appointments, clients, and all bookings. 
