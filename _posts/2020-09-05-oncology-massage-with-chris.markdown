@@ -6,7 +6,7 @@ categories:
 tags:
 - massage
 - oncology
-layout: default
+layout: " "
 ---
 
 An oncology massage is a client-specific, customized massage session using traditional, established massage therapy techniques that have been adapted to account for your unique and changing needs during treatment for cancer or with a history of cancer treatment. A safe massage plan generally
