@@ -1,12 +1,12 @@
 ---
 title: Oncology Massage with Chris
-date: 2020-09-06 00:00:00 Z
+date: 2020-09-05 09:20:00 Z
 categories:
 - massage
 tags:
 - massage
 - oncology
-layout: blog
+layout: default
 ---
 
 An oncology massage is a client-specific, customized massage session using traditional, established massage therapy techniques that have been adapted to account for your unique and changing needs during treatment for cancer or with a history of cancer treatment. A safe massage plan generally
