@@ -1,6 +1,5 @@
 ---
 title: Oncology Massage with Chris
-published: false
 categories:
 - massage
 tags:
