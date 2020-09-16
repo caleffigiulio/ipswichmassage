@@ -36,3 +36,5 @@ gem "sprockets", "~> 4.0.beta", {
 
 gem "activesupport", ">= 5.2.4.3"
 gem "nokogiri", ">= 1.10.8"
+
+gem "kramdown", ">= 2.3.0"
