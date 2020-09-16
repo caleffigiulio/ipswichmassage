@@ -2,10 +2,10 @@
 title: Oncology Massage with Chris
 date: 2020-09-16 02:20:00 Z
 categories:
-  - massage
+- massage
 tags:
-  - massage
-  - oncology
+- massage
+- oncology
 layout: post
 ---
 
