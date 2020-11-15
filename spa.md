@@ -6,7 +6,7 @@ layout: therapy
 
 Take an extra moment for yourself with one of our new mani/pedi FEET PRAY LOVE packages.  
 
-![feet.png](/uploads/feet.png)
+![1.png](/uploads/1.png)
 
 **Soul Blissful** (\$88) is a **60 min** hand & foot journey including luxurious foot soak, scrub and Perfect Potion peppermint foot massage coupled with a silky hand treatment and soothing eye mask. Your cuticle and nail care is then followed by a relaxing hand and arm massage!
 
@@ -22,7 +22,7 @@ Take an extra moment for yourself with one of our new mani/pedi FEET PRAY LOVE p
 
 Spa bath benefits; Improve cardiovascular health, promote better sleep, alleviate aches and pains, lower blood pressure, can help with weight loss, reduce stress, reduce headaches and improve anxiety.
 
-![spa.png](/uploads/spa.png)
+![2.png](/uploads/2.png)
 
 <div class='container bg-light my-4 p-4'>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3696348a4" data-widget-version="0"></healcode-widget>
