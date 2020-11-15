@@ -22,7 +22,7 @@ Take an extra moment for yourself with one of our new mani/pedi FEET PRAY LOVE p
 
 Spa bath benefits; Improve cardiovascular health, promote better sleep, alleviate aches and pains, lower blood pressure, can help with weight loss, reduce stress, reduce headaches and improve anxiety.
 
-![ipswich.png](/uploads/ipswich.png)
+![spa.png](/uploads/spa.png)
 
 <div class='container bg-light my-4 p-4'>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3696348a4" data-widget-version="0"></healcode-widget>
