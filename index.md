@@ -4,7 +4,6 @@ date: 2020-08-25 18:45:00 Z
 layout: home
 ---
 
-![unnamed.png](/uploads/unnamed.png)
 ## Christmas is almost here!
 
 Prebook your Xmas treatments to avoid missing out - we will be open every day except Public Holidays.
