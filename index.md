@@ -8,4 +8,4 @@ Christmas is on its way! **Prebook your Xmas treatments** to avoid missing out -
 
 Give the gift of relaxation this Christmas with a Voucher to our spa. Available in store during business hours or [click here](https://bit.ly/3ktuXda) to purchase online!
 
-![gft.png](/uploads/gft.png)
+![gft-985c45.png](/uploads/gft-985c45.png)
