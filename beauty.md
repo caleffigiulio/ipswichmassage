@@ -8,11 +8,6 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 
 <a href="/pricing-reference/">Pricing Reference</a>
 
-<div class='container bg-light my-4 p-4'>
-<h2 class='ims-section-title'>Waxing</h2>
-<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643648a4" data-widget-version="0"></healcode-widget>
-</div>
-
 # FACIAL MENU
 
 ![environ wbsite.png](/uploads/environ%20wbsite.png)
@@ -82,33 +77,64 @@ This cool peel treatment assists with reducing the appearance of premature agein
 <h2 class='ims-section-title'>Facials</h2>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643448a4" data-widget-version="0"></healcode-widget>
 </div>
+
+# WAXING MENU
+
+3/4 Leg Wax - $44
+Back Wax - $50.60
+Bikini Wax - $24.20
+Chest Wax - $50.60
+Ear Wax - $11
+Eyebrow Sculpt - $20.35
+Eyebrow Tinting - $15.40
+Eyebrow Wax - $20.35
+Eyelash Tinting - $15.40
+Full Arm Wax - $44
+Full Leg Wax - $51.70
+Full Leg Wax Incl Bikini - $68.20
+G-String Wax - $50.60
+Half Leg Wax - $38.50
+Lip and Chin Wax - $22
+Lip or Chin Wax - $12.10
+Shoulder Wax - $13.20
+Stomach Line Wax - $7.70
+Stomach Wax - $50.60
+Toe Wax - $7.70
+Underarm Wax - $24.20
+
+<div class='container bg-light my-4 p-4'>
+<h2 class='ims-section-title'>Waxing</h2>
+<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643648a4" data-widget-version="0"></healcode-widget>
+</div>
              
-# Body Treatments & Packages
+# Seasonal Body Wrap
 
 Our body wraps are a true spa experience. First is exfoliatation; clearing impurities, and cleaning the skin. Then to rehydrate and add moisture back in with one of our signature seasonal body wraps. Not to mention a cheeky head/neck massage to help you melt the worries away!
 
 ![bwrap.png](/uploads/bwrap.png)
 
 **Seaside Dream**
-Coconut and lime exfoliation | Frangipanni hydration body wrap | Coconut oil head and neck massage
+Coconut and Lime Exfoliation | Frangipanni Hydration Body Wrap | Coconut Oil Head and Neck Massage
 
 **Sun Worshipper**
-Grapefruit exfoliation| Aloe Vera body wrap | Coconut oil head and neck massage
+Grapefruit Exfoliation | Aloe Vera Body Wrap | Coconut Oil Head and Neck Massage
 
 **Tropical Escape**
-Sweet mango exfoliation | passionfruit & Mango body custard wrap |Coconut oil head and neck massage
+Sweet Mango Exfoliation | Passionfruit & Mango Body Custard Wrap | Coconut Oil Head and Neck Massage
 
-**Ultimate Unwind 3hrs Package**
-Sugar exfoliation | Hydration wrap | Head and Foot treatment | Full body oil massage | Radiance facial \$329
+# Body Treatments & Packages
 
-**Total Relaxation 2Hrs Package**
-One hour full body oil relaxation massage plus one hour deep cleanse or radiance facial \$150
+**Ultimate Unwind Package 3hrs $329**
+Sugar Exfoliation | Hydration Wrap | Head and Foot Treatment | Full Body Oil Massage | Radiance Facial
 
-**Mini Me 1Hr Package**
-30min relaxation massage plus 30min express facial
+**Total Relaxation Package 2hrs $165**
+One hour Full Body Oil Massage plus a one hour Radiance Facial
 
-**Make Me Over Package**
-90min Brow shape and tint, eyelash tint plus 1 hour radiance or deep cleanse facial \$108.90
+**Mini Me Time Package 1hr $88**
+30min Relaxation Massage plus a 30min Express Facial
+
+**Make Me Over Package 75min $108.90**
+1 hour Radiance Facial plus Brow Shape and Tint & Lash Tint
 
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Body Treatment</h2>
@@ -117,7 +143,7 @@ One hour full body oil relaxation massage plus one hour deep cleanse or radiance
 
 # InfraRed Body Wrap
 
-The Infrared Body Wrap reduces the appearance of cellulite and burns calories in under an hour. Lay back and relax as heat activated pads promote the breakdown of fat and cleanse the pores of toxins through perspiration. Recommended on it's own or before a massage treatment!
+The Infrared Body Wrap reduces the appearance of cellulite and burns calories in under an hour. Lay back and relax as heat activated pads promote the breakdown of fat and cleanse the pores of toxins through perspiration. Recommended on it's own or before a massage treatment! Purchase a 4 pack for $99 and save $40.
 
 • Increases metabolism for up to 36 hours after your session
 
