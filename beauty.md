@@ -77,35 +77,6 @@ This cool peel treatment assists with reducing the appearance of premature agein
 <h2 class='ims-section-title'>Facials</h2>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643448a4" data-widget-version="0"></healcode-widget>
 </div>
-
-# WAXING MENU
-
-3/4 Leg Wax - $44
-Back Wax - $50.60
-Bikini Wax - $24.20
-Chest Wax - $50.60
-Ear Wax - $11
-Eyebrow Sculpt - $20.35
-Eyebrow Tinting - $15.40
-Eyebrow Wax - $20.35
-Eyelash Tinting - $15.40
-Full Arm Wax - $44
-Full Leg Wax - $51.70
-Full Leg Wax Incl Bikini - $68.20
-G-String Wax - $50.60
-Half Leg Wax - $38.50
-Lip and Chin Wax - $22
-Lip or Chin Wax - $12.10
-Shoulder Wax - $13.20
-Stomach Line Wax - $7.70
-Stomach Wax - $50.60
-Toe Wax - $7.70
-Underarm Wax - $24.20
-
-<div class='container bg-light my-4 p-4'>
-<h2 class='ims-section-title'>Waxing</h2>
-<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643648a4" data-widget-version="0"></healcode-widget>
-</div>
              
 # Seasonal Body Wrap
 
@@ -172,4 +143,9 @@ _Book in with one of our receptionists so we can set the wrap up for you!_
 <div class='container bg-light my-4 p-4'>
 <h2 class='ims-section-title'>Infrared Body Wrap</h2>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3788248a4" data-widget-version="0"></healcode-widget>
+</div>
+
+<div class='container bg-light my-4 p-4'>
+<h2 class='ims-section-title'>Waxing</h2>
+<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643648a4" data-widget-version="0"></healcode-widget>
 </div>
