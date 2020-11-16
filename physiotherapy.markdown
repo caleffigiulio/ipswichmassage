@@ -1,6 +1,8 @@
 ---
 title: Physiotherapy
 date: 2020-11-16 06:48:00 Z
+permalink: "/physiotherapy"
+layout: therapy
 ---
 
 Our physiotherapists are very different to normal physios. They are dual qualified as a Massage/Myotherapist too! So you can expect a very hands on Expert Remedial Massage treatment incorporating physio assessment and massage.
