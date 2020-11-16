@@ -4,7 +4,7 @@ date: 2020-08-25 18:45:00 Z
 layout: home
 ---
 
-![stockibn.png](/uploads/stockibn.png)
+![unnamed.png](/uploads/unnamed.png)
 ### Christmas is right around the corner!
 
 Prebook your Xmas treatments to avoid missing out - open every day except Public Holidays.
