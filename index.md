@@ -5,7 +5,7 @@ layout: home
 ---
 
 ![stockibn.png](/uploads/stockibn.png)
-### Christmas 2020 is right around the corner!
+### **Christmas 2020 is right around the corner!**
 
 Prebook your Xmas treatments to avoid missing out - we will be open all days except Public Holidays.
 
