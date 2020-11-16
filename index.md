@@ -6,4 +6,4 @@ layout: home
 
 ### We are currently open and taking appointments, clients, and all bookings.
 
-![clients favs1.png](/uploads/clients%20favs1.png)
+![xmas.png](/uploads/xmas.png)
