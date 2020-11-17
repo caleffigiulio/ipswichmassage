@@ -1,7 +1,7 @@
 ---
 title: Register
 permalink: "/register-to-our-studio/"
-position: 8
+position: 9
 layout: webtool
 ---
 
