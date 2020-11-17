@@ -1,6 +1,7 @@
 ---
 title: Beauty Therapy
 permalink: "/Beauty-therapy/"
+position: 10
 layout: therapy
 ---
 

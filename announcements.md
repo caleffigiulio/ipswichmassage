@@ -1,6 +1,7 @@
 ---
 title: Massage Therapy
 permalink: "/massage-therapy/"
+position: 14
 layout: therapy
 ---
 

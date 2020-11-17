@@ -1,6 +1,7 @@
 ---
 title: Our Classes and Therapy, this is a Test Widget
 permalink: "/therapy-and-classes-schedule/"
+position: 6
 layout: webtool
 ---
 

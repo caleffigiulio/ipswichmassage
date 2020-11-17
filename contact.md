@@ -1,6 +1,7 @@
 ---
 title: Contact Us and find our location
 permalink: "/contact-and-map/"
+position: 13
 layout: default
 ---
 

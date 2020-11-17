@@ -1,6 +1,7 @@
 ---
 title: First Visitors Sign up
 permalink: "/first-visit-signup/"
+position: 12
 layout: webtool
 ---
 
