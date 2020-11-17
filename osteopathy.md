@@ -1,7 +1,7 @@
 ---
 title: Osteopathy
 permalink: "/osteopathy-therapy-information/"
-position: 7
+position: 8
 layout: therapy
 ---
 
