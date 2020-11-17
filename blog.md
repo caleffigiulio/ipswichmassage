@@ -1,7 +1,7 @@
 ---
 title: Blog & News
 permalink: "/ipswich-massage-herbal-spa-blog/"
-position: 2
+position: 3
 layout: blog
 ---
 

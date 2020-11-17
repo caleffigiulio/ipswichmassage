@@ -1,7 +1,7 @@
 ---
 title: Acupuncture and Chinese Medicine
 permalink: "/Acupuncture-and-chinese-medicine/"
-position: 0
+position: 1
 Field name: 
 layout: therapy
 ---

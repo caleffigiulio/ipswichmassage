@@ -1,7 +1,7 @@
 ---
 title: Announcements
 date: 2020-08-25 18:45:00 Z
-position: 15
+position: 0
 layout: home
 ---
 

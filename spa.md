@@ -1,7 +1,7 @@
 ---
 title: Spa & Feet Pray Love Menu
 permalink: "/spa-therapy/"
-position: 10
+position: 12
 layout: therapy
 ---
 

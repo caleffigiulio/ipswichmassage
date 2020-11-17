@@ -2,7 +2,7 @@
 title: Yoga, Pilates, Meditation 2020
 date: 2020-01-02 03:16:00 Z
 permalink: "/yoga-pilates-meditation/"
-position: 13
+position: 15
 layout: therapy
 ---
 
