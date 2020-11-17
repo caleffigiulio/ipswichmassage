@@ -1,7 +1,7 @@
 ---
 title: Corporate Massage
 permalink: "/corporate-massage/"
-position: 3
+position: 4
 layout: therapy
 ---
 
