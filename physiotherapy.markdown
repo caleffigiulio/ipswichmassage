@@ -2,7 +2,7 @@
 title: Physiotherapy
 date: 2020-11-16 06:48:00 Z
 permalink: "/physiotherapy"
-position: 16
+position: 10
 layout: therapy
 ---
 
