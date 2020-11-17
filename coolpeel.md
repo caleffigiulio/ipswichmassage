@@ -1,7 +1,7 @@
 ---
 title: Cool Peel Package
 permalink: "/cool-peel-package/"
-position: 5
+position: 7
 layout: therapy
 ---
 
