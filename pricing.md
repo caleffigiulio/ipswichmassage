@@ -1,7 +1,7 @@
 ---
 title: Pricing Reference
 permalink: "/pricing-reference/"
-position: 9
+position: 10
 layout: pricing
 ---
 
