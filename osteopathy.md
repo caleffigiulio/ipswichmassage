@@ -30,7 +30,7 @@ Rachel uses techniques including remedial massage, joint mobilisation, myofascia
  
 Covered by all health funds, GP Management Plans and DVA Gold and White card (condition specific for white card).
 
-## Carolina Pinto PHY0002332619
+## Carolina Pinto | PHY0002332619
 
 Carolina is a qualified Remedial Massage Therapist with Physiotherapy background. Carolina has spent the last 15 years working with Physiotherapy and Remedial Massage in Brazil and has been working with Remedial Massage in Australia since 2016. She has a soft, caring nature which translates into her treatments - striving to give her clients the best results she can.
  
