@@ -17,9 +17,10 @@ This is a medicare registered treatment. Please contact us for further details â
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3644048a4" data-widget-version="0"></healcode-widget>
 </div>
 
-Our physiotherapists are very different to normal physios. They are dual qualified as a Massage/Myotherapist too! So you can expect a very hands on Expert Remedial Massage treatment incorporating physio assessment and massage.
 
 # Physiotherapy
+
+Our physiotherapists are very different to normal physios. They are dual qualified as a Massage/Myotherapist too! So you can expect a very hands on Expert Remedial Massage treatment incorporating physio assessment and massage.
 
 ## Rachel Hollingworth | PHY0000974390
  
