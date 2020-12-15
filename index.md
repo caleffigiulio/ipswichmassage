@@ -14,9 +14,15 @@ Available in store during business hours or [click here](https://bit.ly/3ktuXda)
 
 ### December Trading Hours
 THURSDAY 24TH: 9AM - 7PM
+
 *FRIDAY 25TH - MONDAY 28TH: CLOSED*
+
 TUESDAY 29TH: 9AM - 7PM
+
 WEDNESDAY 30TH: 9AM - 7PM
+
 THURSDAY 31ST: 9AM - 7PM
+
 *FRIDAY 1ST: CLOSED*
+
 SATURDAY 2ND: 9AM - 3PM
