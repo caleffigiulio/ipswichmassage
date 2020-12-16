@@ -5,7 +5,7 @@ position: 0
 layout: home
 ---
 
-PHONE LINE DOWN! CALL SONJA FOR BOOKINGS- 0412 838 811
+**PHONE LINE DOWN! CALL SONJA FOR BOOKINGS- 0412 838 811**
 
 Christmas is on its way! **Prebook your Xmas treatments** to avoid missing out - we will be open every day except Public Holidays.
 
