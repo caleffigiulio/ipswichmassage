@@ -2,6 +2,8 @@
 title: Announcements
 date: 2020-08-25 18:45:00 Z
 position: 0
+Field name: "PHONE LINE IS DOWN\nPlease email or call Sonja for any enquries and bookings\nEmail:
+  enquiry@ipswichmassage.com.au \nSonja: 0412 838 811"
 layout: home
 ---
 
