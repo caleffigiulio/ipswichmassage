@@ -5,7 +5,7 @@ position: 0
 layout: home
 ---
 
-Give the gift of relaxation this Christmas with a Voucher to our wellness spa. Choose from one of our services or allocate a dollar amount.
+**Give the gift of relaxation this Christmas with a Gift Card** (valid for 3 years!) Choose from one of our services or allocate a dollar amount.
 
 Available in store during business hours or [click here](https://bit.ly/3ktuXda) to purchase online!
 
