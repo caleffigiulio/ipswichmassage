@@ -5,14 +5,11 @@ position: 0
 layout: home
 ---
 
+Give the gift of relaxation this Christmas with a Voucher to our wellness spa. Choose from one of our services or allocate a dollar amount.
 
-
-Christmas is on its way! **Prebook your Xmas treatments** to avoid missing out - we will be open every day except Public Holidays.
-
-Give the gift of relaxation this Christmas with a Voucher to our spa. Choose from one of our services or allocate a dollar amount.
 Available in store during business hours or [click here](https://bit.ly/3ktuXda) to purchase online!
 
-![gft-985c45.png](/uploads/gft-985c45.png)
+![xm.png](/uploads/xm.png)
 
 ### December Trading Hours
 THURSDAY 24TH: 9AM - 7PM
