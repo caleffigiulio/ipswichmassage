@@ -5,4 +5,4 @@ position: 0
 layout: home
 ---
 
-*Call reception on **(07) 3281 6007** to book and redeem/use a Gift Card for any treatment*
+![bookin.png](/uploads/bookin.png)
