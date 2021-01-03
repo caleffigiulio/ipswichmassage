@@ -5,4 +5,4 @@ position: 0
 layout: home
 ---
 
-![bookin.png](/uploads/bookin.png)
+![bookin-480d0f.png](/uploads/bookin-480d0f.png)
