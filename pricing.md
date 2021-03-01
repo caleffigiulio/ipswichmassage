@@ -9,12 +9,12 @@ layout: pricing
 
 ---
 
-- Express Facial - 30 mins - $35.77
-- Radiance Facial - 1 hour - $88.00
-- Deep Cleansing Facial - 1 hour - $88.00
-- Advanced Super Facial - 1 hour - $150.01
-- Cool Peel - $124.99
-- DF Infused Eye Lift Treatment - $55.00
+- Express Facial - 30 mins - $40.50
+- Radiance Facial - 1 hour - $93
+- Deep Cleansing Facial - 1 hour - $93
+- Advanced Super Facial - 1 hour - $155
+- Cool Peel - $130
+- Focus DF Treatments - $60
 - Millia / Blackhead Extractions - $38.50
 
 ### Waxing Pricing
@@ -50,18 +50,18 @@ layout: pricing
 
 - Environ Hand & Foot Treatment - \$38.50
 - InfraRed Detox Body Wrap - 1 hour - \$34.99
-- Make Me Over Package - 75 mins - \$108.90
-- Mini Me Time Package - 1 hour - \$88
+- Make Me Over Package - 75 mins - \$144.90
+- Mini Me Time Package - 1 hour - \$93
 
 30 mins Relax/Remedial Massage, 30 mins Express Facial.
-- Total Relaxation Package - 2 hours - \$165
+- Total Relaxation Package - 2 hours - \$170
 
 1 hour Full Body Oil Massage, 1 hour Environ Radiance Facial.
-- Ultimate Unwind Package - 3 hours - \$329
+- Ultimate Unwind Package - 3 hours - \$334
 
  1 hour Full Body Oil Massage, 1 hour Environ Radiance Facial, Sugar Exfoliant, Seasonal Hydration Body Wrap & Head and Foot Treatment.
 
-- Seasonal Body Wrap - 90 mins - \$130 (see below for options)
+- Seasonal Body Wrap - 90 mins - \$135 (see below for options)
   **Seaside Dream – 90 mins**
 
 Coconut and lime exfoliation | Seaweed body wrap | Coconut oil head and neck massage
@@ -76,16 +76,16 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 
 ---
 
-- Initial Consult - $92.00
-- Subsequent Visit - $72.00
-- Massage & Acupuncture - 1hr - $80.00
+- Initial Consult - $97.00
+- Subsequent Visit - $77.00
+- Massage & Acupuncture - 1hr - $85.00
 
 ### Osteopathy Pricing
 
 ---
 
-- Initial Consultation - \$95
-- Subsequent Visit - \$85
+- Initial Consultation - \$100
+- Subsequent Visit - \$90
 - Check-Up - \$0
 - DVA initial - \$64.25
 - DVA subsequent - \$64.25
@@ -96,57 +96,53 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 
 - Corporate massage 2hrs - \$180
 - Corporate Massage 60 min - \$90
-- Aromatherapy 30 Min - \$52
-- Aromatherapy - 45 Minutes - \$66
-- Aromatherapy - 60 Minutes - \$88
-- Aromatherapy - 90 Minutes - \$132
-- Aromatherapy - 120 Minutes - \$176
-- Chinese Cupping 60 mins - \$80
-- Chinese Cupping 30 min - \$47
-- Chinese Cupping 90 mins - \$120
-- Couples Massage - 30 Minutes (2 People) - \$94
-- Couples Massage - 45 Minutes (2 People) - \$120
-- Couples Massage - 60 Minutes (2 People) - \$160
-- Couples Massage - 90 Minutes (2 People) - \$240
-- Couples Massage - 120 Minutes (2 People) - \$320
-- Deep Tissue / Remedial - 30 Minutes - \$47
-- Deep Tissue / Remedial - 45 Minutes - \$60
-- Deep Tissue / Remedial - 60 Minutes - \$80
-- Deep Tissue / Remedial - 90 Minutes - \$120
-- Deep Tissue / Remedial - 120 Minutes - \$160
-- Expert Senior Remedial Massage - 30 Minutes - \$47.50
-- Expert Senior Remedial Massage - 60 Minutes - \$95
+- Aromatherapy 30 Min - \$57
+- Aromatherapy - 45 Minutes - \$71
+- Aromatherapy - 60 Minutes - \$93
+- Aromatherapy - 90 Minutes - \$37
+- Chinese Cupping 30 min - \$52
+- Chinese Cupping 60 mins - \$85
+- Chinese Cupping 90 mins - \$125
+- Couples Massage - 30 Minutes (2 People) - \$104
+- Couples Massage - 45 Minutes (2 People) - \$130
+- Couples Massage - 60 Minutes (2 People) - \$180
+- Couples Massage - 90 Minutes (2 People) - \$250
+- Couples Massage - 120 Minutes (2 People) - \$330
+- Deep Tissue / Remedial - 30 Minutes - \$52
+- Deep Tissue / Remedial - 45 Minutes - \$65
+- Deep Tissue / Remedial - 60 Minutes - \$85
+- Deep Tissue / Remedial - 90 Minutes - \$125
+- Deep Tissue / Remedial - 120 Minutes - \$165
+- Expert Senior Remedial Massage - 30 Minutes - \$52.50
+- Expert Senior Remedial Massage - 45 Minutes - \$75
+- Expert Senior Remedial Massage - 60 Minutes - \$100
 - Expert Senior Remedial Massage - 90 Minutes - \$142.50
-- Hawaiian Lomi Lomi - 45 Minutes - \$66
-- Hawaiian Lomi Lomi - 60 Minutes - \$88
-- Hawaiian Lomi Lomi - 90 Minutes - \$132
-- Hawaiian Lomi Lomi - 120 Minutes - \$176
-- Hot Stone - 30 Minutes - \$52
-- Hot Stone - 45 Minutes - \$66
-- Hot Stone - 60 Minutes - \$88
-- Hot Stone - 90 Minutes - \$132
-- Hot Stone - 120 Minutes - \$176
+- Hot Stone - 30 Minutes - \$57
+- Hot Stone - 45 Minutes - \$71
+- Hot Stone - 60 Minutes - \$93
+- Hot Stone - 90 Minutes - \$137
 - Indian Head Massage 45 minutes - \$60
 - Indian Head Massage add on - \$15
-- Lymphatic drainage - 30 Minutes - \$47
-- Lymphatic drainage - 45 Minutes - \$60
-- Lymphatic drainage - 60 Minutes - \$80
-- Lymphatic drainage - 90 Minutes - \$120
-- Pregnancy Massage - 30 Minutes - \$47
-- Pregnancy Massage - 60 Minutes - \$80
-- Pregnancy Massage - 90 Minutes - \$120
-- Pregnancy Massage - 45 Minutes - \$60
-- Reflexology - 45 Minutes - \$60
-- Reflexology - 30 Minutes - \$47
-- Reflexology - 60 Minutes - \$80
-- Sports Massage 30 Minutes - \$47
-- Sports Massage 60 Minutes - \$80
-- Sports Massage 90 Minutes - \$120
-- Swedish Massage - 30 Minutes - \$47
-- Swedish Massage - 60 Minutes - \$80
-- Swedish Massage - 90 Minutes - \$120
-- Swedish Massage - 120 Minutes - \$160
-- Swedish Massage - 45 Minutes - \$60
+- Lymphatic Drainage - 30 Minutes - \$52
+- Lymphatic Drainage - 45 Minutes - \$65
+- Lymphatic Drainage - 60 Minutes - \$85
+- Lymphatic Drainage - 90 Minutes - \$125
+- Pregnancy Massage - 30 Minutes - \$52
+- Pregnancy Massage - 45 Minutes - \$65
+- Pregnancy Massage - 60 Minutes - \$85
+- Pregnancy Massage - 90 Minutes - \$125
+- Relaxation Massage - 30 Minutes - \$47
+- Relaxation Massage - 45 Minutes - \$60
+- Relaxation Massage - 60 Minutes - \$80
+- Relaxation Massage - 90 Minutes - \$120
+- Relaxation Massage - 120 Minutes - \$160
+- Reflexology - 30 Minutes - \$52
+- Reflexology - 45 Minutes - \$65
+- Reflexology - 60 Minutes - \$85
+- Sports Massage 30 Minutes - \$52
+- Sports Massage 45 Minutes - \$65
+- Sports Massage 60 Minutes - \$85
+- Sports Massage 90 Minutes - \$125
 
 ### Massage Packages
 
