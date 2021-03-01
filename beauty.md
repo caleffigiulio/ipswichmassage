@@ -13,7 +13,7 @@ We offer state of the art medical grade facials, seasonal inspired body wraps, w
 
 ![environ wbsite.png](/uploads/environ%20wbsite.png)
 
-### Essential Skin Treatments | 60 mins | \$88
+### Essential Skin Treatments | 60 mins | \$93
 
 Match one of our Environ Essential Skin Treatments to your skin type to get the best results possible.
 
@@ -33,7 +33,7 @@ A targeted solution for sun-damaged or pigmented skin. Boosting the skin with th
 **Youth Reset Facial**
 Improve the appearance of ageing with Environ’s Youth Reset Facial. Helps soften the appearance of fine lines, sun-damage and sagging skin with our peptide and vitamin packed facial for a more youthful appearance.
 
-### Focus Treatments | 30mins | \$55
+### Focus Treatments | 30mins | \$60
 
 Introducing our DF II MACHINE that will take your skincare treatments to the next level. Specific Environ ingredients used such as vitamin A, C and growth factors give enhanced results. The IONZYME DF II MACHINE/focus treatments are totally painless, relaxing, comfortable but extremely effective.
 _Add on to any facial/treatment or simply book in a Focus Facial!_
@@ -52,7 +52,7 @@ A focused treatment to improve the appearance of fine lines and wrinkles using E
 **Focus on | TEXTURE**
 Uses sonopheresis (low frequency ultra sound) to deeply penetrate high doses of vitamins and peptides to smooth skin texture.
 
-### Cool Peel Facial Treatments | 60 mins | \$124.99
+### Cool Peel Facial Treatments | 60 mins | \$130
 
 ![facial2.png](/uploads/facial2.png)
 
@@ -96,16 +96,16 @@ Sweet Mango Exfoliation | Passionfruit & Mango Body Custard Wrap | Coconut Oil H
 
 # Body Treatments & Packages
 
-**Ultimate Unwind Package 3hrs $329**
+**Ultimate Unwind Package 3hrs $334**
 Sugar Exfoliation | Hydration Wrap | Head and Foot Treatment | Full Body Oil Massage | Radiance Facial
 
-**Total Relaxation Package 2hrs $165**
+**Total Relaxation Package 2hrs $170**
 One hour Full Body Oil Massage plus a one hour Radiance Facial
 
-**Mini Me Time Package 1hr $88**
+**Mini Me Time Package 1hr $93**
 30min Relaxation Massage plus a 30min Express Facial
 
-**Make Me Over Package 75min $108.90**
+**Make Me Over Package 75min $114.90**
 1 hour Radiance Facial plus Brow Shape and Tint & Lash Tint
 
 <div class='container bg-light my-4 p-4'>
