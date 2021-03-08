@@ -9,11 +9,11 @@ Take an extra moment for yourself with one of our new mani/pedi FEET PRAY LOVE p
 
 ![1.png](/uploads/1.png)
 
-**Soul Blissful** (\$88) is a **60 min** hand & foot journey including luxurious foot soak, scrub and Perfect Potion peppermint foot massage coupled with a silky hand treatment and soothing eye mask. Your cuticle and nail care is then followed by a relaxing hand and arm massage!
+**Soul Blissful** (\$93.50) is a **60 min** hand & foot journey including luxurious foot soak, scrub and Perfect Potion peppermint foot massage coupled with a silky hand treatment and soothing eye mask. Your cuticle and nail care is then followed by a relaxing hand and arm massage!
 
-**Soul Mate** (\$55) is a **45 min** foot journey includes foot soak, foot and calve sugar scrub and a Perfect Potion peppermint oil foot massage aswell as cuticle and nail care. Enjoy on your own or bring your soul mate and enjoy as a couple.
+**Soul Mate** (\$60.50) is a **45 min** foot journey includes foot soak, foot and calve sugar scrub and a Perfect Potion peppermint oil foot massage aswell as cuticle and nail care. Enjoy on your own or bring your soul mate and enjoy as a couple.
 
-**Hands with Feeling** (\$49.50) this **30 min** pamper is a quick and easy way to add a little well-deserved ‘me’ time into an otherwise busy schedule. Our pampering hand massage is both soothing and relaxing, and a great way to nourish sore or overworked joints. From repetitive strain from regular computer use to everyday wear and tear, our hands are often the last thing we think of when it comes to a pamper session, but often times a good and thorough kneading on our hands and wrists can really help to release tension and get you on the road to relaxation. Feel and see the difference with Environ skin care. Sugar Hand Scrub, Cuticle & Nail Care, Hand & Arm Massage treatment.
+**Hands with Feeling** (\$59.95) this **30 min** pamper is a quick and easy way to add a little well-deserved ‘me’ time into an otherwise busy schedule. Our pampering hand massage is both soothing and relaxing, and a great way to nourish sore or overworked joints. From repetitive strain from regular computer use to everyday wear and tear, our hands are often the last thing we think of when it comes to a pamper session, but often times a good and thorough kneading on our hands and wrists can really help to release tension and get you on the road to relaxation. Feel and see the difference with Environ skin care. Sugar Hand Scrub, Cuticle & Nail Care, Hand & Arm Massage treatment.
 
 <script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
 
