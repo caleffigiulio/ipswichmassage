@@ -18,9 +18,9 @@ Restore what sun, stress and ageing have taken away, providing you with natural 
 **Dermal Fillers from $480 per ml**
 
 ### INJECTABLES DEALS
-Lip Filler | $384
+**Lip Filler | $384**
 Lips & Cheeks | $1100
-Anti-wrinkle | 3 Major Areas | $450
+**Anti-wrinkle | 3 Major Areas | $450**
 Anti-wrinkle | Full Face | $1600
 
 *Due to regulatory requirements we are unable to specify product names and brands but stay assured we stock only Australian certified and high quality cosmeceuticals.*
