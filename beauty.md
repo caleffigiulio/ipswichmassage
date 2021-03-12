@@ -5,7 +5,7 @@ position: 2
 layout: therapy
 ---
 
-## We offer state of the art medical grade facials, cosmetic injectables, seasonal inspired body wraps, waxing and tinting. Check out our packages for delicious combinations!
+*We offer state of the art medical grade facials, cosmetic injectables, seasonal inspired body wraps, waxing and tinting. Check out our packages for delicious combinations!*
 
 <a href="/pricing-reference/">Pricing Reference</a>
 
