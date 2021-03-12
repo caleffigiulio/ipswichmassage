@@ -18,7 +18,7 @@ Restore what sun, stress and ageing have taken away, providing you with natural 
 **Dermal Fillers from $480 per ml**
 
 ### INJECTABLES DEALS
-**Lip Filler | $384**
+**Lucious Lips | $384**
 
 **Lips & Cheeks | $1100**
 
