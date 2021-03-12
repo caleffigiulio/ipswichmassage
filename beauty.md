@@ -5,9 +5,28 @@ position: 2
 layout: therapy
 ---
 
-We offer state of the art medical grade facials, seasonal inspired body wraps, waxing and tinting. Check out our packages for delicious combinations!
+We offer state of the art medical grade facials, cosmetic injectables, seasonal inspired body wraps, waxing and tinting. Check out our packages for delicious combinations!
 
 <a href="/pricing-reference/">Pricing Reference</a>
+
+# COSMETIC INJECTABLES
+
+Restore what sun, stress and ageing have taken away, providing you with natural looking rejuvenated skin. Our initial consultations are just for you, in a relaxed, safe environment where Cosmetics Nurse, Emily will assess your facial structure and discuss the way you want to look and feel. An individualised treatment plan will be provided to you, so you can feel confident about your decision with absolutely no pressure.
+
+**Anti-wrinkle Injections** | from $14.19 per unit
+**Dermal Fillers** | from $480 per ml
+
+### INJECTABLES DEALS
+Lip Filler | $384
+Lips & Cheeks | $1100
+Anti-wrinkle | 3 Major Areas | $450
+Anti-wrinkle | Full Face | $1600
+
+*Due to regulatory requirements we are unable to specify product names and brands but stay assured we stock only Australian certified and high quality cosmeceuticals.*
+
+<script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
+
+<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f8436848a4" data-widget-version="0" ></healcode-widget>
 
 # FACIAL MENU
 
