@@ -18,7 +18,7 @@ Restore what sun, stress and ageing have taken away, providing you with natural 
 **Dermal Fillers from $384 per ml**
 
 ### INJECTABLES DEALS
-Lucious Lips | $384
+* Lucious Lips | $384
 Lips & Cheeks | $1100
 Anti-wrinkle | 3 Major Areas | $450
 Anti-wrinkle | Full Face | $1600
