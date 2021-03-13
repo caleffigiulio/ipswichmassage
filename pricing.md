@@ -115,8 +115,9 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 - Deep Tissue / Remedial - 120 Minutes - \$165
 - Expert Senior Remedial Massage - 30 Minutes - \$52.50
 - Expert Senior Remedial Massage - 45 Minutes - \$75
-- Expert Senior Remedial Massage - 60 Minutes - \$100
+- Expert Senior Remedial Massage - 60 Minutes - \$95
 - Expert Senior Remedial Massage - 90 Minutes - \$142.50
+- Expert Senior Remedial Massage - 120 Minutes - \$195
 - Hot Stone - 30 Minutes - \$57
 - Hot Stone - 45 Minutes - \$71
 - Hot Stone - 60 Minutes - \$93
@@ -143,6 +144,16 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 - Sports Massage 45 Minutes - \$65
 - Sports Massage 60 Minutes - \$85
 - Sports Massage 90 Minutes - \$125
+
+### Physiotherpay
+
+---
+
+- Physiotherapy - 30 minutes - \$66.30
+- Physiotherapy - 45 Minutes - \$75
+- Physiotherapy - 60 Minutes -\$100
+- Physiotherapy - 90 Minutes -\$150
+- Physiotherapy - 120 Minutes -\$195
 
 ### Massage Packages
 
