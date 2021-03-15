@@ -1,12 +1,12 @@
 ---
-title: Yoga, Pilates, Meditation 2020
+title: Yoga, Pilates, Meditation
 date: 2020-01-02 03:16:00 Z
 permalink: "/yoga-pilates-meditation/"
 position: 16
 layout: therapy
 ---
 
-# YOGA, PILATES AND MEDITATION 2020
+# YOGA, PILATES AND MEDITATION
 
 ![yoga.png](/uploads/yoga.png)
 
@@ -49,7 +49,3 @@ We have easy pram and wheelchair entry however our toilets and change rooms with
 **INTRO OFFER - 28 days unlimited classes** (excludes prenatal): \$49.01
 
 **Unlimited classes monthly**: \$120
-
-**LOG IN TO OUR SITE OR DOWNLOAD MINDBODY APP TO PURCHASE A PASS AND TO SIGN IN TO A CLASS** CALL 32816007 IF YOU NEED ASSISTANCE
-
-![YOGAPHOTO2.jpg](/uploads/YOGAPHOTO2.jpg)
