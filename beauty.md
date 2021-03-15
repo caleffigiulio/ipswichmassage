@@ -5,10 +5,6 @@ position: 2
 layout: therapy
 ---
 
-*We offer state of the art medical grade facials, cosmetic injectables, seasonal inspired body wraps, waxing and tinting. Check out our packages for delicious combinations!*
-
-<a href="/pricing-reference/">Pricing Reference</a>
-
 # COSMETIC INJECTABLES
 
 Restore what sun, stress and ageing have taken away, providing you with natural looking rejuvenated skin. Our initial consultations are just for you, in a relaxed, safe environment where Cosmetics Nurse, Emily will assess your facial structure and discuss the way you want to look and feel. An individualised treatment plan will be provided to you, so you can feel confident about your decision with absolutely no pressure.
