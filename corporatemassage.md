@@ -5,7 +5,12 @@ position: 6
 layout: therapy
 ---
 
-Book a qualified massage therapist for your next event. Or reward and recognise your staff with a regular monthly booking.
+Book one of our qualified massage therapists for your next work event! Or reward and recognise your staff with a regular monthly booking.
+
+> 1 hour - $95.00
+> 2 hours - $185.00
+
+Email enquiry@ipswichmassage.com.au to organise your Corporate Massage!
 
 <a href="/pricing-reference/">Pricing Reference</a>
 
