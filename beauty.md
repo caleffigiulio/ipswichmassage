@@ -18,13 +18,14 @@ Restore what sun, stress and ageing have taken away, providing you with natural 
 **Dermal Fillers from $384 per ml**
 
 ### INJECTABLES DEALS
-**Lucious Lips | $384**
 
-**Lips & Cheeks | $1100**
+**Lucious Lips - $384**
 
-**Anti-wrinkle | 3 Major Areas | $450**
+**Lips & Cheeks - $1100**
 
-**Anti-wrinkle | Full Face | $1600**
+**Anti-wrinkle for 3 Major Areas - $450**
+
+**Anti-wrinkle for Full Face - $1600**
 
 *Due to regulatory requirements we are unable to specify product names and brands but stay assured we stock only Australian certified and high quality cosmeceuticals.*
 
