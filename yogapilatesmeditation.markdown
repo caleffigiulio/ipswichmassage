@@ -6,7 +6,8 @@ position: 16
 layout: therapy
 ---
 
-# YOGA, PILATES AND MEDITATION
+# YOGA, PILATES AND MEDITATION | STUDIO CLOSED UNTIL FURTHER NOTICE
+*All Memberships have been suspended until we have our new instructor.*
 
 ![yoga.png](/uploads/yoga.png)
 
