@@ -7,7 +7,10 @@ layout: therapy
 ---
 
 # YOGA, PILATES AND MEDITATION | STUDIO CLOSED UNTIL FURTHER NOTICE
-*All Memberships have been suspended until we have our new instructor.*
+*All Memberships have been suspended until we have our new instructor.
+Follow our Social Media for latest updates
+www.facebook.com/ipswichmassage 
+instagram - @ipswichmassage*
 
 ![yoga.png](/uploads/yoga.png)
 
