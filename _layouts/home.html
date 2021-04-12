@@ -2,10 +2,15 @@
 layout: default
 ---
 
-{% include home-1.html %}
+{% include hero-banner.html %}
 <div>
-  <div class="bg-white text-center py-4">
-    {{ content }}
-  </div>
+    <div class="bg-white text-center py-4">
+        {{ content }}
+    </div>
 </div>
-{% include home-2.html %} {% include home-4.html %} {% include home-3.html %}
+{% include new-client-CTA.html %}
+<section class="bg-light">
+    {% include box-links.html %}
+</section>
+{% include special-packages.html %}
+<!-- {% include instagram-feed.html %} -->
