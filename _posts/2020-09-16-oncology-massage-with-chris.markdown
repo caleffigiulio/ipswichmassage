@@ -44,5 +44,3 @@ Oncology massage can only be provided by a massage therapist who has received tr
 **Chris is available for Appointments from Monday to Friday 9am-7pm.**
 
 Chris will be happy to answer any concerns or questions regarding Oncology Massage. Just message us at info@ipswichmassage.com.au!
-
-![Oncology Massage.png](/uploads/Oncology%20Massage.png)
