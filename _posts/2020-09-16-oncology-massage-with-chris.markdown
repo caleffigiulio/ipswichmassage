@@ -16,27 +16,44 @@ The changes that might be made to a massage that make it an **Oncology Massage**
 
 **General Benefits of Oncology Massage**
 ● deep relaxation
+
 ● reduced stress
+
 ● improved sleep
+
 ● eased constipation
+
 ● increased alertness and mental clarity
+
 ● reduced anxiety
+
 ● less nausea
+
 ● reduced pain
+
 
 **Following Surgery **
 ● reduced anxiety in advance of surgery
+
 ● easier recovery from anaesthesia
+
 ● reduced post-surgical pain
+
 ● improved mobility and appearance of surgical scars
+
 ● reduced swelling
+
 ● improved range of motion
+
 ● easier adaptation to implants and expanders
 
 **Following Radiation or Chemotherapy**
 ● reduced anxiety in advance of and during treatment
+
 ● reduced post-treatment fatigue
+
 ● improved appetite
+
 ● improved peripheral neuropathy
 
 Oncology massage can only be provided by a massage therapist who has received training in the specifics of cancer and cancer treatment.  This training is more about cancer and less about massage. Chris, our new expert remedial therapist is a certified Oncology Therapist and trained by OML (Oncology Massage Limited) internationally recognized by the Society for Oncology Massage - S4OM. Which exists to support and educate massage therapists, consumers and health professionals about the value and specific considerations and applications of oncology massage. He also holds a Psychology Degree and has 15 years’ experience, 7 of which was spent working within the Brisbane Mater Hospital Oncology and Palliative units. Providing positive effects, from relaxation to scar tissue mobilization such as mastectomy patients to pain reduction, and lymphoedema management.
