@@ -5,6 +5,3 @@ position: 0
 layout: home
 ---
 
-![injectables website.png](/uploads/injectables%20website.png)
-
-[*Click here for more info on Cosmetic Injectables*](https://ipswichmassage.com.au/beauty-therapy/)
