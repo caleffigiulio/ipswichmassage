@@ -7,7 +7,7 @@ layout: therapy
 ---
 
 # YOGA, PILATES AND MEDITATION | STUDIO CLOSED UNTIL FURTHER NOTICE
-*All Memberships have been suspended until we have our new instructor.
+*All Memberships have been suspended/placed on hold until we have our new instructor.
 Follow our Social Media for latest updates
 www.facebook.com/ipswichmassage 
 instagram - @ipswichmassage*
@@ -17,13 +17,6 @@ instagram - @ipswichmassage*
 **LOG IN TO OUR SITE TO PURCHASE A PASS AND TO SIGN IN TO A CLASS**
 
 **[CLICK HERE TO SEE OUR CLASSES AND TIMETABLE](https://ipswichmassage.com.au/timetable/)**
-
-### A LITTLE BIT ABOUT YOUR TEACHER, MIKEALA
-
-“I am so excited to meet you in our new space!
-I am a Yoga Teacher and Pilates instructor with additional training in Pre and Postnatal. I teach a hatha style yoga Focusing on mindfully connecting breath and movement. I am passionate about using yoga and meditation to create healthy minds.
-I also have a love for teaching Post and Prenatal Yoga, to mindfully move the body through your pregnancy and beyond.
-Pilates is such a wonderful complimentary practise to yoga. I found Pilates to build strength and better assist my yoga practise. See you on the mat very soon!”
 
 ### WHERE TO PARK
 
