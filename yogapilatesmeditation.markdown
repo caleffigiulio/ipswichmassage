@@ -6,11 +6,8 @@ position: 16
 layout: therapy
 ---
 
-# YOGA, PILATES AND MEDITATION | STUDIO CLOSED UNTIL FURTHER NOTICE
-*All Memberships have been suspended/placed on hold until we have our new instructor.
-Follow our Social Media for latest updates
-www.facebook.com/ipswichmassage 
-instagram - @ipswichmassage*
+# YOGA, PILATES AND MEDITATION
+*All Memberships were suspended/placed on hold while we found your new instructors. Please contact reception on 3281 6007 to take your account off hold and get back into the studio from Monday 19th April, 2021.
 
 ![yoga.png](/uploads/yoga.png)
 
