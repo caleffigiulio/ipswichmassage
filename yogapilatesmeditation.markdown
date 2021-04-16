@@ -14,7 +14,9 @@ layout: therapy
 Download the MINDBODY app, sign up and search Ipswich Massage to purchase and book in for your Pilates/Yoga classes!
 <iframe id="getOurApp" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID=23881&linkSourceID=10" style="border: none; width: 200px; height: 48px;"></iframe>
 
+<script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
 
+<healcode-widget data-type="staff_lists" data-widget-partner="object" data-widget-id="1f3045448a4" data-widget-version="0" ></healcode-widget>
 
 ### PRICES:
 
@@ -27,10 +29,6 @@ Download the MINDBODY app, sign up and search Ipswich Massage to purchase and bo
 **10 pack of Classes**: \$175.01 (6 months expiry)
 
 **Unlimited Classes Monthly**: \$120
-
-<script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
-
-<healcode-widget data-type="staff_lists" data-widget-partner="object" data-widget-id="1f3045448a4" data-widget-version="0" ></healcode-widget>
 
 ### WHERE TO PARK
 
