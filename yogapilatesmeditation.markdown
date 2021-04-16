@@ -9,7 +9,7 @@ layout: therapy
 ## YOGA & PILATES ARE BACK STARTING MONDAY 19TH APRIL, 2021!
 **[CLICK HERE TO SEE OUR CLASSES AND TIMETABLE](https://ipswichmassage.com.au/timetable/)**
 
-![yoga.png](/uploads/yoga.png)
+![yogastudio.png](/uploads/yogastudio.png)
 
 Download the MINDBODY app, sign up and search Ipswich Massage to purchase and book in for your Pilates/Yoga classes!
 <iframe id="getOurApp" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID=23881&linkSourceID=10" style="border: none; width: 200px; height: 48px;"></iframe>
