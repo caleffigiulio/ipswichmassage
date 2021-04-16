@@ -18,7 +18,7 @@ Download the MINDBODY app, sign up and search Ipswich Massage to purchase and bo
 
 <healcode-widget data-type="staff_lists" data-widget-partner="object" data-widget-id="1f3045448a4" data-widget-version="0" ></healcode-widget>
 
-### PRICES:
+### PRICES: 
 
 **INTRO OFFER - 28 days Unlimited Classes** (excludes prenatal): \$49.01
 
