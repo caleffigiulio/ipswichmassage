@@ -63,6 +63,12 @@ Hot stone massage may help:
 
 During a hot stone massage, heated stones are placed on different areas around your whole body. Your therapist may hold a stone as they massage different parts of your body using Swedish massage techniques using gentle pressure. Sometimes cold stones are also used.
 
+### ONCOLOGY MASSAGE
+
+Oncology Massage is a specialised, gentle, nurturing and effective massage technique adapted to clients unique state of health. Our oncology therapist will pay close attention to physical, emotional and psychological needs of his clients.
+
+People who have cancer should see a qualified oncology massage therapist as they have proper training to assist with the unique requirements that cancer presents.
+
 ### PREGNANCY MASSAGE
 
 Prenatal massage is a safe way for women to get a massage during pregnancy. It can help reduce pregnancy body aches, reduce stress, and ease muscle tension. You can get a massage at any time during your pregnancy; however, if you are in your 1st Tri Semester we will need to book you with our Expert Remedial therapists.
