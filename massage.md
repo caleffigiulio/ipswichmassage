@@ -65,9 +65,17 @@ During a hot stone massage, heated stones are placed on different areas around y
 
 ### ONCOLOGY MASSAGE
 
-Oncology Massage is a specialised, gentle, nurturing and effective massage technique adapted to clients unique state of health. Our oncology therapist will pay close attention to physical, emotional and psychological needs of his clients.
+Oncology Massage is a specialised, gentle, nurturing and effective massage technique adapted to clients unique state of health. Our oncology senior therapist Chris Luckman will pay close attention to physical, emotional and psychological needs of his clients.
 
-People who have cancer should see a qualified oncology massage therapist as they have proper training to assist with the unique requirements that cancer presents.
+Research shows Oncology Massage helps;
+Pain improvement by 47%
+Fatigue improvement by 42%
+Anxiety improvement by 59%
+Nausea improvement by 51%
+Depression improvement by 48%
+Disturbed sleep improvement by 48%
+ 
+Anyone with cancer should see a qualified oncology massage therapist as they have proper training to assist with the unique requirements that cancer presents.
 
 ### PREGNANCY MASSAGE
 
