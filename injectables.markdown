@@ -23,11 +23,14 @@ Anti-wrinkle for Full Face - $1600
 
 **AFTERPAY & ZIPPAY AVAILABLE IN STORE**
 
-*Due to regulatory requirements we are unable to specify product names and brands but stay assured we stock only Australian certified and high quality cosmeceuticals.*
+*Due to regulatory requirements we are unable to specify product names and brands but stay assured we stock only Australian certified and high quality cosmeceuticals. Please call us if you want to discuss our brands*
 
 ### INJECTABLES NURSE
-
 <script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
+
+<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f8436848a4" data-widget-version="0" ></healcode-widget>
+
+
 
 <healcode-widget data-type="staff_lists" data-widget-partner="object" data-widget-id="1f3046848a4" data-widget-version="0" ></healcode-widget>
 
