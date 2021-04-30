@@ -5,4 +5,4 @@ position: 0
 layout: home
 ---
 
-![Add a heading (5)-a3953a.png](/uploads/Add%20a%20heading%20(5)-a3953a.png)
+[![Add a heading (5)-a3953a.png](/uploads/Add%20a%20heading%20(5)-a3953a.png)](https://clients.mindbodyonline.com/classic/ws?studioid=23881&stype=42)
