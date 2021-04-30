@@ -4,8 +4,10 @@ permalink: "/specials/"
 layout: default
 ---
 
-<center> # **MOTHERS DAY BOOKINGS AVAILABLE**
+<center> 
+# **MOTHERS DAY BOOKINGS AVAILABLE**
 Open Sunday 9th of May from 9AM - 3PM
-Or gift her with a [VOUCHER](https://clients.mindbodyonline.com/classic/ws?studioid=23881&stype=42) *3 years expiry </center>
+Or gift her with a [VOUCHER](https://clients.mindbodyonline.com/classic/ws?studioid=23881&stype=42) *3 years expiry 
+</center>
 
 {% include special-packages.html %}
