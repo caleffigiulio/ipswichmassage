@@ -4,8 +4,19 @@ permalink: "/specials/"
 layout: default
 ---
 
-# **MOTHERS DAY BOOKINGS AVAILABLE**
-Open Sunday 9th of May from 9AM - 3PM
-Or gift her with a [VOUCHER](https://clients.mindbodyonline.com/classic/ws?studioid=23881&stype=42) *3 years expiry 
+<div data-fred-widget-reviews></div>
+<script src="https://d1yw3duy3i4qiv.cloudfront.net/js/sdk-v1.js"></script>
+<script>
+    FRED.init({
+      locationId: "81fed43a-3a7a-4e46-8450-c4863243da74",
+      perPage: 5,
+      layout: "list",
+      background: "ffffff",
+      title: "Client Reviews",
+      titleHexColor: "000000",
+      starHexColor: "A9B89B"
+    });
+</script>
+
 
 {% include special-packages.html %}
