@@ -12,6 +12,32 @@ layout: therapy
 <div class='container bg-light my-4 p-4'>
   <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643748a4" data-widget-version="0"></healcode-widget>
 </div>
+## MASSAGE PRICING
+
+_Couples, Deep Tissue/Remedial, Pregnancy, Reflexology & Sports Massage_
+
+- 30 mins - \$52
+- 45 mins - \$65
+- 60 mins - \$85
+- 90 mins - \$125
+- 120 mins - \$165
+
+_Aromatherapy, Hot Stone & Chinese Cupping Massage_
+
+- 30 mins - \$57
+- 45 mins - \$71
+- 60 mins - \$93
+- 90 mins - \$137
+
+_Expert Senior Remedial Massage/Myotherapy_
+
+- 30 mins - \$52.50
+- 45 mins - \$75
+- 60 mins - \$100
+- 90 mins - \$150
+- 120 mins - \$195
+
+--------
 
 ### AROMATHERAPY MASSAGE
 
@@ -122,31 +148,6 @@ The massage therapist will use a combination of:
 • deep circular motions
 
 ---
-
-## MASSAGE PRICING
-
-_Couples, Deep Tissue/Remedial, Pregnancy, Reflexology & Sports Massage_
-
-- 30 mins - \$52
-- 45 mins - \$65
-- 60 mins - \$85
-- 90 mins - \$125
-- 120 mins - \$165
-
-_Aromatherapy, Hot Stone & Chinese Cupping Massage_
-
-- 30 mins - \$57
-- 45 mins - \$71
-- 60 mins - \$93
-- 90 mins - \$137
-
-_Expert Senior Remedial Massage/Myotherapy_
-
-- 30 mins - \$52.50
-- 45 mins - \$75
-- 60 mins - \$100
-- 90 mins - \$150
-- 120 mins - \$195
 
 <div data-fred-widget-reviews></div>
 <script src="https://d1yw3duy3i4qiv.cloudfront.net/js/sdk-v1.js"></script>
