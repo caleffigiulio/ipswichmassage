@@ -9,7 +9,7 @@ layout: home
 
 **Open Mothers Day Sunday 9AM - 3PM!
 
-Book an appointment asap as we have limited spots left.**
+Book in ASAP as we have limited spots left.**
 
 <iframe id="getOurApp" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID=23881&linkSourceID=10" style="border: none; width: 200px; height: 48px;"></iframe>
 
