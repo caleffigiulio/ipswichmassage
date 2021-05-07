@@ -5,7 +5,7 @@ position: 0
 layout: home
 ---
 
-[CLICK TO PURCHASE A GIFT CARD!](https://clients.mindbodyonline.com/classic/ws?studioid=23881&stype=42)
+[CLICK HERE TO PURCHASE A GIFT CARD!](https://clients.mindbodyonline.com/classic/ws?studioid=23881&stype=42)
 
 <iframe id="getOurApp" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID=23881&linkSourceID=10" style="border: none; width: 200px; height: 48px;"></iframe>
 
