@@ -12,6 +12,32 @@ layout: therapy
 <div class='container bg-light my-4 p-4'>
   <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643748a4" data-widget-version="0"></healcode-widget>
 </div>
+## MASSAGE PRICING
+
+_Couples, Deep Tissue/Remedial, Pregnancy, Reflexology & Sports Massage_
+
+- 30 mins - \$52
+- 45 mins - \$65
+- 60 mins - \$85
+- 90 mins - \$125
+- 120 mins - \$165
+
+_Aromatherapy, Hot Stone & Chinese Cupping Massage_
+
+- 30 mins - \$57
+- 45 mins - \$71
+- 60 mins - \$93
+- 90 mins - \$137
+
+_Expert Senior Remedial Massage/Myotherapy_
+
+- 30 mins - \$52.50
+- 45 mins - \$75
+- 60 mins - \$100
+- 90 mins - \$150
+- 120 mins - \$195
+
+--------
 
 ### AROMATHERAPY MASSAGE
 
@@ -63,6 +89,20 @@ Hot stone massage may help:
 
 During a hot stone massage, heated stones are placed on different areas around your whole body. Your therapist may hold a stone as they massage different parts of your body using Swedish massage techniques using gentle pressure. Sometimes cold stones are also used.
 
+### ONCOLOGY MASSAGE
+
+Oncology Massage is a specialised, gentle, nurturing and effective massage technique adapted to clients unique state of health. Our oncology senior therapist Chris Luckman will pay close attention to physical, emotional and psychological needs of his clients.
+
+Research shows Oncology Massage helps;
+Pain improvement by 47%
+Fatigue improvement by 42%
+Anxiety improvement by 59%
+Nausea improvement by 51%
+Depression improvement by 48%
+Disturbed sleep improvement by 48%
+ 
+Anyone with cancer should see a qualified oncology massage therapist as they have proper training to assist with the unique requirements that cancer presents.
+
 ### PREGNANCY MASSAGE
 
 Prenatal massage is a safe way for women to get a massage during pregnancy. It can help reduce pregnancy body aches, reduce stress, and ease muscle tension. You can get a massage at any time during your pregnancy; however, if you are in your 1st Tri Semester we will need to book you with our Expert Remedial therapists.
@@ -108,30 +148,6 @@ The massage therapist will use a combination of:
 • deep circular motions
 
 ---
-
-## MASSAGE PRICING
-
-_Couples, Deep Tissue/Remedial, Pregnancy, Reflexology, Sports & Swedish Massage_
-
-- 30 mins - \$47.00
-- 45 mins - \$60.00
-- 60 mins - \$80.00
-- 90 mins - \$120.00
-- 120 mins - \$160.00
-
-_Aromatherapy, Hot Stone & Chinese Cupping Massage_
-
-- 30 mins - \$52.00
-- 45 mins - \$66.00
-- 60 mins - \$88.00
-- 90 mins - \$132.00
-
-_Expert Senior Remedial Massage/Myotherapy_
-
-- 30 mins - \$47.50
-- 45 mins - \$70.00
-- 60 mins - \$95.00
-- 90 mins - \$142.50
 
 <div data-fred-widget-reviews></div>
 <script src="https://d1yw3duy3i4qiv.cloudfront.net/js/sdk-v1.js"></script>
