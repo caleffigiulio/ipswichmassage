@@ -156,8 +156,9 @@ The massage therapist will use a combination of:
       locationId: "81fed43a-3a7a-4e46-8450-c4863243da74",
       perPage: 5,
       layout: "list",
-      background: "transparent",
+      background: "ffffff",
+      title: "Client Reviews",
       titleHexColor: "000000",
-      starHexColor: "fcc415"
+      starHexColor: "A9B89B"
     });
 </script>
