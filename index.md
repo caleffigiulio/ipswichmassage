@@ -12,3 +12,5 @@ Open Mothers Day Sunday 9AM - 3PM!
 Book an appointment asap as we have limited spots left.
 
 <iframe id="getOurApp" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID=23881&linkSourceID=10" style="border: none; width: 200px; height: 48px;"></iframe>
+
+Use the MINDBODY app to see our therapies, appointment types and availability. Pay online & we'll process your HICAPS rebate on the day of.
