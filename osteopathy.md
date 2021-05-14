@@ -11,9 +11,7 @@ Osteopathy is a form of drug-free non-invasive manual medicine that focuses on t
 
 <a href="/pricing-reference/">Pricing Reference</a>
 
-This is a medicare registered treatment. Please contact us for further details – 3281 6007.
-
-For all bookings regarding EPC plans please call to book in (07) 3281 6007
+This is a medicare registered treatment. For all bookings regarding EPC plans please call (07) 3281 6007 to book in. 
 
 <div class='container bg-light my-4 p-4'>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3644048a4" data-widget-version="0"></healcode-widget>
