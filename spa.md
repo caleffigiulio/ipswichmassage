@@ -5,11 +5,11 @@ position: 13
 layout: therapy
 ---
 
-Take an extra moment for yourself with one of our new mani/pedi FEET PRAY LOVE packages.  
+Take an extra moment for yourself with one of our mani/pedi FEET PRAY LOVE packages.  
 
 ![feet - Copy.png](/uploads/feet%20-%20Copy.png)
 
-**Soul Blissful** (\$93.50) is a **60 min** hand & foot journey including luxurious foot soak, scrub and peppermint foot massage coupled with a silky hand treatment and optional soothing eye mask. Your cuticle and nail care is then followed by a relaxing hand and arm massage!
+**Soul Blissful** (\$93.50) is a **60 min** hand & foot journey including luxurious foot soak, scrub and peppermint foot massage coupled with a silky hand treatment. Your cuticle and nail care is then followed by a relaxing hand and arm massage!
 
 **Soul Mate** (\$60.50) is a **45 min** foot journey includes foot soak, foot and calve sugar scrub and a peppermint foot massage aswell as cuticle and nail care. Enjoy on your own or bring your soul mate and enjoy as a couple.
 
