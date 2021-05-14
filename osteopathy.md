@@ -1,5 +1,5 @@
 ---
-title: Physio & Osteo
+title: Osteopathy
 permalink: "/osteopathy-therapy-information/"
 position: 14
 layout: therapy
@@ -7,11 +7,11 @@ layout: therapy
 
 # Osteopathy
 
-Osteopathy is a form of drug-free non-invasive manual medicine that focuses on total body health by treating and strengthening the musculoskeletal framework, which includes the joints, muscles and spine. Its aim is to positively affect the body’s nervous, circulatory and lymphatic systems.
+Osteopathy is a form of drug-free non-invasive manual medicine that focuses on total body health by treating and strengthening the musculoskeletal framework, which includes the joints, muscles and spine. Think of it as a mix between Physiotherapy and Chiropathy. Its aim is to positively affect the body’s nervous, circulatory and lymphatic systems.
 
-<a href="/pricing-reference/">Pricing Reference</a>
+Our in house Osteo is Dr Paul Gray who practices: Osteopathy, Acupuncture, Naturopathy, and Chinese Herbal Medicine and is covered by all health insurance.
 
-This is a medicare registered treatment. For all bookings regarding EPC plans please call (07) 3281 6007 to book in. 
+This is a medicare registered treatment. For all bookings regarding EPC plans please call reception on (07) 3281 6007 to book in. 
 
 <div class='container bg-light my-4 p-4'>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3644048a4" data-widget-version="0"></healcode-widget>
