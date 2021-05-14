@@ -5,8 +5,6 @@ position: 14
 layout: therapy
 ---
 
-# Osteopathy
-
 Osteopathy is a form of drug-free non-invasive manual medicine that focuses on total body health by treating and strengthening the musculoskeletal framework, which includes the joints, muscles and spine. Think of it as a mix between Physiotherapy and Chiropathy. Its aim is to positively affect the body’s nervous, circulatory and lymphatic systems.
 
 Our in house Osteo is Dr Paul Gray who practices: Osteopathy, Acupuncture, Naturopathy, and Chinese Herbal Medicine and is covered by all health insurance.
