@@ -5,7 +5,9 @@ permalink: "/injectables"
 layout: therapy
 ---
 
-Restore what sun, stress and ageing have taken away, providing you with natural looking rejuvenated skin. Our initial consultations are just for you, in a relaxed, safe environment where Cosmetics Nurse, Emily will assess your facial structure and discuss the way you want to look and feel. An individualised treatment plan will be provided to you, so you can feel confident about your decision with absolutely no pressure.
+Restore what sun, stress and ageing have taken away, providing you with natural looking rejuvenated skin. Reduce lines, wrinkles, add volume, lift, enhance & more with high quality products and professional nurses.
+
+Our initial consultations are just for you, in a relaxed, safe environment where Cosmetics Nurse, Emily will assess your facial structure and discuss the way you want to look and feel. An individualised treatment plan will be provided to you, so you can feel confident about your decision with absolutely no pressure.
 
 **Anti-wrinkle Injections** from $3.99 per unit
 
