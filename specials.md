@@ -4,6 +4,10 @@ permalink: "/specials/"
 layout: default
 ---
 
+![packages.png](/uploads/packages.png)
+
+{% include special-packages.html %}
+
 <div data-fred-widget-reviews></div>
 <script src="https://d1yw3duy3i4qiv.cloudfront.net/js/sdk-v1.js"></script>
 <script>
@@ -17,6 +21,3 @@ layout: default
       starHexColor: "A9B89B"
     });
 </script>
-
-
-{% include special-packages.html %}
