@@ -4,7 +4,7 @@ permalink: "/specials/"
 layout: default
 ---
 
-**MASSAGE PACKAGES**
+## MASSAGE PACKAGES
 Do you require regular massages? Purchase a 3-5 pack and save!
 
 3 x 45min Massage - $170 - save $25
