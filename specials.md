@@ -13,7 +13,7 @@ Do you require regular massages? Purchase a 3-5 pack and save!
 
 3 x 90min Massage - $345 - save $30
 
-3 x 120min Massage - $470 - save $470
+3 x 120min Massage - $470 - save $47
 
 
 
