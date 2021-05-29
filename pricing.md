@@ -17,16 +17,6 @@ layout: pricing
 - Focus DF Treatments - $60
 - Millia / Blackhead Extractions - $38.50
 
-### Waxing Pricing
-
----
-
-
-
-- Lip and Chin Wax - \$24.20
-- Lip or Chin Wax - \$12.10
-- Lip, Chin and Cheeks - \$44
-- Beautiful Eyes Package - \$36.99
 
 ### Body Treatments and Packages
 
@@ -36,6 +26,10 @@ layout: pricing
 - InfraRed Detox Body Wrap - 1 hour - \$34.99
 - Make Me Over Package - 75 mins - \$144.90
 - Mini Me Time Package - 1 hour - \$93
+- Lip and Chin Wax - \$24.20
+- Lip or Chin Wax - \$12.10
+- Lip, Chin and Cheeks - \$44
+- Beautiful Eyes Package - \$36.99
 
 30 mins Relax/Remedial Massage, 30 mins Express Facial.
 - Total Relaxation Package - 2 hours - \$170
