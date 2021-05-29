@@ -62,11 +62,11 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 
 ---
 
-- Initial Consultation - \$100
-- Subsequent Visit - \$90
+- Initial Consultation - \$120
+- Subsequent Visit - \$95
 - Check-Up - \$0
-- DVA initial - \$64.25
-- DVA subsequent - \$64.25
+- DVA initial - \$85
+- DVA subsequent - \$71.30
 
 ### Massage Pricing
 
@@ -123,7 +123,7 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 - Sports Massage 60 Minutes - \$85
 - Sports Massage 90 Minutes - \$125
 
-### Physiotherpay
+### Physiotherapy
 
 ---
 
