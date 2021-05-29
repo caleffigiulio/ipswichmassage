@@ -21,27 +21,11 @@ layout: pricing
 
 ---
 
-- 3/4 Leg Wax - \$44
-- Back Wax - \$50.60
-- Bikini Wax - \$24.20
-- Chest Wax - \$50.60
-- Ear Wax - \$11
-- Eyebrow Sculpt - \$20.35
-- Eyebrow Tinting - \$15.40
-- Eyebrow Wax - \$20.35
-- Eyelash Tinting - \$15.40
-- Full Arm Wax - \$44
-- Full Leg Wax - \$51.70
-- Full Leg Wax Incl Bikini - \$68.20
-- G-String Wax - \$50.60
-- Half Leg Wax - \$38.50
-- Lip and Chin Wax - \$22
+
+
+- Lip and Chin Wax - \$24.20
 - Lip or Chin Wax - \$12.10
-- Shoulder Wax - \$13.20
-- Stomach Line Wax - \$7.70
-- Stomach Wax - \$50.60
-- Toe Wax - \$7.70
-- Underarm Wax - \$24.20
+- Lip, Chin and Cheeks - \$44
 - Beautiful Eyes Package - \$36.99
 
 ### Body Treatments and Packages
