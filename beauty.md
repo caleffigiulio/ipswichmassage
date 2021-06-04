@@ -55,11 +55,16 @@ Acne scarring, fine lines, pigmentation, enlarged pores, scarring, stretch marks
 
 Skin Needling | Full Face | $299
 
+
 Skin Needling | Face, Neck & Décolletage | $550
+
 
 PACKAGES | Full Face x2 | $478.42
 
+
 PACKAGES | Face, Neck & Décolletage | $880.00
+
+
 
 ### Cool Peel Facial Treatments | 60 mins | \$130
 
