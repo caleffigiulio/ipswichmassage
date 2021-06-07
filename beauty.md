@@ -9,7 +9,8 @@ layout: therapy
 
 ![environ wbsite.png](/uploads/environ%20wbsite.png)
 
-### Essential Skin Treatments | 60 mins | \$93
+# Essential Skin Treatments
+## 60 mins | \$93
 
 Match one of our Environ Essential Skin Treatments to your skin type to get the best results possible.
 
