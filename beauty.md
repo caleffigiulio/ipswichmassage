@@ -50,12 +50,11 @@ Uses sonopheresis (low frequency ultra sound) to deeply penetrate high doses of 
 Skin Needling uses a medical grade roller to stimulate the production of your collagen to create smoother, healthier skin. Skin Needling benefits include reducing the appearance of:
 Acne scarring, fine lines, pigmentation, enlarged pores, scarring, stretch marks, skin texture, even skin tone & more
 
-## SKIN NEEDLING PRICES
+
 ### Full Face | $299
 
 ### Face, Neck & Décolletage | $550
 
-## SKIN NEEDLING PACKS
 ### Full Face x2 | $478.42
 
 ### Face, Neck & Décolletage | $880.00
