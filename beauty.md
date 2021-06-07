@@ -7,7 +7,7 @@ layout: therapy
 
 # FACIAL MENU
 
-![environ wbsite.png](/uploads/environ%20wbsite.png)
+![environ.png](/uploads/environ.png)
 
 # Essential Skin Treatments
 ## 60 mins | \$93
