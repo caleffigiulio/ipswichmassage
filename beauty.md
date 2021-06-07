@@ -5,8 +5,6 @@ position: 2
 layout: therapy
 ---
 
-# FACIAL MENU
-
 ![environ.png](/uploads/environ.png)
 
 # Essential Skin Treatments
@@ -20,22 +18,19 @@ Improve the appearance of sensitivity. Ideal for sensitive, irritated skin. A po
 **Moisture Boost Facial**
 Improve the appearance of dehydrated skin. Reduce the appearance of fine lines caused by dehydration and increases the plumpness of the deeper layers of the skin. Hyaluronic Acid is the hero ingredient, promoting a moisturised, glowing-looking skin.
 
-**Radiance/Deep Cleansing Facial**
-Ipswich Massage’s original Environ Facials. Hydrate with our Radiance Facial or if you have congested skin, book our Deep Cleansing Facial. Best facials to book with a friend!
-
-**Radiance Reveal Plus + Facial**
-A targeted solution for sun-damaged or pigmented skin. Boosting the skin with the correct combination of ingredients, results in flawless, radiant-looking skin.
-\*includes alginate masque & electro-sonic df machine
+**Radiance or Deep Cleansing Facial**
+Ipswich Massage’s original Environ Facials. Hydrate with our Radiance Facial or if you have congested skin, book our Deep Cleansing Facial. Our favourite facials to book with a friend!
 
 **Youth Reset Facial**
 Improve the appearance of ageing with Environ’s Youth Reset Facial. Helps soften the appearance of fine lines, sun-damage and sagging skin with our peptide and vitamin packed facial for a more youthful appearance.
 
-### Focus Treatments | 30mins | \$60
+# Focus Treatments
+## 30mins | \$60
 
-Introducing our DF II MACHINE that will take your skincare treatments to the next level. Specific Environ ingredients used such as vitamin A, C and growth factors give enhanced results. The IONZYME DF II MACHINE/focus treatments are totally painless, relaxing, comfortable but extremely effective.
+Take your skincare treatments to the next level with one of our Focus Facials. Specific Environ ingredients used such as vitamin A, C and growth factors give enhanced results especially when directed towards specific areas. Environs DF MACHINE uses small vibrations which are totally painless, relaxing, comfortable but extremely effective.
 _Add on to any facial/treatment or simply book in a Focus Facial!_
 
-![sono-3e1706.png](/uploads/sono-3e1706.png)
+![environ2.png](/uploads/environ2.png)
 
 **Focus on | FROWN**
 Pioneering Electro-Sonic Technology. An iconic peptide blend assists in reducing the appearance of expression and frown lines around the eyes and forehead resulting in a more youthful appearance.
