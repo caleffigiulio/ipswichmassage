@@ -25,7 +25,7 @@ Ipswich Massage’s original Environ Facials. Hydrate with our Radiance Facial o
 Improve the appearance of ageing with Environ’s Youth Reset Facial. Helps soften the appearance of fine lines, sun-damage and sagging skin with our peptide and vitamin packed facial for a more youthful appearance.
 
 # Focus Treatments
-## 30mins | \$60
+## 30 mins | \$60
 
 Take your skincare treatments to the next level with one of our Focus Facials. Specific Environ ingredients used such as vitamin A, C and growth factors give enhanced results especially when directed towards specific areas. Environs DF MACHINE uses small vibrations which are totally painless, relaxing, comfortable but extremely effective.
 _Add on to any facial/treatment or simply book in a Focus Facial!_
