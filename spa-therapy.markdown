@@ -71,8 +71,3 @@ _Book in with one of our receptionists so we can set the wrap up for you!_
 <h2 class='ims-section-title'>Infrared Body Wrap</h2>
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3788248a4" data-widget-version="0"></healcode-widget>
 </div>
-
-<div class='container bg-light my-4 p-4'>
-<h2 class='ims-section-title'>Waxing</h2>
-<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643648a4" data-widget-version="0"></healcode-widget>
-</div>
