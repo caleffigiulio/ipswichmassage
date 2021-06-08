@@ -51,10 +51,13 @@ Skin Needling uses a medical grade roller to stimulate the production of your co
 Acne scarring, fine lines, pigmentation, enlarged pores, scarring, stretch marks, skin texture, even skin tone & more
 
 Full Face - $299
+
 Face, Neck & Decolletage - $550
 
 Full Face x2 - $478.42
+
 Face, Neck & Decolletage - $880.00
+
 
 # Cool Peel Facial Treatments
 ## 60 mins | \$130
