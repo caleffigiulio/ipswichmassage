@@ -6,13 +6,10 @@ position: 16
 layout: therapy
 ---
 
-## YOGA HALL IS CURRENTLY BEING RENOVATED & CLASSES ARE NOT BEING HELD
-Follow our socials for the most current updates
+## OUR YOGA HALL IS CURRENTLY BEING RENOVATED & CLASSES ARE NOT BEING HELD
+Follow our socials for the most current updates and when classes will be returning!
 
 ![yogastudio.png](/uploads/yogastudio.png)
-
-Download the MINDBODY app, sign up and search Ipswich Massage to purchase and book in for your Pilates/Yoga classes!
-<iframe id="getOurApp" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID=23881&linkSourceID=10" style="border: none; width: 200px; height: 48px;"></iframe>
 
 <script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
 
