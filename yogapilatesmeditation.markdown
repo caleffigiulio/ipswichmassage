@@ -6,8 +6,8 @@ position: 16
 layout: therapy
 ---
 
-## CLASSES ARE BACK STARTING MONDAY 19TH APRIL, 2021!
-**[CLICK HERE TO SEE OUR CLASSES AND TIMETABLE](https://ipswichmassage.com.au/timetable/)**
+## YOGA HALL IS CURRENTLY BEING RENOVATED & CLASSES ARE NOT BEING HELD
+Follow our socials for the most current updates
 
 ![yogastudio.png](/uploads/yogastudio.png)
 
