@@ -11,17 +11,14 @@ Our initial consultations are just for you, in a relaxed, safe environment where
 
 ![inject2.png](/uploads/inject2.png)
 
-**AFTERPAY & ZIPPAY AVAILABLE IN STORE**
+**AFTERPAY & ZIPPAY AVAILABLE**
 
 *Due to regulatory requirements we are unable to specify product names and brands but stay assured we stock only Australian certified and high quality cosmeceuticals. Please call us if you want to discuss our brands*
 
-### INJECTABLES NURSE
+
 <script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
 
 <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f8436848a4" data-widget-version="0" ></healcode-widget>
 
 
-
 <healcode-widget data-type="staff_lists" data-widget-partner="object" data-widget-id="1f3046848a4" data-widget-version="0" ></healcode-widget>
-
-<iframe id="getOurApp" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID=23881&linkSourceID=10" style="border: none; width: 200px; height: 48px;"></iframe>
