@@ -7,6 +7,7 @@ layout: home
 
 ![cosmeticinj.png](/uploads/cosmeticinj.png)
 
-Call reception on 3281 6007 to book with our Cosmetic Injectables nurse, Emily. Available every Sunday in spa.
+Call reception on 3281 6007 to book with our Cosmetic Injectables nurse, Emily.
+Available every Sunday in spa.
 
 -------------
