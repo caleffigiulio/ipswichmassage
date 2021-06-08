@@ -62,7 +62,7 @@ Face, Neck & Decolletage - $880.00
 # Cool Peel Facial Treatments
 ## 60 mins | \$130
 
-![facial2.png](/uploads/facial2.png)
+![environ3.png](/uploads/environ3.png)
 
 **Cool Peel | BLEMISH CONTROL**
 This powerful cool peel therapy assists with the management of blemish prone, distressed skin, by purifying, cleansing and assisting to unclog pores and dissolve impurities. Our hero treatment for problematic skin conditions.
