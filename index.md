@@ -5,3 +5,4 @@ position: 0
 layout: home
 ---
 
+![cosmeticinj.png](/uploads/cosmeticinj.png)
