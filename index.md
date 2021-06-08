@@ -7,7 +7,7 @@ layout: home
 
 ![cosmeticinj.png](/uploads/cosmeticinj.png)
 
-Call reception on 3281 6007 to book with our Cosmetic Injectables nurse, Emily.
+Call reception on 3281 6007 to book with our [Cosmetic Injectables](https://ipswichmassage.com.au/injectables) nurse, Emily.
 Available every Sunday in spa.
 
 -------------
