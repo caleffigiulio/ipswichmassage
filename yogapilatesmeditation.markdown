@@ -15,17 +15,7 @@ Follow our socials for the most current updates and when classes will be returni
 
 <healcode-widget data-type="staff_lists" data-widget-partner="object" data-widget-id="1f3045448a4" data-widget-version="0" ></healcode-widget>
 
-### PRICES: 
 
-**INTRO OFFER - 28 days Unlimited Classes** (excludes prenatal): \$49.01
-
-**One off Yoga/Pilates class**: \$22
-
-**05 pack of Classes**: \$95.01 (6 months expiry)
-
-**10 pack of Classes**: \$175.01 (6 months expiry)
-
-**Unlimited Classes Monthly**: \$120
 
 ### WHERE TO PARK
 
