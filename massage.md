@@ -5,9 +5,9 @@ position: 8
 layout: therapy
 ---
 
-**Book one of our qualified massage therapists online.** 
-Online bookings require full payment but we can issue you a health fund invoice to claim back from the day of your appointment.
-Otherwise, book in with us directly and we can match you to a therapist and put through your HICAPS when you come in.
+# Book one of our qualified massage therapists here or through our [app](https://apps.apple.com/us/app/ipswich-massage-herbal-spa/id1573438798).
+
+*HICAPS rebates available from day of appointment.*
 
 <a href="/pricing-reference/">Pricing Reference</a>
 
