@@ -5,9 +5,7 @@ position: 0
 layout: home
 ---
 
-![cosmeticinj.png](/uploads/cosmeticinj.png)
-
-Call reception on 3281 6007 to book with our [Cosmetic Injectables](https://ipswichmassage.com.au/injectables) nurse, Emily.
-Available every Sunday in spa.
+![App website.png](/uploads/App%20website.png)
+Download our new app to see our schedule, appointments, therapists & book in from your phone! Search 'IMHS' in the app store or [click here](https://apps.apple.com/us/app/ipswich-massage-herbal-spa/id1573438798).
 
 -------------
