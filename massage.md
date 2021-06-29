@@ -12,38 +12,52 @@ layout: therapy
 <a href="/pricing-reference/">Pricing Reference</a>
 
 <div class='container bg-light my-4 p-4'>
-  <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643748a4" data-widget-version="0"></healcode-widget>
+<healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="1f3643748a4" data-widget-version="0"></healcode-widget>
 </div>
+
 ## MASSAGE PRICING
 
-_Couples, Deep Tissue/Remedial, Pregnancy, Reflexology & Sports Massage_
+*Couples, Deep Tissue/Remedial, Pregnancy, Reflexology & Sports Massage*
 
-- 30 mins - \$52
-- 45 mins - \$65
-- 60 mins - \$85
-- 90 mins - \$125
-- 120 mins - \$165
+* 30 mins - $52
 
-_Aromatherapy, Hot Stone & Chinese Cupping Massage_
+* 45 mins - $65
 
-- 30 mins - \$57
-- 45 mins - \$71
-- 60 mins - \$93
-- 90 mins - \$137
+* 60 mins - $85
 
-_Expert Senior Remedial Massage/Myotherapy_
+* 90 mins - $125
 
-- 30 mins - \$52.50
-- 45 mins - \$75
-- 60 mins - \$100
-- 90 mins - \$150
-- 120 mins - \$195
+* 120 mins - $165
 
---------
+*Aromatherapy, Hot Stone & Chinese Cupping Massage*
+
+* 30 mins - $57
+
+* 45 mins - $71
+
+* 60 mins - $93
+
+* 90 mins - $137
+
+*Expert Senior Remedial Massage/Myotherapy*
+
+* 30 mins - $52.50
+
+* 45 mins - $75
+
+* 60 mins - $100
+
+* 90 mins - $150
+
+* 120 mins - $195
+
+---
 
 ### AROMATHERAPY MASSAGE
 
 Aromatherapy massages are best for people who want to have an emotional healing component to their massage. This type of massage can help:
+
+
 • boost your mood
 • reduce stress and anxiety
 • reduce symptoms of depression
@@ -58,7 +72,7 @@ During the massage, you’ll be given a full-body massage while inhaling essenti
 
 Cupping therapy is an alternative therapy where suction devices are placed on the skin to disperse and break up stagnation and congestion by drawing congested blood or energy to the surface. People have cupping treatments for many purposes, including to help with pain, inflammation, blood flow, relaxation and well-being, and as a type of deep-tissue massage.
 
-### COUPLES MASSAGE _(RELAXATION/REMEDIAL)_
+### COUPLES MASSAGE *(RELAXATION/REMEDIAL)*
 
 A couple’s massage is a treatment that you can experience with your partner, friend, or family member in the same room. It brings all the benefits of a regular massage and you can add a herbal spa bath, foot massage, body scrub, or facials. Be sure to book and purchase TWO couples massages when booking online.
 
@@ -68,7 +82,7 @@ You and your partner/friends/fam can choose a massage style or treatment each, d
 
 Deep tissue massage uses more pressure than a Swedish massage. It’s a good option if you have chronic muscle problems, such as soreness, injury, or imbalance. It can help relieve tight muscles, chronic muscle pain, and anxiety.
 
-During a deep tissue massage, your massage therapist will use slow strokes and deep finger pressure to relieve tension from the deepest layers of your muscles and connective tissues. While deep tissue may be more intense, you shouldn’t feel any pain or soreness. If you're covered, _health fund rebates_ are available.
+During a deep tissue massage, your massage therapist will use slow strokes and deep finger pressure to relieve tension from the deepest layers of your muscles and connective tissues. While deep tissue may be more intense, you shouldn’t feel any pain or soreness. If you're covered, *health fund rebates* are available.
 
 60 – 90 mins is recommended to gain the most benefits out of your Remedial Massage.
 
@@ -102,7 +116,7 @@ Anxiety improvement by 59%
 Nausea improvement by 51%
 Depression improvement by 48%
 Disturbed sleep improvement by 48%
- 
+
 Anyone with cancer should see a qualified oncology massage therapist as they have proper training to assist with the unique requirements that cancer presents.
 
 ### PREGNANCY MASSAGE
@@ -154,13 +168,13 @@ The massage therapist will use a combination of:
 <div data-fred-widget-reviews></div>
 <script src="https://d1yw3duy3i4qiv.cloudfront.net/js/sdk-v1.js"></script>
 <script>
-    FRED.init({
-      locationId: "81fed43a-3a7a-4e46-8450-c4863243da74",
-      perPage: 5,
-      layout: "list",
-      background: "ffffff",
-      title: "Client Reviews",
-      titleHexColor: "000000",
-      starHexColor: "A9B89B"
-    });
+FRED.init({
+locationId: "81fed43a-3a7a-4e46-8450-c4863243da74",
+perPage: 5,
+layout: "list",
+background: "ffffff",
+title: "Client Reviews",
+titleHexColor: "000000",
+starHexColor: "A9B89B"
+});
 </script>
