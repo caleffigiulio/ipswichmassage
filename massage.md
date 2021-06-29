@@ -5,9 +5,9 @@ position: 8
 layout: therapy
 ---
 
-# Book one of our qualified massage therapists here or through our [app](https://apps.apple.com/us/app/ipswich-massage-herbal-spa/id1573438798).
+## Book one of our qualified massage therapists here or through our [app](https://apps.apple.com/us/app/ipswich-massage-herbal-spa/id1573438798).
 
-*HICAPS rebates available from day of appointment.*
+HICAPS rebates available from day of appointment.
 
 <a href="/pricing-reference/">Pricing Reference</a>
 
