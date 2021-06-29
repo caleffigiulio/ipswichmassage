@@ -5,7 +5,9 @@ position: 8
 layout: therapy
 ---
 
-**Book one of our qualified massage therapists online.** Choose from Remedial, Sports, Deep Tissue, Relaxation, Aromatherapy, Hot-Stone, Pregnancy, Lymphatic or Couples Massage! Private Health Fund Rebates are available with most therapists, please contact **3281 6007** for more information. Online bookings require full payments but we can issue you a health fund invoice to claim back when you come in for your appointment. Otherwise, book in with us directly and we can match you to a therapist and put through your HICAPS when you come in.
+**Book one of our qualified massage therapists online.** 
+Online bookings require full payment but we can issue you a health fund invoice to claim back from the day of your appointment.
+Otherwise, book in with us directly and we can match you to a therapist and put through your HICAPS when you come in.
 
 <a href="/pricing-reference/">Pricing Reference</a>
 
