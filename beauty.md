@@ -47,6 +47,8 @@ Uses sonopheresis (low frequency ultra sound) to deeply penetrate high doses of 
 # Skin Needling
 ## 60-90 mins | $299+
 
+![dermpen.png](/uploads/dermpen.png)
+
 Skin Needling uses a medical grade roller to stimulate the production of your collagen to create smoother, healthier skin. Skin Needling benefits include reducing the appearance of:
 Acne scarring, fine lines, pigmentation, enlarged pores, scarring, stretch marks, skin texture, even skin tone & more
 
