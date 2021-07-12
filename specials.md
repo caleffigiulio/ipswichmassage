@@ -4,11 +4,6 @@ permalink: "/specials/"
 layout: default
 ---
 
-![Copy of relaxation (4).png](/uploads/Copy%20of%20relaxation%20(4).png)
-
-![Copy of Copy of Copy of skin needling (1).png](/uploads/Copy%20of%20Copy%20of%20Copy%20of%20skin%20needling%20(1).png)
-
-![Gourmet Raspberry Pie Sale Poster .png](/uploads/Gourmet%20Raspberry%20Pie%20Sale%20Poster%20.png)
 
 {% include special-packages.html %}
 
