@@ -1,7 +1,7 @@
 ---
 title: SPECIALS/PACKAGES
 permalink: "/specials/"
-layout: default
+layout: pricing
 ---
 
 
