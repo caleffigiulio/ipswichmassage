@@ -4,29 +4,9 @@ permalink: "/specials/"
 layout: default
 ---
 
-# MASSAGE PACKAGES
-Do you require regular massages? Purchase a 3-5 pack and save!
+![Copy of relaxation (4).png](/uploads/Copy%20of%20relaxation%20(4).png)
 
-3 x 45min Massage - $170 - save $25
-
-3 x 60min Massage - $225 - save $30
-
-3 x 90min Massage - $345 - save $30
-
-3 x 120min Massage - $470 - save $47
-
-
-
-5 x 45min Massage - $267.50 - save $25
-
-5 x 60min Massage - $365 - save $60
-
-5 x 90min Massage - $555 - save $70
-
-5 x 120min Massage - $767.50 - save $57.50
-
-[Click here to purchase one of our Massage Packages](https://clients.mindbodyonline.com/classic/ws?studioid=23881&stype=40)
-
+![Copy of Copy of Copy of skin needling (1).png](/uploads/Copy%20of%20Copy%20of%20Copy%20of%20skin%20needling%20(1).png)
 
 {% include special-packages.html %}
 
