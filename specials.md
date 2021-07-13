@@ -4,7 +4,6 @@ permalink: "/specials/"
 layout: pricing
 ---
 
-
 {% include special-packages.html %}
 
 <div data-fred-widget-reviews></div>
