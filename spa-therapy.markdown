@@ -28,6 +28,9 @@ Sugar Exfoliation | Hydration Wrap | Head and Foot Treatment | Full Body Oil Mas
 **Total Relaxation Package 2hrs $170**
 One hour Full Body Oil Massage plus a one hour Radiance Facial
 
+**The Boss Man Package 2hrs $170**
+Treat him to a 50min Full Body Oil Massage, 60min Power Peel Facial & 10min Foot and Hand Scrub/Detailing
+
 **Mini Me Time Package 1hr $93**
 30min Relaxation Massage plus a 30min Express Facial
 
