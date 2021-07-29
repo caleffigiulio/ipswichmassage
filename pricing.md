@@ -83,7 +83,7 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 - Chinese Cupping 90 mins - \$125
 - Couples Massage - 30 Minutes (2 People) - \$104
 - Couples Massage - 45 Minutes (2 People) - \$130
-- Couples Massage - 60 Minutes (2 People) - \$180
+- Couples Massage - 60 Minutes (2 People) - \$170
 - Couples Massage - 90 Minutes (2 People) - \$250
 - Couples Massage - 120 Minutes (2 People) - \$330
 - Deep Tissue / Remedial - 30 Minutes - \$52
