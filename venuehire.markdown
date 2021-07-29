@@ -8,6 +8,12 @@ layout: therapy
 
 OUR  HALL IS NEWLY BEING RENOVATED!
 Follow our socials for the most current updates
+Hall Hire available 7 Days a week!
+
+
+Call or email to find out more,
+(07) 3281 6007
+enquiry@ipswichmassage.com.au
 
 
 
