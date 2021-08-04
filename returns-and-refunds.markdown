@@ -1,5 +1,5 @@
 ---
-title: Returns & Refunds
+title: Returns & Refunds Policy
 date: 2021-08-04 00:40:00 Z
 ---
 
