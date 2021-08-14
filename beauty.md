@@ -75,7 +75,7 @@ Face, Neck & Decolletage - $550
 
 Full Face x2 - $478.42
 
-Face, Neck & Decolletage - $880.00
+Face, Neck & Decolletage x2 - $880.00
 
 
 # Cool Peel Facial Treatments
