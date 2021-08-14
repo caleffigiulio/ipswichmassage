@@ -1,5 +1,5 @@
 ---
-title: Beauty Therapy
+title: Cosmetic Skin Therapy
 permalink: "/Beauty-therapy/"
 position: 2
 layout: therapy
