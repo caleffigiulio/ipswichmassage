@@ -6,19 +6,19 @@ DERMAPEN SKIN NEEDLING: "Erase your skin’s past with our most popular anti-age
   treatment. Dermapen uses advanced skin needling technology to stimulate the production
   of collagen, creating smoother, healthier skin. It reduces acne scarring, stretch
   marks, fine lines, pigmentation, enlarged pores, blackheads and scarring with less
-  down time and better results than ever before.  \n\nWhat is Dermapen Skin Needling?\nDermapen
+  down time and better results than ever before.  \n\n**What is Dermapen Skin Needling?**\nDermapen
   is our No.1 Anti-Ageing treatment and uses advanced skin needling technology, to
   stimulate collagen production and skin cell renewal – resulting in smoother and
-  more youthful looking skin.\n\nHow does Dermapen Work?\nDermapen provides incredible
+  more youthful looking skin.\n\n**How does Dermapen Work?**\nDermapen provides incredible
   anti-ageing, scarring and skin rejuvenation results due to its patented micro needling
   technology.\n\nThe Dermapen is a small, pen-like device containing many tiny needles.
   They vibrate and penetrate the skin at extremely high speed, creating 1296 tiny
   micro channels in the skin every second. By creating these micro-injuries, the skin’s
   natural healing process is activated, stimulating new collagen and elastin production.
-  \n\nDermapen is Ideal for\nThe result is a skin resurfacing effect which also improves
-  many skin conditions such as:\n\nredness from rosacea and acne scarring, \npigmentation,
-  \nrough skin texture,\nuneven skin tone,\nenlarged pores,\nfine lines and wrinkles,\nloss
-  of elasticity\nPigmentation\nSunspots"
+  \n\n**Dermapen is Ideal for**\nThe result is a skin resurfacing effect which also
+  improves many skin conditions such as:\n\nredness from rosacea and acne scarring,
+  \npigmentation, \nrough skin texture,\nuneven skin tone,\nenlarged pores,\nfine
+  lines and wrinkles,\nloss of elasticity\nPigmentation\nSunspots"
 layout: therapy
 ---
 
