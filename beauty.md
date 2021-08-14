@@ -44,13 +44,24 @@ A focused treatment to improve the appearance of fine lines and wrinkles using E
 **Focus on | TEXTURE**
 Uses sonopheresis (low frequency ultra sound) to deeply penetrate high doses of vitamins and peptides to smooth skin texture.
 
-# Skin Needling
+# Dermapen Skin Needling
 ## 60-90 mins | $299+
 
 ![dermpen.png](/uploads/dermpen.png)
 
 Skin Needling uses a medical grade roller to stimulate the production of your collagen to create smoother, healthier skin. Skin Needling benefits include reducing the appearance of:
-Acne scarring, fine lines, pigmentation, enlarged pores, scarring, stretch marks, skin texture, even skin tone & more
+Acne scarring, fine lines, pigmentation, enlarged pores, scarring, stretch marks, skin texture, even skin tone & more. Dermapen is Ideal for
+The result is a skin resurfacing effect which also improves many skin conditions such as:
+
+redness from rosacea and acne scarring, 
+pigmentation, 
+rough skin texture,
+uneven skin tone,
+enlarged pores,
+fine lines and wrinkles,
+loss of elasticity
+Pigmentation
+Sunspots
 
 Full Face - $299
 
