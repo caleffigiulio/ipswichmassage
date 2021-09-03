@@ -18,7 +18,10 @@ DERMAPEN SKIN NEEDLING: "Erase your skin’s past with our most popular anti-age
   \n\n**Dermapen is Ideal for**\nThe result is a skin resurfacing effect which also
   improves many skin conditions such as:\n\nredness from rosacea and acne scarring,
   \npigmentation, \nrough skin texture,\nuneven skin tone,\nenlarged pores,\nfine
-  lines and wrinkles,\nloss of elasticity\nPigmentation\nSunspots"
+  lines and wrinkles,\nloss of elasticity\nPigmentation\nSunspots\n\n\n# Dermapen
+  Skin Needling\n## 60-90 mins | $299+\n\n![dermpen.png](/uploads/dermpen.png)\n \nFull
+  Face - $299\n\nFace, Neck & Decolletage - $550\n\nFull Face x2 - $478.42\n\nFace,
+  Neck & Decolletage x2 - $880.00\n"
 layout: therapy
 ---
 
@@ -61,21 +64,6 @@ A focused treatment to improve the appearance of fine lines and wrinkles using E
 **Focus on | TEXTURE**
 Uses sonopheresis (low frequency ultra sound) to deeply penetrate high doses of vitamins and peptides to smooth skin texture.
 
-# Dermapen Skin Needling
-## 60-90 mins | $299+
-
-![dermpen.png](/uploads/dermpen.png)
-
-Skin Needling uses a medical grade roller to stimulate the production of your collagen to create smoother, healthier skin. Skin Needling benefits include reducing the appearance of:
-Acne scarring, fine lines, pigmentation, enlarged pores, scarring, stretch marks, skin texture, even skin tone & more.
-
-Full Face - $299
-
-Face, Neck & Decolletage - $550
-
-Full Face x2 - $478.42
-
-Face, Neck & Decolletage x2 - $880.00
 
 
 # Cool Peel Facial Treatments
