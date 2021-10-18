@@ -21,6 +21,7 @@ layout: pricing
 ### Body Treatments and Packages
 
 ---
+NEW Summer Holiday Package 2hrs $200
 
 - Environ Hand & Foot Treatment - \$38.50
 - InfraRed Detox Body Wrap - 1 hour - \$34.99
