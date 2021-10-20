@@ -5,6 +5,8 @@ permalink: "/spa-therapy/"
 layout: therapy
 ---
 
+*Can not use a healthfund with these treatments*
+
 # Seasonal Body Wrap
 
 Our body wraps are a true spa experience. First is exfoliatation; clearing impurities, and cleaning the skin. Then to rehydrate and add moisture back in with one of our signature seasonal body wraps. Not to mention a cheeky head/neck massage to help you melt the worries away!
@@ -21,6 +23,7 @@ Grapefruit Exfoliation | Aloe Vera Body Wrap | Coconut Oil Head and Neck Massage
 Sweet Mango Exfoliation | Passionfruit & Mango Body Custard Wrap | Coconut Oil Head and Neck Massage
 
 # Body Treatments & Packages
+
 
 **Ultimate Unwind Package 3hrs $334**
 Sugar Exfoliation | Hydration Wrap | Head and Foot Treatment | Full Body Oil Massage | Radiance Facial
