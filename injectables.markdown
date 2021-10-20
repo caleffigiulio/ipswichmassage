@@ -1,5 +1,5 @@
 ---
-title: Cosmetic Injectables
+title: Cosmetic Injectables & Tattooing
 date: 2021-04-19 23:41:00 Z
 permalink: "/injectables"
 layout: therapy
