@@ -43,7 +43,7 @@ HICAPS rebates available from day of appointment.
 
 * 45 mins - $75
 
-* 60 mins - $100
+* 60 mins - $95
 
 * 90 mins - $150
 
