@@ -9,11 +9,11 @@ layout: default
 
 Opening Hours
 Sunday 7:30 - 3:00pm
-Monday 8:00 - 7:00pm
-Tuesday 8:00 - 7:00pm
+Monday 8:00 - 6:00pm
+Tuesday 8:00 - 6:00pm
 Wednesday 8:00 - 7:00pm
 Thursday 8:00 - 7:00pm
-Friday 8:00 - 7:00 pm
+Friday 8:00 - 6:00 pm
 Saturday 7:30 - 5:00pm
 
 <!-- Messenger Chat plugin Code -->
