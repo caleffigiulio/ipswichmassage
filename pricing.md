@@ -102,7 +102,7 @@ Sweet mango exfoliation | Lychee body custard wrap |Coconut oil head and neck ma
 - Hot Stone - 60 Minutes - \$93
 - Hot Stone - 90 Minutes - \$137
 - Indian Head Massage 45 minutes - \$60
-- Indian Head Massage add on - \$15
+- Indian Head Massage add on - \$20
 - Lymphatic Drainage - 30 Minutes - \$52
 - Lymphatic Drainage - 45 Minutes - \$65
 - Lymphatic Drainage - 60 Minutes - \$85
