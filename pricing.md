@@ -9,11 +9,12 @@ layout: pricing
 
 ---
 
-- Express Facial - 30 mins - $49- Radiance Facial - 1 hour - $93
-- Deep Cleansing Facial - 1 hour - $93
-- Advanced Super Facial - 1 hour - $155
-- Cool Peel - $130
-- Focus DF Treatments - $60
+- Express Facial - 30 mins - $49
+- Radiance Facial - 1 hour - $100
+- Deep Cleansing Facial - 1 hour - $100
+- Advanced Super Facial - 1 hour - $200
+- Cool Peel - $135
+- Focus DF Treatments - $66
 - Millia / Blackhead Extractions - $38.50
 
 
