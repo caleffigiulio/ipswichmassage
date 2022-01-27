@@ -28,7 +28,7 @@ layout: therapy
 ![environ.png](/uploads/environ.png)
 
 # Essential Skin Treatments
-## 60 mins | \$93
+## 60 mins | \$100
 
 Match one of our Environ Essential Skin Treatments to your skin type to get the best results possible.
 
@@ -45,7 +45,7 @@ Ipswich Massage’s original Environ Facials. Hydrate with our Radiance Facial o
 Improve the appearance of ageing with Environ’s Youth Reset Facial. Helps soften the appearance of fine lines, sun-damage and sagging skin with our peptide and vitamin packed facial for a more youthful appearance.
 
 # Focus Treatments
-## 30 mins | \$60
+## 30 mins | \$66
 
 Take your skincare treatments to the next level with one of our Focus Facials. Specific Environ ingredients used such as vitamin A, C and growth factors give enhanced results especially when directed towards specific areas. Environs DF MACHINE uses small vibrations which are totally painless, relaxing, comfortable but extremely effective.
 _Add on to any facial/treatment or simply book in a Focus Facial!_
@@ -67,7 +67,7 @@ Uses sonopheresis (low frequency ultra sound) to deeply penetrate high doses of 
 
 
 # Cool Peel Facial Treatments
-## 60 mins | \$130
+## 60 mins | \$135-$165
 
 ![environ3.png](/uploads/environ3.png)
 
