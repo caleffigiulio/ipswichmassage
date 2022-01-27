@@ -9,7 +9,7 @@ layout: pricing
 
 ---
 
-- Express Facial - 30 mins - $49
+- Express Facial - 30 mins - $55
 - Radiance Facial - 1 hour - $100
 - Deep Cleansing Facial - 1 hour - $100
 - Advanced Super Facial - 1 hour - $200
