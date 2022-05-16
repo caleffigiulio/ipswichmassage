@@ -5,8 +5,6 @@ position: 0
 layout: home
 ---
 
-We're now accepting ‘Great Queensland Getaway’ vouchers! Call 3281 6007 to book in your spa experience and claim up to $100 off.
-
 ![34FA914F-278E-4E4B-BA53-96DC96C8FE24.png](/uploads/34FA914F-278E-4E4B-BA53-96DC96C8FE24.png)
 
 Download the IMHS app to see our appointments, therapists, schedule & book from your phone!
