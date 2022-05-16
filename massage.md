@@ -17,38 +17,23 @@ HICAPS rebates available from day of appointment.
 
 *Couples, Deep Tissue/Remedial, Pregnancy, Reflexology & Sports Massage*
 
-* 30 mins - $52
+- 30 mins - \$57
+- 60 mins - \$90
+- 90 mins - \$130
+- 120 mins - \$170
 
-* 45 mins - $65
+_Aromatherapy, Hot Stone & Chinese Cupping Massage_
 
-* 60 mins - $85
+- 30 mins - \$60
+- 60 mins - \$98
+- 90 mins - \$142
 
-* 90 mins - $125
+_Expert Senior Remedial Massage/Myotherapy_
 
-* 120 mins - $165
-
-*Aromatherapy, Hot Stone & Chinese Cupping Massage*
-
-* 30 mins - $57
-
-* 45 mins - $71
-
-* 60 mins - $93
-
-* 90 mins - $137
-
-*Expert Senior Remedial Massage/Myotherapy*
-
-* 30 mins - $52.50
-
-* 45 mins - $75
-
-* 60 mins - $95
-
-* 90 mins - $150
-
-* 120 mins - $195
-
+- 30 mins - \$60
+- 60 mins - \$100
+- 90 mins - \$155
+- 120 mins - \$200
 ---
 
 ### AROMATHERAPY MASSAGE
