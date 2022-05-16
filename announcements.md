@@ -16,26 +16,23 @@ layout: therapy
 
 _Couples, Deep Tissue/Remedial, Pregnancy, Reflexology & Sports Massage_
 
-- 30 mins - \$52
-- 45 mins - \$65
-- 60 mins - \$85
-- 90 mins - \$125
-- 120 mins - \$165
+- 30 mins - \$57
+- 60 mins - \$90
+- 90 mins - \$130
+- 120 mins - \$170
 
 _Aromatherapy, Hot Stone & Chinese Cupping Massage_
 
-- 30 mins - \$57
-- 45 mins - \$71
-- 60 mins - \$93
-- 90 mins - \$137
+- 30 mins - \$60
+- 60 mins - \$98
+- 90 mins - \$142
 
 _Expert Senior Remedial Massage/Myotherapy_
 
-- 30 mins - \$52.50
-- 45 mins - \$75
+- 30 mins - \$60
 - 60 mins - \$100
-- 90 mins - \$150
-- 120 mins - \$195
+- 90 mins - \$155
+- 120 mins - \$200
 
 --------
 
